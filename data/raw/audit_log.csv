@@ -1,0 +1,1551 @@
+Incident,DateTime,Technician,Action,Detail,TicketCategory,Source
+#240119,2026-01-22 08:08,Tech 02,State Assigned -> Responded,,Printing,Audit export
+#240122,2026-01-22 08:52,Tech 04,Comment added,Reassigned with troubleshooting notes attached.,Password maintenance,Audit export
+#240155,2026-01-22 08:56,Tech 10,Comment added,Called the user and walked through the reset steps.,Canvas,Audit export
+#240122,2026-01-22 08:57,Tech 04,Assignee -1 -> Academic Solutions,,Password maintenance,Audit export
+#240155,2026-01-22 09:01,Tech 10,Assignee -1 -> Academic Solutions,,Canvas,Audit export
+#240123,2026-01-22 10:12,Tech 04,Comment added,Left a voicemail and sent an email with next steps.,Wi-Fi,Audit export
+#240123,2026-01-22 10:15,Tech 04,Assignee -1 -> Asset Management,,Wi-Fi,Audit export
+#240119,2026-01-22 10:23,Tech 04,Comment added,ok,Printing,Audit export
+#240119,2026-01-22 10:29,Tech 04,Assignee -1 -> Service Desk,,Printing,Audit export
+#240130,2026-01-22 10:41,Tech 04,Comment added,Reassigned with troubleshooting notes attached.,Email,Audit export
+#240127,2026-01-22 10:43,Tech 04,Assignee -1 -> Academic Solutions,,Wi-Fi,Audit export
+#240130,2026-01-22 10:46,Tech 04,State Assigned -> Resolved,,Email,Audit export
+#240130,2026-01-22 10:50,Tech 04,Resolution code set,,Email,Audit export
+#240134,2026-01-22 11:34,Tech 04,Comment added,Checked the device in AD; account is active.,Wi-Fi,Audit export
+#240134,2026-01-22 11:39,Tech 04,Assignee -1 -> Technical Support,,Wi-Fi,Audit export
+#240157,2026-01-22 11:41,Tech 10,State Assigned -> Responded,,Wi-Fi,Audit export
+#240157,2026-01-22 11:47,Tech 10,Comment added,ok,Wi-Fi,Audit export
+#240137,2026-01-22 11:50,Tech 04,Comment added,Following up: waiting on the user to test again.,Hardware,Audit export
+#240157,2026-01-22 11:50,Tech 10,Assignee -1 -> Enterprise Solutions,,Wi-Fi,Audit export
+#240137,2026-01-22 11:53,Tech 04,Assignee -1 -> Classroom Media Services,,Hardware,Audit export
+#240102,2026-01-22 12:02,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Email,Audit export
+#240103,2026-01-22 12:34,Tech 02,State Assigned -> Responded,,Email,Audit export
+#240103,2026-01-22 12:39,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Email,Audit export
+#240103,2026-01-22 12:43,Tech 02,State Responded -> Waiting on User,,Email,Audit export
+#240144,2026-01-22 12:43,Tech 07,Assignee -1 -> Asset Management,,Canvas,Audit export
+#240102,2026-01-22 12:54,Tech 02,Comment added,Checked the device in AD; account is active.,Email,Audit export
+#240102,2026-01-22 12:57,Tech 02,State Responded -> Waiting on User,,Email,Audit export
+#240107,2026-01-22 13:05,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Printing,Audit export
+#240107,2026-01-22 13:11,Tech 02,State Assigned -> Resolved,,Printing,Audit export
+#240107,2026-01-22 13:17,Tech 02,Resolution code set,,Printing,Audit export
+#240103,2026-01-22 13:34,Tech 02,State Assigned -> Resolved,,Email,Audit export
+#240103,2026-01-22 13:35,Tech 02,Resolution code set,,Email,Audit export
+#240149,2026-01-22 13:50,Tech 07,Comment added,Called the user and walked through the reset steps.,Classroom AV,Audit export
+#240149,2026-01-22 13:53,Tech 07,Comment edited,,Classroom AV,Audit export
+#240149,2026-01-22 13:57,Tech 07,Assignee -1 -> Technical Support,,Classroom AV,Audit export
+#240108,2026-01-22 14:11,Tech 02,Subcategory changed,,Password maintenance,Audit export
+#240108,2026-01-22 14:13,Tech 02,Comment added,Called the user and walked through the reset steps.,Password maintenance,Audit export
+#240108,2026-01-22 14:14,Tech 02,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240159,2026-01-22 14:14,Tech 11,Assignee -1 -> Asset Management,,Software,Audit export
+#240104,2026-01-22 14:34,Tech 02,State Assigned -> Resolved,,Password maintenance,Audit export
+#240104,2026-01-22 14:38,Tech 02,Resolution code set,,Password maintenance,Audit export
+#240152,2026-01-22 15:08,Tech 07,State Assigned -> Resolved,,Canvas,Audit export
+#240113,2026-01-22 15:10,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240152,2026-01-22 15:11,Tech 07,Resolution code set,,Canvas,Audit export
+#240113,2026-01-22 15:12,Tech 02,State Assigned -> Resolved,,Password maintenance,Audit export
+#240113,2026-01-22 15:16,Tech 02,Resolution code set,,Password maintenance,Audit export
+#240161,2026-01-22 15:29,Tech 11,Assignee -1 -> Network Services,,Classroom AV,Audit export
+#240110,2026-01-22 15:31,Tech 02,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240116,2026-01-22 15:37,Tech 02,Assignee -1 -> Service Desk,,Wi-Fi,Audit export
+#240154,2026-01-22 15:59,Tech 07,Assignee -1 -> Network Services,,Printing,Audit export
+#240118,2026-01-22 16:38,Tech 02,State Assigned -> Resolved,,Software,Audit export
+#240118,2026-01-22 16:39,Tech 02,Resolution code set,,Software,Audit export
+#240165,2026-01-22 17:37,Tech 13,Comment added,Reassigned with troubleshooting notes attached.,Software,Audit export
+#240165,2026-01-22 17:38,Tech 13,Assignee -1 -> Network Services,,Software,Audit export
+#240168,2026-01-22 18:04,Tech 13,Comment added,Checked the device in AD; account is active.,Wi-Fi,Audit export
+#240168,2026-01-22 18:07,Tech 13,Assignee -1 -> Enterprise Solutions,,Wi-Fi,Audit export
+#240102,2026-01-22 20:15,Tech 02,Comment added,Asked the user for a screenshot of the error.,Email,Audit export
+#240102,2026-01-22 20:18,Tech 02,State Assigned -> Resolved,,Email,Audit export
+#240102,2026-01-22 20:24,Tech 02,Resolution code set,,Email,Audit export
+#240138,2026-01-22 21:02,Tech 05,State Assigned -> Responded,,Hardware,Audit export
+#240138,2026-01-22 21:08,Tech 05,Comment added,Asked the user for a screenshot of the error.,Hardware,Audit export
+#240138,2026-01-22 21:11,Tech 05,Comment edited,,Hardware,Audit export
+#240138,2026-01-22 21:12,Tech 05,Assignee -1 -> Network Services,,Hardware,Audit export
+#240171,2026-01-22 21:21,Tech 13,Comment added,Following up: waiting on the user to test again.,Printing,Audit export
+#240148,2026-01-22 22:19,Tech 07,Comment added,Confirmed the issue is resolved with the user.,Hardware,Audit export
+#240148,2026-01-22 22:21,Tech 07,Comment edited,,Hardware,Audit export
+#240142,2026-01-22 22:29,Tech 05,Comment added,Left a voicemail and sent an email with next steps.,Wi-Fi,Audit export
+#240112,2026-01-22 22:39,Tech 05,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240142,2026-01-22 22:45,Tech 05,Comment added,Asked the user for a screenshot of the error.,Wi-Fi,Audit export
+#240142,2026-01-22 22:50,Tech 05,Assignee -1 -> Service Desk,,Wi-Fi,Audit export
+#240177,2026-01-23 08:12,Tech 03,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240177,2026-01-23 08:17,Tech 03,Assignee -1 -> Academic Solutions,,Password maintenance,Audit export
+#240180,2026-01-23 08:45,Tech 03,Assignee -1 -> Technical Support,,Password maintenance,Audit export
+#240226,2026-01-23 08:48,Tech 11,Comment added,Checked the device in AD; account is active.,Classroom AV,Audit export
+#240226,2026-01-23 08:51,Tech 11,State Responded -> Waiting on User,,Classroom AV,Audit export
+#240173,2026-01-23 08:58,Tech 03,State Assigned -> Responded,,Password maintenance,Audit export
+#240173,2026-01-23 09:03,Tech 03,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#240182,2026-01-23 09:20,Tech 03,State Assigned -> Resolved,,Printing,Audit export
+#240182,2026-01-23 09:25,Tech 03,Resolution code set,,Printing,Audit export
+#240184,2026-01-23 09:34,Tech 03,Comment added,Following up: waiting on the user to test again.,Canvas,Audit export
+#240184,2026-01-23 09:35,Tech 03,Assignee -1 -> Classroom Media Services,,Canvas,Audit export
+#240171,2026-01-23 10:12,Tech 03,Assignee -1 -> Front Desk Queue,,Printing,Audit export
+#240193,2026-01-23 10:36,Tech 03,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#240193,2026-01-23 10:38,Tech 03,Assignee -1 -> Academic Solutions,,Password maintenance,Audit export
+#240187,2026-01-23 10:40,Tech 03,Comment added,Following up: waiting on the user to test again.,Wi-Fi,Audit export
+#240191,2026-01-23 10:41,Tech 03,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#240187,2026-01-23 10:44,Tech 03,Assignee -1 -> Front Desk Queue,,Wi-Fi,Audit export
+#240191,2026-01-23 10:46,Tech 03,Comment edited,,Password maintenance,Audit export
+#240191,2026-01-23 10:50,Tech 03,Assignee -1 -> Asset Management,,Password maintenance,Audit export
+#240130,2026-01-23 10:56,Tech 04,State Resolved -> Reopened by Client,,Email,Audit export
+#240197,2026-01-23 11:01,Tech 03,Assignee -1 -> Academic Solutions,,Password maintenance,Audit export
+#240226,2026-01-23 11:38,Tech 11,Category changed,,Classroom AV,Audit export
+#240226,2026-01-23 11:40,Tech 11,Comment added,Following up: waiting on the user to test again.,Classroom AV,Audit export
+#240173,2026-01-23 12:29,Tech 06,Assignee -1 -> Classroom Media Services,,Password maintenance,Audit export
+#240212,2026-01-23 13:45,Tech 06,Assignee -1 -> Academic Solutions,,Password maintenance,Audit export
+#240209,2026-01-23 13:53,Tech 06,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#240213,2026-01-23 14:28,Tech 06,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#240213,2026-01-23 14:31,Tech 06,State Assigned -> Resolved,,Password maintenance,Audit export
+#240213,2026-01-23 14:32,Tech 06,Resolution code set,,Password maintenance,Audit export
+#240203,2026-01-23 14:39,Tech 04,Comment added,called,Hardware,Audit export
+#240203,2026-01-23 14:44,Tech 04,Assignee -1 -> Classroom Media Services,,Hardware,Audit export
+#240204,2026-01-23 15:10,Tech 04,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#240217,2026-01-23 15:26,Tech 06,State Assigned -> Resolved,,Classroom AV,Audit export
+#240217,2026-01-23 15:28,Tech 06,Resolution code set,,Classroom AV,Audit export
+#240206,2026-01-23 15:52,Tech 04,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#240206,2026-01-23 15:56,Tech 04,Assignee -1 -> Service Desk,,Password maintenance,Audit export
+#240207,2026-01-23 16:10,Tech 04,Comment added,Confirmed the issue is resolved with the user.,Canvas,Audit export
+#240219,2026-01-23 16:41,Tech 06,Category changed,,Password maintenance,Audit export
+#240219,2026-01-23 16:46,Tech 06,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#240207,2026-01-23 18:59,Tech 09,Assignee -1 -> Classroom Media Services,,Canvas,Audit export
+#240222,2026-01-23 20:36,Tech 09,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#240219,2026-01-23 21:11,Tech 09,Subcategory changed,,Password maintenance,Audit export
+#240219,2026-01-23 21:13,Tech 09,State Assigned -> Resolved,,Password maintenance,Audit export
+#240219,2026-01-23 21:19,Tech 09,Resolution code set,,Password maintenance,Audit export
+#240182,2026-01-24 09:26,Tech 03,State Resolved -> Reopened by Client,,Printing,Audit export
+#240235,2026-01-24 10:07,Tech 09,Comment added,Left a voicemail and sent an email with next steps.,Account access,Audit export
+#240226,2026-01-24 10:08,Tech 01,Comment added,Asked the user for a screenshot of the error.,Classroom AV,Audit export
+#240235,2026-01-24 10:10,Tech 09,State Assigned -> Resolved,,Account access,Audit export
+#240226,2026-01-24 10:14,Tech 01,Assignee -1 -> Technical Support,,Classroom AV,Audit export
+#240235,2026-01-24 10:14,Tech 09,Resolution code set,,Account access,Audit export
+#240237,2026-01-24 11:29,Tech 09,Assignee -1 -> Network Services,,Wi-Fi,Audit export
+#240230,2026-01-24 12:27,Tech 01,Comment added,Reassigned with troubleshooting notes attached.,Hardware,Audit export
+#240230,2026-01-24 12:33,Tech 01,Comment edited,,Hardware,Audit export
+#240201,2026-01-24 13:27,Tech 01,Comment added,Asked the user for a screenshot of the error.,Hardware,Audit export
+#240201,2026-01-24 13:31,Tech 01,Comment edited,,Hardware,Audit export
+#240201,2026-01-24 13:33,Tech 01,State Assigned -> Resolved,,Hardware,Audit export
+#240201,2026-01-24 13:37,Tech 01,Resolution code set,,Hardware,Audit export
+#240231,2026-01-24 14:51,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#240231,2026-01-24 14:56,Tech 01,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#240241,2026-01-24 16:14,Tech 09,State Assigned -> Resolved,,Hardware,Audit export
+#240241,2026-01-24 16:19,Tech 09,Resolution code set,,Hardware,Audit export
+#240148,2026-01-24 16:52,Tech 09,Assignee -1 -> Network Services,,Hardware,Audit export
+#240243,2026-01-25 11:31,Tech 01,Comment added,Called the user and walked through the reset steps.,Classroom AV,Audit export
+#240243,2026-01-25 11:32,Tech 01,Assignee -1 -> Front Desk Queue,,Classroom AV,Audit export
+#240230,2026-01-25 13:01,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Hardware,Audit export
+#240230,2026-01-25 13:05,Tech 01,Assignee -1 -> Technical Support,,Hardware,Audit export
+#240246,2026-01-25 13:17,Tech 01,Comment added,Asked the user for a screenshot of the error.,Printing,Audit export
+#240246,2026-01-25 13:20,Tech 01,Assignee -1 -> Service Desk,,Printing,Audit export
+#240204,2026-01-25 13:58,Tech 01,Assignee -1 -> Service Desk,,Password maintenance,Audit export
+#240250,2026-01-25 16:07,Tech 05,Assignee -1 -> Enterprise Solutions,,Wi-Fi,Audit export
+#240251,2026-01-25 16:50,Tech 05,Comment added,Called the user and walked through the reset steps.,Hardware,Audit export
+#240251,2026-01-25 16:55,Tech 05,State Responded -> Waiting on User,,Hardware,Audit export
+#240280,2026-01-26 08:21,Tech 04,Comment added,Reassigned with troubleshooting notes attached.,Canvas,Audit export
+#240282,2026-01-26 08:54,Tech 04,Comment added,Checked the device in AD; account is active.,Printing,Audit export
+#240280,2026-01-26 09:44,Tech 04,State Assigned -> Resolved,,Canvas,Audit export
+#240280,2026-01-26 09:47,Tech 04,Resolution code set,,Canvas,Audit export
+#240286,2026-01-26 10:13,Tech 04,State Assigned -> Resolved,,Canvas,Audit export
+#240286,2026-01-26 10:17,Tech 04,Resolution code set,,Canvas,Audit export
+#240290,2026-01-26 10:55,Tech 04,Comment added,Following up: waiting on the user to test again.,Canvas,Audit export
+#240290,2026-01-26 10:57,Tech 04,State Assigned -> Resolved,,Canvas,Audit export
+#240293,2026-01-26 11:00,Tech 04,Assignee -1 -> Academic Solutions,,Email,Audit export
+#240290,2026-01-26 11:02,Tech 04,Resolution code set,,Canvas,Audit export
+#240312,2026-01-26 11:50,Tech 08,Assignee -1 -> Asset Management,,Password maintenance,Audit export
+#240254,2026-01-26 12:00,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Wi-Fi,Audit export
+#240257,2026-01-26 12:02,Tech 02,Assignee -1 -> Academic Solutions,,Hardware,Audit export
+#240254,2026-01-26 12:06,Tech 02,State Assigned -> Resolved,,Wi-Fi,Audit export
+#240255,2026-01-26 12:06,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Hardware,Audit export
+#240254,2026-01-26 12:07,Tech 02,Resolution code set,,Wi-Fi,Audit export
+#240297,2026-01-26 12:22,Tech 06,State Assigned -> Responded,,Password maintenance,Audit export
+#240297,2026-01-26 12:23,Tech 06,State Assigned -> Resolved,,Password maintenance,Audit export
+#240297,2026-01-26 12:24,Tech 06,Resolution code set,,Password maintenance,Audit export
+#240251,2026-01-26 12:47,Tech 02,Assignee -1 -> Classroom Media Services,,Hardware,Audit export
+#240294,2026-01-26 12:52,Tech 06,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#240260,2026-01-26 14:01,Tech 02,Comment added,Called the user and walked through the reset steps.,Email,Audit export
+#240260,2026-01-26 14:06,Tech 02,Assignee -1 -> Asset Management,,Email,Audit export
+#240270,2026-01-26 14:12,Tech 02,Comment added,fixed,Password maintenance,Audit export
+#240270,2026-01-26 14:15,Tech 02,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240264,2026-01-26 14:24,Tech 02,Assignee -1 -> Technical Support,,Password maintenance,Audit export
+#240294,2026-01-26 14:39,Tech 06,Comment added,Called the user and walked through the reset steps.,Password maintenance,Audit export
+#240272,2026-01-26 14:42,Tech 02,Comment added,Checked the device in AD; account is active.,Wi-Fi,Audit export
+#240299,2026-01-26 14:42,Tech 06,Comment added,Asked the user for a screenshot of the error.,Account access,Audit export
+#240271,2026-01-26 14:44,Tech 02,State Assigned -> Responded,,Password maintenance,Audit export
+#240299,2026-01-26 14:44,Tech 06,Assignee -1 -> Enterprise Solutions,,Account access,Audit export
+#240272,2026-01-26 14:48,Tech 02,Assignee -1 -> Academic Solutions,,Wi-Fi,Audit export
+#240266,2026-01-26 14:58,Tech 02,State Assigned -> Responded,,Printing,Audit export
+#240266,2026-01-26 15:01,Tech 02,Comment added,Asked the user for a screenshot of the error.,Printing,Audit export
+#240276,2026-01-26 15:04,Tech 02,Assignee -1 -> Classroom Media Services,,Software,Audit export
+#240308,2026-01-26 15:21,Tech 06,Assignee -1 -> Enterprise Solutions,,Printing,Audit export
+#240303,2026-01-26 15:37,Tech 06,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#240305,2026-01-26 15:52,Tech 06,Assignee -1 -> Technical Support,,Password maintenance,Audit export
+#240274,2026-01-26 15:57,Tech 02,Comment added,Following up: waiting on the user to test again.,Canvas,Audit export
+#240274,2026-01-26 16:00,Tech 02,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#240266,2026-01-26 16:01,Tech 02,Comment added,Called the user and walked through the reset steps.,Printing,Audit export
+#240266,2026-01-26 16:04,Tech 02,Assignee -1 -> Classroom Media Services,,Printing,Audit export
+#240278,2026-01-26 16:20,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Wi-Fi,Audit export
+#240279,2026-01-26 16:29,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Email,Audit export
+#240314,2026-01-26 17:58,Tech 10,State Assigned -> Resolved,,Password maintenance,Audit export
+#240314,2026-01-26 18:01,Tech 10,Resolution code set,,Password maintenance,Audit export
+#240321,2026-01-26 19:16,Tech 10,State Assigned -> Responded,,Printing,Audit export
+#240253,2026-01-26 20:23,Tech 01,Comment added,Following up: waiting on the user to test again.,Classroom AV,Audit export
+#240253,2026-01-26 20:29,Tech 01,Comment edited,,Classroom AV,Audit export
+#240251,2026-01-26 20:40,Tech 01,Comment added,Following up: waiting on the user to test again.,Hardware,Audit export
+#240251,2026-01-26 21:24,Tech 01,Comment added,Called the user and walked through the reset steps.,Hardware,Audit export
+#240251,2026-01-26 21:26,Tech 01,State Responded -> Waiting on User,,Hardware,Audit export
+#240279,2026-01-26 21:34,Tech 04,Comment added,Following up: waiting on the user to test again.,Email,Audit export
+#240279,2026-01-26 21:36,Tech 04,State Assigned -> Resolved,,Email,Audit export
+#240279,2026-01-26 21:41,Tech 04,Resolution code set,,Email,Audit export
+#240317,2026-01-26 22:06,Tech 10,Comment added,Following up: waiting on the user to test again.,Printing,Audit export
+#240317,2026-01-26 22:11,Tech 10,Assignee -1 -> Classroom Media Services,,Printing,Audit export
+#240321,2026-01-27 08:24,Tech 03,State Responded -> Waiting on User,,Printing,Audit export
+#240294,2026-01-27 08:47,Tech 03,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240381,2026-01-27 08:50,Tech 11,Category changed,,Printing,Audit export
+#240294,2026-01-27 08:51,Tech 03,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#240381,2026-01-27 08:51,Tech 11,State Assigned -> Resolved,,Printing,Audit export
+#240381,2026-01-27 08:55,Tech 11,Resolution code set,,Printing,Audit export
+#240383,2026-01-27 09:02,Tech 11,Category changed,,Password maintenance,Audit export
+#240383,2026-01-27 09:03,Tech 11,State Assigned -> Resolved,,Password maintenance,Audit export
+#240384,2026-01-27 09:03,Tech 11,Comment added,Asked the user for a screenshot of the error.,Account access,Audit export
+#240351,2026-01-27 09:05,Tech 03,Comment added,called,Hardware,Audit export
+#240383,2026-01-27 09:05,Tech 11,Resolution code set,,Password maintenance,Audit export
+#240384,2026-01-27 09:08,Tech 11,Assignee -1 -> Academic Solutions,,Account access,Audit export
+#240351,2026-01-27 09:09,Tech 03,Assignee -1 -> Classroom Media Services,,Hardware,Audit export
+#240354,2026-01-27 09:22,Tech 03,Subcategory changed,,Password maintenance,Audit export
+#240354,2026-01-27 09:28,Tech 03,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240371,2026-01-27 09:46,Tech 08,State Responded -> Waiting on User,,Account access,Audit export
+#240354,2026-01-27 09:54,Tech 03,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#240354,2026-01-27 09:55,Tech 03,State Assigned -> Resolved,,Password maintenance,Audit export
+#240354,2026-01-27 09:58,Tech 03,Resolution code set,,Password maintenance,Audit export
+#240278,2026-01-27 10:07,Tech 11,Category changed,,Wi-Fi,Audit export
+#240358,2026-01-27 10:54,Tech 03,Comment added,Asked the user for a screenshot of the error.,Email,Audit export
+#240358,2026-01-27 11:00,Tech 03,Assignee -1 -> Front Desk Queue,,Email,Audit export
+#240379,2026-01-27 11:43,Tech 08,State Assigned -> Responded,,Printing,Audit export
+#240379,2026-01-27 11:49,Tech 08,Assignee -1 -> Academic Solutions,,Printing,Audit export
+#240375,2026-01-27 11:56,Tech 08,Comment added,Reassigned with troubleshooting notes attached.,Canvas,Audit export
+#240375,2026-01-27 11:59,Tech 08,Assignee -1 -> Asset Management,,Canvas,Audit export
+#240329,2026-01-27 12:01,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240329,2026-01-27 12:07,Tech 02,State Assigned -> Resolved,,Password maintenance,Audit export
+#240329,2026-01-27 12:11,Tech 02,Resolution code set,,Password maintenance,Audit export
+#240255,2026-01-27 12:19,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Hardware,Audit export
+#240255,2026-01-27 12:21,Tech 02,Assignee -1 -> Enterprise Solutions,,Hardware,Audit export
+#240370,2026-01-27 12:39,Tech 07,Comment added,Left a voicemail and sent an email with next steps.,Classroom AV,Audit export
+#240370,2026-01-27 12:42,Tech 07,Assignee -1 -> Academic Solutions,,Classroom AV,Audit export
+#240325,2026-01-27 12:53,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Hardware,Audit export
+#240332,2026-01-27 13:55,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240332,2026-01-27 13:57,Tech 02,Comment edited,,Password maintenance,Audit export
+#240332,2026-01-27 13:59,Tech 02,State Assigned -> Resolved,,Password maintenance,Audit export
+#240332,2026-01-27 14:04,Tech 02,Resolution code set,,Password maintenance,Audit export
+#240294,2026-01-27 14:19,Tech 02,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#240333,2026-01-27 14:30,Tech 02,State Assigned -> Responded,,Wi-Fi,Audit export
+#241713,2026-01-27 14:42,Tech 14,Comment added,,Printing,Queue PDF
+#240339,2026-01-27 15:32,Tech 02,Assignee -1 -> Service Desk,,Classroom AV,Audit export
+#240336,2026-01-27 15:48,Tech 02,Comment added,Following up: waiting on the user to test again.,Wi-Fi,Audit export
+#240336,2026-01-27 15:54,Tech 02,Assignee -1 -> Technical Support,,Wi-Fi,Audit export
+#240342,2026-01-27 16:20,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Email,Audit export
+#240345,2026-01-27 16:32,Tech 02,State Assigned -> Responded,,Wi-Fi,Audit export
+#240345,2026-01-27 16:38,Tech 02,Assignee -1 -> Front Desk Queue,,Wi-Fi,Audit export
+#240294,2026-01-27 16:45,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240359,2026-01-27 17:42,Tech 05,Comment added,Called the user and walked through the reset steps.,Password maintenance,Audit export
+#240359,2026-01-27 17:45,Tech 05,Assignee -1 -> Classroom Media Services,,Password maintenance,Audit export
+#240278,2026-01-27 19:35,Tech 05,Comment added,Asked the user for a screenshot of the error.,Wi-Fi,Audit export
+#240333,2026-01-27 19:58,Tech 05,Comment added,Left a voicemail and sent an email with next steps.,Wi-Fi,Audit export
+#240253,2026-01-27 20:00,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Classroom AV,Audit export
+#240333,2026-01-27 20:03,Tech 05,Assignee -1 -> Front Desk Queue,,Wi-Fi,Audit export
+#240365,2026-01-27 21:07,Tech 05,Comment added,Following up: waiting on the user to test again.,Software,Audit export
+#240365,2026-01-27 21:09,Tech 05,Assignee -1 -> Academic Solutions,,Software,Audit export
+#240361,2026-01-27 21:57,Tech 05,State Assigned -> Responded,,Password maintenance,Audit export
+#240361,2026-01-27 21:58,Tech 05,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#240368,2026-01-27 22:01,Tech 05,Comment added,Asked the user for a screenshot of the error.,Canvas,Audit export
+#240368,2026-01-27 22:02,Tech 05,State Assigned -> Resolved,,Canvas,Audit export
+#240368,2026-01-27 22:03,Tech 05,Resolution code set,,Canvas,Audit export
+#240385,2026-01-28 08:39,Tech 03,Comment added,Called the user and walked through the reset steps.,Account access,Audit export
+#240388,2026-01-28 08:44,Tech 03,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#240385,2026-01-28 08:45,Tech 03,Assignee -1 -> Service Desk,,Account access,Audit export
+#240388,2026-01-28 08:46,Tech 03,State Assigned -> Resolved,,Password maintenance,Audit export
+#240388,2026-01-28 08:48,Tech 03,Resolution code set,,Password maintenance,Audit export
+#240391,2026-01-28 09:19,Tech 03,Comment added,Called the user and walked through the reset steps.,Canvas,Audit export
+#240419,2026-01-28 09:46,Tech 08,Comment added,Checked the device in AD; account is active.,Canvas,Audit export
+#240419,2026-01-28 09:47,Tech 08,State Assigned -> Resolved,,Canvas,Audit export
+#240419,2026-01-28 09:50,Tech 08,Resolution code set,,Canvas,Audit export
+#240395,2026-01-28 10:40,Tech 03,Assignee -1 -> Academic Solutions,,Canvas,Audit export
+#240423,2026-01-28 11:04,Tech 08,Comment added,Confirmed the issue is resolved with the user.,Software,Audit export
+#240423,2026-01-28 11:10,Tech 08,State Assigned -> Resolved,,Software,Audit export
+#240423,2026-01-28 11:14,Tech 08,Resolution code set,,Software,Audit export
+#240399,2026-01-28 11:23,Tech 03,Comment added,Left a voicemail and sent an email with next steps.,Wi-Fi,Audit export
+#240410,2026-01-28 13:08,Tech 07,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240406,2026-01-28 13:09,Tech 07,Comment added,Following up: waiting on the user to test again.,Printing,Audit export
+#240410,2026-01-28 13:09,Tech 07,Assignee -1 -> Service Desk,,Password maintenance,Audit export
+#240406,2026-01-28 13:15,Tech 07,Assignee -1 -> Front Desk Queue,,Printing,Audit export
+#240400,2026-01-28 13:16,Tech 06,Subcategory changed,,Software,Audit export
+#240400,2026-01-28 13:22,Tech 06,Comment added,Confirmed the issue is resolved with the user.,Software,Audit export
+#241743,2026-01-28 13:55,Tech 15,Assignment,,Software,Queue PDF
+#240412,2026-01-28 14:50,Tech 07,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240416,2026-01-28 15:22,Tech 07,Comment added,Reassigned with troubleshooting notes attached.,Classroom AV,Audit export
+#240401,2026-01-28 15:23,Tech 06,Comment added,Reassigned with troubleshooting notes attached.,Password maintenance,Audit export
+#240401,2026-01-28 15:27,Tech 06,Assignee -1 -> Technical Support,,Password maintenance,Audit export
+#240416,2026-01-28 15:27,Tech 07,State Assigned -> Resolved,,Classroom AV,Audit export
+#240416,2026-01-28 15:33,Tech 07,Resolution code set,,Classroom AV,Audit export
+#240400,2026-01-28 15:53,Tech 06,Comment added,Following up: waiting on the user to test again.,Software,Audit export
+#240400,2026-01-28 15:56,Tech 06,Assignee -1 -> Network Services,,Software,Audit export
+#240417,2026-01-28 16:03,Tech 07,Comment added,Following up: waiting on the user to test again.,Canvas,Audit export
+#240417,2026-01-28 16:09,Tech 07,Assignee -1 -> Asset Management,,Canvas,Audit export
+#240404,2026-01-28 16:35,Tech 06,State Assigned -> Responded,,Password maintenance,Audit export
+#240404,2026-01-28 16:36,Tech 06,Comment added,Called the user and walked through the reset steps.,Password maintenance,Audit export
+#240404,2026-01-28 16:40,Tech 06,State Assigned -> Resolved,,Password maintenance,Audit export
+#240404,2026-01-28 16:41,Tech 06,Resolution code set,,Password maintenance,Audit export
+#241740,2026-01-28 16:59,Tech 15,Assignment,,Wi-Fi,Queue PDF
+#240342,2026-01-28 17:51,Tech 10,Comment added,Following up: waiting on the user to test again.,Email,Audit export
+#240342,2026-01-28 17:52,Tech 10,State Responded -> Waiting on User,,Email,Audit export
+#240428,2026-01-28 18:01,Tech 10,Assignee -1 -> Classroom Media Services,,Email,Audit export
+#240282,2026-01-28 18:25,Tech 01,Assignee -1 -> Front Desk Queue,,Printing,Audit export
+#240427,2026-01-28 18:32,Tech 10,Assignee -1 -> Classroom Media Services,,Email,Audit export
+#240278,2026-01-28 21:06,Tech 01,Subcategory changed,,Wi-Fi,Audit export
+#240278,2026-01-28 21:08,Tech 01,Assignee -1 -> Asset Management,,Wi-Fi,Audit export
+#240325,2026-01-28 22:39,Tech 01,Assignee -1 -> Technical Support,,Hardware,Audit export
+#240430,2026-01-29 08:06,Tech 04,Comment added,Following up: waiting on the user to test again.,Classroom AV,Audit export
+#240430,2026-01-29 08:11,Tech 04,Assignee -1 -> Service Desk,,Classroom AV,Audit export
+#240447,2026-01-29 08:37,Tech 04,State Assigned -> Resolved,,Password maintenance,Audit export
+#240447,2026-01-29 08:40,Tech 04,Resolution code set,,Password maintenance,Audit export
+#240361,2026-01-29 09:14,Tech 04,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240361,2026-01-29 09:17,Tech 04,State Assigned -> Resolved,,Password maintenance,Audit export
+#240361,2026-01-29 09:18,Tech 04,Resolution code set,,Password maintenance,Audit export
+#240450,2026-01-29 09:43,Tech 04,State Assigned -> Responded,,Password maintenance,Audit export
+#240450,2026-01-29 09:47,Tech 04,Assignee -1 -> Academic Solutions,,Password maintenance,Audit export
+#240391,2026-01-29 10:15,Tech 04,Assignee -1 -> Network Services,,Canvas,Audit export
+#240471,2026-01-29 11:43,Tech 10,Comment added,Confirmed the issue is resolved with the user.,Email,Audit export
+#240471,2026-01-29 11:47,Tech 10,Comment edited,,Email,Audit export
+#240453,2026-01-29 11:51,Tech 04,Assignee -1 -> Technical Support,,Password maintenance,Audit export
+#240432,2026-01-29 12:06,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Wi-Fi,Audit export
+#240432,2026-01-29 12:11,Tech 02,Assignee -1 -> Technical Support,,Wi-Fi,Audit export
+#240431,2026-01-29 12:50,Tech 02,State Assigned -> Responded,,Password maintenance,Audit export
+#240435,2026-01-29 13:24,Tech 02,Comment added,called,Account access,Audit export
+#240435,2026-01-29 13:27,Tech 02,Assignee -1 -> Front Desk Queue,,Account access,Audit export
+#240457,2026-01-29 13:31,Tech 07,Comment added,done,Email,Audit export
+#240457,2026-01-29 13:34,Tech 07,State Assigned -> Resolved,,Email,Audit export
+#240342,2026-01-29 13:35,Tech 02,Assignee -1 -> Academic Solutions,,Email,Audit export
+#240457,2026-01-29 13:37,Tech 07,Resolution code set,,Email,Audit export
+#240438,2026-01-29 13:49,Tech 02,Comment added,Called the user and walked through the reset steps.,Classroom AV,Audit export
+#240438,2026-01-29 13:54,Tech 02,Assignee -1 -> Asset Management,,Classroom AV,Audit export
+#240458,2026-01-29 14:08,Tech 07,Comment added,Reassigned with troubleshooting notes attached.,Classroom AV,Audit export
+#240458,2026-01-29 14:12,Tech 07,Assignee -1 -> Front Desk Queue,,Classroom AV,Audit export
+#240445,2026-01-29 14:15,Tech 02,State Assigned -> Responded,,Password maintenance,Audit export
+#240445,2026-01-29 14:17,Tech 02,Assignee -1 -> Classroom Media Services,,Password maintenance,Audit export
+#240460,2026-01-29 14:20,Tech 07,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240441,2026-01-29 14:23,Tech 02,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#240439,2026-01-29 14:38,Tech 02,Comment added,Checked the device in AD; account is active.,Account access,Audit export
+#240439,2026-01-29 14:43,Tech 02,Comment edited,,Account access,Audit export
+#240441,2026-01-29 14:51,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#240462,2026-01-29 15:00,Tech 07,Comment added,Called the user and walked through the reset steps.,Wi-Fi,Audit export
+#240431,2026-01-29 15:04,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240466,2026-01-29 15:06,Tech 07,Assignee -1 -> Technical Support,,Printing,Audit export
+#240439,2026-01-29 15:11,Tech 07,Comment added,Asked the user for a screenshot of the error.,Account access,Audit export
+#240439,2026-01-29 15:14,Tech 07,Comment edited,,Account access,Audit export
+#240469,2026-01-29 15:16,Tech 07,State Assigned -> Responded,,Password maintenance,Audit export
+#240469,2026-01-29 15:17,Tech 07,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#240469,2026-01-29 15:19,Tech 07,Assignee -1 -> Academic Solutions,,Password maintenance,Audit export
+#240319,2026-01-29 15:22,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Wi-Fi,Audit export
+#240319,2026-01-29 15:24,Tech 02,Comment edited,,Wi-Fi,Audit export
+#240319,2026-01-29 15:28,Tech 02,State Assigned -> Resolved,,Wi-Fi,Audit export
+#240319,2026-01-29 15:30,Tech 02,Resolution code set,,Wi-Fi,Audit export
+#240371,2026-01-29 15:30,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Account access,Audit export
+#240371,2026-01-29 15:32,Tech 02,Assignee -1 -> Technical Support,,Account access,Audit export
+#241719,2026-01-29 15:34,Tech 14,Comment added,,Email,Queue PDF
+#240473,2026-01-29 15:51,Tech 11,State Assigned -> Responded,,Printing,Audit export
+#240473,2026-01-29 15:53,Tech 11,State Assigned -> Resolved,,Printing,Audit export
+#240473,2026-01-29 15:56,Tech 11,Resolution code set,,Printing,Audit export
+#240253,2026-01-29 16:12,Tech 02,Comment added,Following up: waiting on the user to test again.,Classroom AV,Audit export
+#240253,2026-01-29 16:14,Tech 02,Assignee -1 -> Enterprise Solutions,,Classroom AV,Audit export
+#240474,2026-01-29 18:23,Tech 13,Category changed,,Password maintenance,Audit export
+#240474,2026-01-29 18:26,Tech 13,State Assigned -> Resolved,,Password maintenance,Audit export
+#240474,2026-01-29 18:28,Tech 13,Resolution code set,,Password maintenance,Audit export
+#240456,2026-01-29 19:33,Tech 05,Comment added,Confirmed the issue is resolved with the user.,Software,Audit export
+#240456,2026-01-29 19:34,Tech 05,Comment edited,,Software,Audit export
+#240456,2026-01-29 19:39,Tech 05,Assignee -1 -> Front Desk Queue,,Software,Audit export
+#240478,2026-01-29 19:49,Tech 13,Comment added,Left a voicemail and sent an email with next steps.,Email,Audit export
+#240478,2026-01-29 19:52,Tech 13,State Responded -> Waiting on User,,Email,Audit export
+#240271,2026-01-30 08:40,Tech 03,Comment added,Called the user and walked through the reset steps.,Password maintenance,Audit export
+#240482,2026-01-30 09:59,Tech 03,Comment added,Reassigned with troubleshooting notes attached.,Password maintenance,Audit export
+#240271,2026-01-30 10:20,Tech 03,State Assigned -> Resolved,,Password maintenance,Audit export
+#240271,2026-01-30 10:26,Tech 03,Resolution code set,,Password maintenance,Audit export
+#240439,2026-01-30 10:56,Tech 11,Comment added,Following up: waiting on the user to test again.,Account access,Audit export
+#240486,2026-01-30 11:03,Tech 03,Comment added,ok,Email,Audit export
+#240486,2026-01-30 11:04,Tech 03,Assignee -1 -> Technical Support,,Email,Audit export
+#240489,2026-01-30 11:10,Tech 03,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#240493,2026-01-30 11:17,Tech 03,Subcategory changed,,Printing,Audit export
+#240493,2026-01-30 11:22,Tech 03,Assignee -1 -> Technical Support,,Printing,Audit export
+#240533,2026-01-30 11:27,Tech 11,Assignee -1 -> Front Desk Queue,,Hardware,Audit export
+#240487,2026-01-30 11:37,Tech 03,Comment added,Following up: waiting on the user to test again.,Account access,Audit export
+#240487,2026-01-30 11:39,Tech 03,Assignee -1 -> Service Desk,,Account access,Audit export
+#240537,2026-01-30 11:59,Tech 11,Assignee -1 -> Academic Solutions,,Wi-Fi,Audit export
+#240505,2026-01-30 12:07,Tech 03,Subcategory changed,,Canvas,Audit export
+#240505,2026-01-30 12:11,Tech 03,State Assigned -> Resolved,,Canvas,Audit export
+#240505,2026-01-30 12:16,Tech 03,Resolution code set,,Canvas,Audit export
+#240497,2026-01-30 12:18,Tech 03,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#240514,2026-01-30 12:19,Tech 06,Comment added,Left a voicemail and sent an email with next steps.,Wi-Fi,Audit export
+#240501,2026-01-30 12:24,Tech 03,State Assigned -> Responded,,Wi-Fi,Audit export
+#240514,2026-01-30 12:24,Tech 06,Assignee -1 -> Enterprise Solutions,,Wi-Fi,Audit export
+#240501,2026-01-30 12:30,Tech 03,Comment added,Checked the device in AD; account is active.,Wi-Fi,Audit export
+#240501,2026-01-30 12:32,Tech 03,Assignee -1 -> Service Desk,,Wi-Fi,Audit export
+#240538,2026-01-30 12:58,Tech 12,State Assigned -> Resolved,,Software,Audit export
+#240441,2026-01-30 13:01,Tech 06,Assignee -1 -> Network Services,,Password maintenance,Audit export
+#240538,2026-01-30 13:03,Tech 12,Resolution code set,,Software,Audit export
+#240506,2026-01-30 13:34,Tech 04,Comment added,Checked the device in AD; account is active.,Canvas,Audit export
+#240506,2026-01-30 13:38,Tech 04,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#240462,2026-01-30 14:16,Tech 12,Category changed,,Wi-Fi,Audit export
+#240519,2026-01-30 14:22,Tech 06,Comment added,Following up: waiting on the user to test again.,Email,Audit export
+#240519,2026-01-30 14:28,Tech 06,Assignee -1 -> Service Desk,,Email,Audit export
+#240515,2026-01-30 14:55,Tech 06,Assignee -1 -> Academic Solutions,,Wi-Fi,Audit export
+#240508,2026-01-30 15:08,Tech 04,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240508,2026-01-30 15:09,Tech 04,Assignee -1 -> Asset Management,,Password maintenance,Audit export
+#240511,2026-01-30 15:36,Tech 04,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#240431,2026-01-30 16:13,Tech 06,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#240431,2026-01-30 16:17,Tech 06,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#240513,2026-01-30 16:46,Tech 04,State Assigned -> Resolved,,Printing,Audit export
+#240513,2026-01-30 16:49,Tech 04,Resolution code set,,Printing,Audit export
+#240521,2026-01-30 17:07,Tech 09,Assignee -1 -> Enterprise Solutions,,Email,Audit export
+#240321,2026-01-30 20:11,Tech 09,State Assigned -> Resolved,,Printing,Audit export
+#240321,2026-01-30 20:15,Tech 09,Resolution code set,,Printing,Audit export
+#240524,2026-01-30 20:41,Tech 09,Assignee -1 -> Service Desk,,Hardware,Audit export
+#240526,2026-01-30 20:55,Tech 09,Comment added,Reassigned with troubleshooting notes attached.,Printing,Audit export
+#240552,2026-01-31 10:02,Tech 09,State Assigned -> Responded,,Hardware,Audit export
+#240552,2026-01-31 10:05,Tech 09,Assignee -1 -> Technical Support,,Hardware,Audit export
+#240542,2026-01-31 10:15,Tech 01,Comment added,Reassigned with troubleshooting notes attached.,Canvas,Audit export
+#240542,2026-01-31 10:26,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Canvas,Audit export
+#240544,2026-01-31 11:14,Tech 01,Comment added,Called the user and walked through the reset steps.,Wi-Fi,Audit export
+#240545,2026-01-31 11:20,Tech 01,Comment added,Following up: waiting on the user to test again.,Printing,Audit export
+#240543,2026-01-31 11:49,Tech 01,Assignee -1 -> Academic Solutions,,Software,Audit export
+#240399,2026-01-31 12:20,Tech 01,Assignee -1 -> Classroom Media Services,,Wi-Fi,Audit export
+#240462,2026-01-31 12:40,Tech 09,Comment added,Following up: waiting on the user to test again.,Wi-Fi,Audit export
+#240482,2026-01-31 14:10,Tech 01,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240482,2026-01-31 14:14,Tech 01,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240555,2026-01-31 14:40,Tech 09,Comment added,done,Printing,Audit export
+#240555,2026-01-31 14:41,Tech 09,Comment edited,,Printing,Audit export
+#240555,2026-01-31 14:46,Tech 09,Assignee -1 -> Classroom Media Services,,Printing,Audit export
+#240557,2026-01-31 15:09,Tech 09,Comment added,Called the user and walked through the reset steps.,Software,Audit export
+#240557,2026-01-31 15:11,Tech 09,Assignee -1 -> Academic Solutions,,Software,Audit export
+#240548,2026-01-31 15:40,Tech 01,Comment added,Checked the device in AD; account is active.,Account access,Audit export
+#240497,2026-01-31 15:45,Tech 01,Subcategory changed,,Password maintenance,Audit export
+#240497,2026-01-31 15:46,Tech 01,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#240497,2026-01-31 15:48,Tech 01,State Assigned -> Resolved,,Password maintenance,Audit export
+#240497,2026-01-31 15:50,Tech 01,Resolution code set,,Password maintenance,Audit export
+#241722,2026-01-31 16:15,Tech 14,Comment added,,Wi-Fi,Queue PDF
+#240559,2026-01-31 16:23,Tech 09,Comment added,Checked the device in AD; account is active.,Software,Audit export
+#240559,2026-01-31 16:25,Tech 09,State Assigned -> Resolved,,Software,Audit export
+#240559,2026-01-31 16:26,Tech 09,Resolution code set,,Software,Audit export
+#240544,2026-01-31 16:45,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Wi-Fi,Audit export
+#240549,2026-01-31 16:48,Tech 01,Comment added,Reassigned with troubleshooting notes attached.,Password maintenance,Audit export
+#240549,2026-01-31 16:51,Tech 01,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#240526,2026-02-01 10:22,Tech 01,Comment added,Asked the user for a screenshot of the error.,Printing,Audit export
+#240526,2026-02-01 10:28,Tech 01,Assignee -1 -> Enterprise Solutions,,Printing,Audit export
+#240529,2026-02-01 11:02,Tech 01,State Assigned -> Resolved,,Printing,Audit export
+#240529,2026-02-01 11:08,Tech 01,Resolution code set,,Printing,Audit export
+#240471,2026-02-01 11:16,Tech 01,Comment added,Checked the device in AD; account is active.,Email,Audit export
+#240471,2026-02-01 11:20,Tech 01,Assignee -1 -> Academic Solutions,,Email,Audit export
+#240478,2026-02-01 12:29,Tech 01,Comment added,Reassigned with troubleshooting notes attached.,Email,Audit export
+#240478,2026-02-01 12:34,Tech 01,Assignee -1 -> Front Desk Queue,,Email,Audit export
+#240439,2026-02-01 12:42,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Account access,Audit export
+#240439,2026-02-01 12:44,Tech 01,Assignee -1 -> Enterprise Solutions,,Account access,Audit export
+#240562,2026-02-01 12:47,Tech 01,State Assigned -> Resolved,,Password maintenance,Audit export
+#240562,2026-02-01 12:52,Tech 01,Resolution code set,,Password maintenance,Audit export
+#240542,2026-02-01 13:34,Tech 01,Comment added,Asked the user for a screenshot of the error.,Canvas,Audit export
+#240566,2026-02-01 13:34,Tech 01,Assignee -1 -> Academic Solutions,,Account access,Audit export
+#240542,2026-02-01 13:36,Tech 01,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#240570,2026-02-01 13:47,Tech 01,Comment added,Asked the user for a screenshot of the error.,Canvas,Audit export
+#240570,2026-02-01 13:50,Tech 01,State Assigned -> Resolved,,Canvas,Audit export
+#240570,2026-02-01 13:56,Tech 01,Resolution code set,,Canvas,Audit export
+#240574,2026-02-01 14:02,Tech 05,State Responded -> Waiting on User,,Password maintenance,Audit export
+#240575,2026-02-01 17:19,Tech 05,Comment added,Left a voicemail and sent an email with next steps.,Hardware,Audit export
+#240575,2026-02-01 17:21,Tech 05,State Assigned -> Resolved,,Hardware,Audit export
+#240575,2026-02-01 17:24,Tech 05,Resolution code set,,Hardware,Audit export
+#240581,2026-02-01 17:25,Tech 13,Comment added,Following up: waiting on the user to test again.,Hardware,Audit export
+#240578,2026-02-01 17:28,Tech 05,Comment added,Following up: waiting on the user to test again.,Wi-Fi,Audit export
+#240581,2026-02-01 17:31,Tech 13,Assignee -1 -> Front Desk Queue,,Hardware,Audit export
+#240578,2026-02-01 17:33,Tech 05,Assignee -1 -> Technical Support,,Wi-Fi,Audit export
+#240629,2026-02-02 10:26,Tech 04,State Assigned -> Responded,,Account access,Audit export
+#240629,2026-02-02 10:29,Tech 04,Comment added,Following up: waiting on the user to test again.,Account access,Audit export
+#240629,2026-02-02 10:30,Tech 04,Assignee -1 -> Front Desk Queue,,Account access,Audit export
+#240625,2026-02-02 10:35,Tech 04,Comment added,Left a voicemail and sent an email with next steps.,Printing,Audit export
+#240625,2026-02-02 10:36,Tech 04,Assignee -1 -> Network Services,,Printing,Audit export
+#240626,2026-02-02 10:57,Tech 04,Comment added,Asked the user for a screenshot of the error.,Software,Audit export
+#240626,2026-02-02 11:01,Tech 04,State Responded -> Waiting on User,,Software,Audit export
+#240588,2026-02-02 11:11,Tech 01,Comment added,Checked the device in AD; account is active.,Hardware,Audit export
+#240588,2026-02-02 11:16,Tech 01,Assignee -1 -> Asset Management,,Hardware,Audit export
+#240641,2026-02-02 11:20,Tech 08,Comment added,Left a voicemail and sent an email with next steps.,Software,Audit export
+#240633,2026-02-02 11:22,Tech 04,Comment added,Called the user and walked through the reset steps.,Canvas,Audit export
+#240641,2026-02-02 11:24,Tech 08,State Assigned -> Resolved,,Software,Audit export
+#240641,2026-02-02 11:30,Tech 08,Resolution code set,,Software,Audit export
+#240611,2026-02-02 12:08,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Account access,Audit export
+#240611,2026-02-02 12:09,Tech 02,Assignee -1 -> Technical Support,,Account access,Audit export
+#240604,2026-02-02 12:12,Tech 02,State Assigned -> Responded,,Canvas,Audit export
+#240604,2026-02-02 12:14,Tech 02,Comment added,Checked the device in AD; account is active.,Canvas,Audit export
+#240607,2026-02-02 12:17,Tech 02,Comment added,Checked the device in AD; account is active.,Software,Audit export
+#240604,2026-02-02 12:20,Tech 02,Assignee -1 -> Asset Management,,Canvas,Audit export
+#240607,2026-02-02 12:22,Tech 02,Assignee -1 -> Service Desk,,Software,Audit export
+#240636,2026-02-02 12:31,Tech 06,Comment added,Asked the user for a screenshot of the error.,Wi-Fi,Audit export
+#240636,2026-02-02 12:34,Tech 06,State Responded -> Waiting on User,,Wi-Fi,Audit export
+#240637,2026-02-02 12:43,Tech 06,Comment added,Called the user and walked through the reset steps.,Wi-Fi,Audit export
+#240602,2026-02-02 12:45,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Software,Audit export
+#240637,2026-02-02 12:46,Tech 06,Assignee -1 -> Asset Management,,Wi-Fi,Audit export
+#240614,2026-02-02 13:32,Tech 02,Comment added,done,Email,Audit export
+#240614,2026-02-02 13:36,Tech 02,State Responded -> Waiting on User,,Email,Audit export
+#240602,2026-02-02 13:45,Tech 06,Comment added,Confirmed the issue is resolved with the user.,Software,Audit export
+#240602,2026-02-02 13:49,Tech 06,Assignee -1 -> Service Desk,,Software,Audit export
+#240615,2026-02-02 14:03,Tech 02,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#240615,2026-02-02 14:13,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#240615,2026-02-02 14:17,Tech 02,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240614,2026-02-02 14:27,Tech 02,Assignee -1 -> Classroom Media Services,,Email,Audit export
+#240462,2026-02-02 14:54,Tech 12,State Assigned -> Resolved,,Wi-Fi,Audit export
+#240462,2026-02-02 14:57,Tech 12,Resolution code set,,Wi-Fi,Audit export
+#240511,2026-02-02 14:59,Tech 06,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240511,2026-02-02 15:01,Tech 06,Assignee -1 -> Asset Management,,Password maintenance,Audit export
+#240484,2026-02-02 15:07,Tech 06,Assignee -1 -> Front Desk Queue,,Software,Audit export
+#240621,2026-02-02 15:10,Tech 02,State Assigned -> Responded,,Hardware,Audit export
+#240544,2026-02-02 15:25,Tech 02,Assignee -1 -> Asset Management,,Wi-Fi,Audit export
+#240636,2026-02-02 15:45,Tech 12,Subcategory changed,,Wi-Fi,Audit export
+#240636,2026-02-02 15:51,Tech 12,Comment added,Asked the user for a screenshot of the error.,Wi-Fi,Audit export
+#240636,2026-02-02 15:54,Tech 12,Assignee -1 -> Service Desk,,Wi-Fi,Audit export
+#240545,2026-02-02 15:56,Tech 12,State Assigned -> Resolved,,Printing,Audit export
+#240618,2026-02-02 15:57,Tech 02,State Assigned -> Responded,,Email,Audit export
+#240618,2026-02-02 16:00,Tech 02,Comment added,Checked the device in AD; account is active.,Email,Audit export
+#240545,2026-02-02 16:02,Tech 12,Resolution code set,,Printing,Audit export
+#240618,2026-02-02 16:06,Tech 02,State Assigned -> Resolved,,Email,Audit export
+#240618,2026-02-02 16:12,Tech 02,Resolution code set,,Email,Audit export
+#240347,2026-02-02 16:26,Tech 06,State Assigned -> Resolved,,Email,Audit export
+#240347,2026-02-02 16:27,Tech 06,Resolution code set,,Email,Audit export
+#240640,2026-02-02 16:38,Tech 06,State Assigned -> Responded,,Canvas,Audit export
+#240640,2026-02-02 16:40,Tech 06,Comment added,Confirmed the issue is resolved with the user.,Canvas,Audit export
+#240640,2026-02-02 16:42,Tech 06,Assignee -1 -> Service Desk,,Canvas,Audit export
+#240484,2026-02-02 16:44,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Software,Audit export
+#240584,2026-02-02 18:08,Tech 01,Comment added,Following up: waiting on the user to test again.,Canvas,Audit export
+#240586,2026-02-02 18:08,Tech 01,Assignee -1 -> Asset Management,,Email,Audit export
+#240591,2026-02-02 21:19,Tech 01,Comment added,Asked the user for a screenshot of the error.,Wi-Fi,Audit export
+#240591,2026-02-02 21:20,Tech 01,Assignee -1 -> Front Desk Queue,,Wi-Fi,Audit export
+#240594,2026-02-02 21:49,Tech 01,Comment added,Reassigned with troubleshooting notes attached.,Printing,Audit export
+#240594,2026-02-02 21:54,Tech 01,Assignee -1 -> Academic Solutions,,Printing,Audit export
+#240601,2026-02-02 22:09,Tech 01,Comment added,Following up: waiting on the user to test again.,Printing,Audit export
+#240601,2026-02-02 22:10,Tech 01,Assignee -1 -> Front Desk Queue,,Printing,Audit export
+#240598,2026-02-02 22:24,Tech 01,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240548,2026-02-02 22:28,Tech 01,Comment added,Confirmed the issue is resolved with the user.,Account access,Audit export
+#240598,2026-02-02 22:29,Tech 01,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#240548,2026-02-02 22:30,Tech 01,Assignee -1 -> Technical Support,,Account access,Audit export
+#240689,2026-02-03 08:15,Tech 08,Comment added,Asked the user for a screenshot of the error.,Canvas,Audit export
+#240633,2026-02-03 08:20,Tech 03,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#240689,2026-02-03 08:21,Tech 08,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#240657,2026-02-03 08:22,Tech 03,Comment added,Called the user and walked through the reset steps.,Printing,Audit export
+#240657,2026-02-03 08:28,Tech 03,State Assigned -> Resolved,,Printing,Audit export
+#240657,2026-02-03 08:34,Tech 03,Resolution code set,,Printing,Audit export
+#240666,2026-02-03 09:29,Tech 03,State Assigned -> Responded,,Printing,Audit export
+#240687,2026-02-03 09:29,Tech 08,Subcategory changed,,Printing,Audit export
+#240687,2026-02-03 09:30,Tech 08,Assignee -1 -> Enterprise Solutions,,Printing,Audit export
+#240658,2026-02-03 09:51,Tech 03,State Assigned -> Resolved,,Password maintenance,Audit export
+#240658,2026-02-03 09:54,Tech 03,Resolution code set,,Password maintenance,Audit export
+#240662,2026-02-03 09:58,Tech 03,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240666,2026-02-03 10:20,Tech 03,Comment added,Following up: waiting on the user to test again.,Printing,Audit export
+#240666,2026-02-03 10:23,Tech 03,State Assigned -> Resolved,,Printing,Audit export
+#240666,2026-02-03 10:27,Tech 03,Resolution code set,,Printing,Audit export
+#240662,2026-02-03 10:41,Tech 03,Subcategory changed,,Password maintenance,Audit export
+#240662,2026-02-03 10:43,Tech 03,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240621,2026-02-03 10:54,Tech 03,Comment added,Checked the device in AD; account is active.,Hardware,Audit export
+#240621,2026-02-03 11:00,Tech 03,Assignee -1 -> Academic Solutions,,Hardware,Audit export
+#240696,2026-02-03 11:21,Tech 08,Assignee -1 -> Academic Solutions,,Hardware,Audit export
+#240673,2026-02-03 11:24,Tech 03,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#240673,2026-02-03 11:28,Tech 03,State Responded -> Waiting on User,,Password maintenance,Audit export
+#240670,2026-02-03 11:31,Tech 03,Comment added,Reassigned with troubleshooting notes attached.,Hardware,Audit export
+#240670,2026-02-03 11:32,Tech 03,State Assigned -> Resolved,,Hardware,Audit export
+#240670,2026-02-03 11:38,Tech 03,Resolution code set,,Hardware,Audit export
+#240692,2026-02-03 11:38,Tech 08,Subcategory changed,,Email,Audit export
+#240626,2026-02-03 12:27,Tech 02,State Assigned -> Resolved,,Software,Audit export
+#240626,2026-02-03 12:28,Tech 02,Resolution code set,,Software,Audit export
+#240643,2026-02-03 12:39,Tech 02,Comment added,Checked the device in AD; account is active.,Canvas,Audit export
+#240643,2026-02-03 12:45,Tech 02,Comment edited,,Canvas,Audit export
+#240643,2026-02-03 12:48,Tech 02,Assignee -1 -> Network Services,,Canvas,Audit export
+#240684,2026-02-03 13:06,Tech 07,State Assigned -> Resolved,,Classroom AV,Audit export
+#240684,2026-02-03 13:12,Tech 07,Resolution code set,,Classroom AV,Audit export
+#240646,2026-02-03 13:18,Tech 02,State Assigned -> Responded,,Software,Audit export
+#240646,2026-02-03 13:20,Tech 02,Subcategory changed,,Software,Audit export
+#240646,2026-02-03 13:26,Tech 02,State Assigned -> Resolved,,Software,Audit export
+#240646,2026-02-03 13:28,Tech 02,Resolution code set,,Software,Audit export
+#240680,2026-02-03 13:37,Tech 07,State Assigned -> Responded,,Email,Audit export
+#240680,2026-02-03 13:41,Tech 07,State Assigned -> Resolved,,Email,Audit export
+#240680,2026-02-03 13:45,Tech 07,Resolution code set,,Email,Audit export
+#240584,2026-02-03 14:18,Tech 02,Assignee -1 -> Technical Support,,Canvas,Audit export
+#240632,2026-02-03 14:36,Tech 02,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#240632,2026-02-03 14:37,Tech 02,Assignee -1 -> Academic Solutions,,Password maintenance,Audit export
+#240686,2026-02-03 14:56,Tech 07,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240574,2026-02-03 15:15,Tech 02,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240647,2026-02-03 15:42,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Canvas,Audit export
+#240647,2026-02-03 15:44,Tech 02,Assignee -1 -> Enterprise Solutions,,Canvas,Audit export
+#240653,2026-02-03 16:02,Tech 02,Comment added,Asked the user for a screenshot of the error.,Wi-Fi,Audit export
+#240653,2026-02-03 16:03,Tech 02,State Assigned -> Resolved,,Wi-Fi,Audit export
+#240653,2026-02-03 16:08,Tech 02,Resolution code set,,Wi-Fi,Audit export
+#240679,2026-02-03 16:30,Tech 07,Comment added,Called the user and walked through the reset steps.,Password maintenance,Audit export
+#240679,2026-02-03 16:33,Tech 07,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240650,2026-02-03 16:34,Tech 02,Comment added,Following up: waiting on the user to test again.,Wi-Fi,Audit export
+#240651,2026-02-03 16:51,Tech 02,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#240651,2026-02-03 16:55,Tech 02,State Assigned -> Resolved,,Password maintenance,Audit export
+#240651,2026-02-03 16:56,Tech 02,Resolution code set,,Password maintenance,Audit export
+#240676,2026-02-03 19:07,Tech 05,Comment added,Left a voicemail and sent an email with next steps.,Hardware,Audit export
+#240676,2026-02-03 19:08,Tech 05,Assignee -1 -> Front Desk Queue,,Hardware,Audit export
+#240674,2026-02-03 19:28,Tech 05,Assignee -1 -> Service Desk,,Classroom AV,Audit export
+#240650,2026-02-03 20:30,Tech 05,Assignee -1 -> Enterprise Solutions,,Wi-Fi,Audit export
+#240673,2026-02-03 21:20,Tech 05,State Assigned -> Resolved,,Password maintenance,Audit export
+#240673,2026-02-03 21:21,Tech 05,Resolution code set,,Password maintenance,Audit export
+#240677,2026-02-03 22:19,Tech 05,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#240677,2026-02-03 22:20,Tech 05,Assignee -1 -> Technical Support,,Password maintenance,Audit export
+#240725,2026-02-04 08:15,Tech 03,Comment added,Checked the device in AD; account is active.,Email,Audit export
+#240729,2026-02-04 08:17,Tech 03,Assignee -1 -> Front Desk Queue,,Email,Audit export
+#240725,2026-02-04 08:19,Tech 03,Assignee -1 -> Front Desk Queue,,Email,Audit export
+#240757,2026-02-04 09:19,Tech 08,Comment added,Left a voicemail and sent an email with next steps.,Classroom AV,Audit export
+#240753,2026-02-04 09:34,Tech 08,State Responded -> Waiting on User,,Email,Audit export
+#240733,2026-02-04 09:51,Tech 03,Comment added,Checked the device in AD; account is active.,Account access,Audit export
+#240732,2026-02-04 09:52,Tech 03,Category changed,,Software,Audit export
+#240733,2026-02-04 09:57,Tech 03,Assignee -1 -> Front Desk Queue,,Account access,Audit export
+#240732,2026-02-04 09:58,Tech 03,Comment added,Reassigned with troubleshooting notes attached.,Software,Audit export
+#240758,2026-02-04 10:10,Tech 08,Assignee -1 -> Network Services,,Password maintenance,Audit export
+#240736,2026-02-04 10:24,Tech 03,Assignee -1 -> Classroom Media Services,,Password maintenance,Audit export
+#240734,2026-02-04 10:38,Tech 03,Comment added,Left a voicemail and sent an email with next steps.,Wi-Fi,Audit export
+#240734,2026-02-04 10:43,Tech 03,State Assigned -> Resolved,,Wi-Fi,Audit export
+#240734,2026-02-04 10:46,Tech 03,Resolution code set,,Wi-Fi,Audit export
+#240766,2026-02-04 11:09,Tech 12,Assignee -1 -> Academic Solutions,,Hardware,Audit export
+#240759,2026-02-04 11:10,Tech 08,Comment added,Left a voicemail and sent an email with next steps.,Account access,Audit export
+#240759,2026-02-04 11:11,Tech 08,Assignee -1 -> Technical Support,,Account access,Audit export
+#240757,2026-02-04 11:14,Tech 08,Assignee -1 -> Front Desk Queue,,Classroom AV,Audit export
+#240732,2026-02-04 11:23,Tech 03,Comment added,Called the user and walked through the reset steps.,Software,Audit export
+#240738,2026-02-04 12:02,Tech 06,Comment added,Asked the user for a screenshot of the error.,Email,Audit export
+#240743,2026-02-04 12:06,Tech 07,Comment added,Left a voicemail and sent an email with next steps.,Wi-Fi,Audit export
+#240738,2026-02-04 12:07,Tech 06,State Assigned -> Resolved,,Email,Audit export
+#240738,2026-02-04 12:08,Tech 06,Resolution code set,,Email,Audit export
+#240743,2026-02-04 12:10,Tech 07,Assignee -1 -> Technical Support,,Wi-Fi,Audit export
+#240732,2026-02-04 12:58,Tech 06,Assignee -1 -> Front Desk Queue,,Software,Audit export
+#240746,2026-02-04 13:00,Tech 07,Comment added,Checked the device in AD; account is active.,Account access,Audit export
+#240746,2026-02-04 13:02,Tech 07,Assignee -1 -> Front Desk Queue,,Account access,Audit export
+#240741,2026-02-04 13:26,Tech 06,State Assigned -> Responded,,Hardware,Audit export
+#240741,2026-02-04 13:31,Tech 06,Assignee -1 -> Technical Support,,Hardware,Audit export
+#240748,2026-02-04 16:05,Tech 07,Comment added,Left a voicemail and sent an email with next steps.,Classroom AV,Audit export
+#240748,2026-02-04 16:09,Tech 07,Assignee -1 -> Service Desk,,Classroom AV,Audit export
+#240711,2026-02-04 16:32,Tech 01,Comment added,Following up: waiting on the user to test again.,Account access,Audit export
+#240711,2026-02-04 16:34,Tech 01,State Assigned -> Resolved,,Account access,Audit export
+#240711,2026-02-04 16:36,Tech 01,Resolution code set,,Account access,Audit export
+#240742,2026-02-04 16:36,Tech 06,Comment added,Called the user and walked through the reset steps.,Software,Audit export
+#240751,2026-02-04 16:38,Tech 07,Assignee -1 -> Asset Management,,Canvas,Audit export
+#240742,2026-02-04 16:41,Tech 06,Assignee -1 -> Network Services,,Software,Audit export
+#240700,2026-02-04 18:34,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Hardware,Audit export
+#240700,2026-02-04 18:39,Tech 01,Assignee -1 -> Asset Management,,Hardware,Audit export
+#240692,2026-02-04 18:47,Tech 01,Comment added,Following up: waiting on the user to test again.,Email,Audit export
+#240692,2026-02-04 18:50,Tech 01,Assignee -1 -> Enterprise Solutions,,Email,Audit export
+#240739,2026-02-04 19:31,Tech 06,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240704,2026-02-04 19:46,Tech 01,Comment added,Checked the device in AD; account is active.,Account access,Audit export
+#240704,2026-02-04 19:49,Tech 01,Assignee -1 -> Academic Solutions,,Account access,Audit export
+#240706,2026-02-04 20:23,Tech 01,Comment added,fixed,Email,Audit export
+#240706,2026-02-04 20:24,Tech 01,Assignee -1 -> Academic Solutions,,Email,Audit export
+#240707,2026-02-04 20:41,Tech 01,Comment added,Checked the device in AD; account is active.,Canvas,Audit export
+#240707,2026-02-04 20:42,Tech 01,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#240719,2026-02-04 21:03,Tech 01,Comment added,ok,Password maintenance,Audit export
+#240715,2026-02-04 21:04,Tech 01,Assignee -1 -> Network Services,,Printing,Audit export
+#240719,2026-02-04 21:05,Tech 01,State Responded -> Waiting on User,,Password maintenance,Audit export
+#240719,2026-02-04 22:54,Tech 01,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#240719,2026-02-04 22:55,Tech 01,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240721,2026-02-04 22:58,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#240789,2026-02-05 08:46,Tech 04,Comment added,Following up: waiting on the user to test again.,Canvas,Audit export
+#240762,2026-02-05 09:23,Tech 04,Comment added,Confirmed the issue is resolved with the user.,Printing,Audit export
+#240762,2026-02-05 09:28,Tech 04,State Responded -> Waiting on User,,Printing,Audit export
+#240826,2026-02-05 09:54,Tech 10,State Assigned -> Resolved,,Password maintenance,Audit export
+#240826,2026-02-05 09:58,Tech 10,Resolution code set,,Password maintenance,Audit export
+#240792,2026-02-05 10:03,Tech 04,Comment added,fixed,Wi-Fi,Audit export
+#240792,2026-02-05 10:08,Tech 04,Assignee -1 -> Classroom Media Services,,Wi-Fi,Audit export
+#240794,2026-02-05 10:52,Tech 04,Assignee -1 -> Asset Management,,Classroom AV,Audit export
+#240800,2026-02-05 11:06,Tech 04,Comment added,Reassigned with troubleshooting notes attached.,Classroom AV,Audit export
+#240800,2026-02-05 11:07,Tech 04,Assignee -1 -> Classroom Media Services,,Classroom AV,Audit export
+#240796,2026-02-05 11:37,Tech 04,Assignee -1 -> Technical Support,,Account access,Audit export
+#240762,2026-02-05 11:51,Tech 04,Category changed,,Printing,Audit export
+#240762,2026-02-05 11:53,Tech 04,Comment added,Following up: waiting on the user to test again.,Printing,Audit export
+#240762,2026-02-05 11:54,Tech 04,Assignee -1 -> Service Desk,,Printing,Audit export
+#240721,2026-02-05 12:02,Tech 02,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#240762,2026-02-05 12:02,Tech 02,Comment added,Called the user and walked through the reset steps.,Printing,Audit export
+#240762,2026-02-05 12:04,Tech 02,State Responded -> Waiting on User,,Printing,Audit export
+#240721,2026-02-05 12:08,Tech 02,State Assigned -> Resolved,,Password maintenance,Audit export
+#240721,2026-02-05 12:11,Tech 02,Resolution code set,,Password maintenance,Audit export
+#240833,2026-02-05 12:12,Tech 11,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240769,2026-02-05 12:42,Tech 02,Comment added,Called the user and walked through the reset steps.,Password maintenance,Audit export
+#240769,2026-02-05 12:44,Tech 02,State Assigned -> Resolved,,Password maintenance,Audit export
+#240769,2026-02-05 12:45,Tech 02,Resolution code set,,Password maintenance,Audit export
+#240816,2026-02-05 13:15,Tech 07,Comment added,Checked the device in AD; account is active.,Account access,Audit export
+#240837,2026-02-05 13:17,Tech 11,State Assigned -> Resolved,,Email,Audit export
+#240816,2026-02-05 13:20,Tech 07,Assignee -1 -> Classroom Media Services,,Account access,Audit export
+#240812,2026-02-05 13:21,Tech 07,Comment added,Confirmed the issue is resolved with the user.,Account access,Audit export
+#240837,2026-02-05 13:22,Tech 11,Resolution code set,,Email,Audit export
+#240812,2026-02-05 13:25,Tech 07,Assignee -1 -> Front Desk Queue,,Account access,Audit export
+#240772,2026-02-05 13:27,Tech 02,Comment added,Following up: waiting on the user to test again.,Canvas,Audit export
+#240772,2026-02-05 13:29,Tech 02,Assignee -1 -> Technical Support,,Canvas,Audit export
+#240775,2026-02-05 14:08,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Software,Audit export
+#240819,2026-02-05 14:16,Tech 07,Comment added,Called the user and walked through the reset steps.,Password maintenance,Audit export
+#240819,2026-02-05 14:20,Tech 07,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#240774,2026-02-05 14:58,Tech 02,Comment added,Asked the user for a screenshot of the error.,Canvas,Audit export
+#240774,2026-02-05 14:59,Tech 02,Comment edited,,Canvas,Audit export
+#240774,2026-02-05 15:01,Tech 02,Assignee -1 -> Asset Management,,Canvas,Audit export
+#240841,2026-02-05 15:02,Tech 11,Category changed,,Password maintenance,Audit export
+#240841,2026-02-05 15:06,Tech 11,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#240841,2026-02-05 15:07,Tech 11,State Assigned -> Resolved,,Password maintenance,Audit export
+#240841,2026-02-05 15:09,Tech 11,Resolution code set,,Password maintenance,Audit export
+#240779,2026-02-05 15:12,Tech 02,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#240783,2026-02-05 15:24,Tech 02,Comment added,Asked the user for a screenshot of the error.,Software,Audit export
+#240822,2026-02-05 15:31,Tech 07,State Assigned -> Resolved,,Account access,Audit export
+#240822,2026-02-05 15:32,Tech 07,Resolution code set,,Account access,Audit export
+#240786,2026-02-05 16:04,Tech 02,Assignee -1 -> Classroom Media Services,,Wi-Fi,Audit export
+#240784,2026-02-05 16:25,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Email,Audit export
+#240784,2026-02-05 16:31,Tech 02,Assignee -1 -> Enterprise Solutions,,Email,Audit export
+#240753,2026-02-05 16:38,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Email,Audit export
+#240801,2026-02-05 17:45,Tech 05,Assignee -1 -> Network Services,,Wi-Fi,Audit export
+#240843,2026-02-05 17:48,Tech 13,Comment added,Following up: waiting on the user to test again.,Email,Audit export
+#240843,2026-02-05 17:53,Tech 13,Assignee -1 -> Asset Management,,Email,Audit export
+#240779,2026-02-05 18:30,Tech 05,Comment added,fixed,Password maintenance,Audit export
+#240779,2026-02-05 18:34,Tech 05,State Assigned -> Resolved,,Password maintenance,Audit export
+#240779,2026-02-05 18:36,Tech 05,Resolution code set,,Password maintenance,Audit export
+#240790,2026-02-05 18:54,Tech 04,Comment added,done,Canvas,Audit export
+#240790,2026-02-05 18:59,Tech 04,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#240845,2026-02-05 19:32,Tech 13,State Assigned -> Responded,,Password maintenance,Audit export
+#240804,2026-02-05 20:35,Tech 05,Comment added,Asked the user for a screenshot of the error.,Email,Audit export
+#240804,2026-02-05 20:40,Tech 05,Assignee -1 -> Enterprise Solutions,,Email,Audit export
+#240783,2026-02-05 21:20,Tech 07,State Assigned -> Resolved,,Software,Audit export
+#240775,2026-02-05 21:21,Tech 05,Assignee -1 -> Technical Support,,Software,Audit export
+#240783,2026-02-05 21:21,Tech 07,Resolution code set,,Software,Audit export
+#240805,2026-02-05 21:36,Tech 05,Comment added,Reassigned with troubleshooting notes attached.,Wi-Fi,Audit export
+#240846,2026-02-05 22:01,Tech 13,Comment added,Reassigned with troubleshooting notes attached.,Password maintenance,Audit export
+#240846,2026-02-05 22:07,Tech 13,Comment edited,,Password maintenance,Audit export
+#240807,2026-02-06 08:50,Tech 03,Category changed,,Account access,Audit export
+#240807,2026-02-06 08:55,Tech 03,Comment added,fixed,Account access,Audit export
+#240846,2026-02-06 09:14,Tech 03,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240846,2026-02-06 09:18,Tech 03,State Assigned -> Resolved,,Password maintenance,Audit export
+#240846,2026-02-06 09:19,Tech 03,Resolution code set,,Password maintenance,Audit export
+#240848,2026-02-06 09:58,Tech 03,Comment added,Left a voicemail and sent an email with next steps.,Account access,Audit export
+#240826,2026-02-06 09:59,Tech 10,State Resolved -> Reopened by Client,,Password maintenance,Audit export
+#240848,2026-02-06 10:03,Tech 03,Assignee -1 -> Network Services,,Account access,Audit export
+#240851,2026-02-06 10:03,Tech 03,State Assigned -> Responded,,Password maintenance,Audit export
+#240851,2026-02-06 10:08,Tech 03,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#241726,2026-02-06 10:09,Tech 15,Assignment,,Printing,Queue PDF
+#240851,2026-02-06 10:10,Tech 03,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#240807,2026-02-06 10:53,Tech 03,State Assigned -> Resolved,,Account access,Audit export
+#240807,2026-02-06 10:55,Tech 03,Resolution code set,,Account access,Audit export
+#240809,2026-02-06 10:59,Tech 11,Comment added,Checked the device in AD; account is active.,Canvas,Audit export
+#240809,2026-02-06 11:02,Tech 11,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#241737,2026-02-06 11:10,Tech 15,State change,,Password maintenance,Queue PDF
+#240789,2026-02-06 11:20,Tech 03,Assignee -1 -> Service Desk,,Canvas,Audit export
+#240854,2026-02-06 11:23,Tech 03,State Assigned -> Resolved,,Canvas,Audit export
+#240854,2026-02-06 11:24,Tech 03,Resolution code set,,Canvas,Audit export
+#240805,2026-02-06 11:56,Tech 03,Subcategory changed,,Wi-Fi,Audit export
+#240805,2026-02-06 12:02,Tech 03,Comment added,Following up: waiting on the user to test again.,Wi-Fi,Audit export
+#240805,2026-02-06 12:05,Tech 03,Assignee -1 -> Academic Solutions,,Wi-Fi,Audit export
+#240860,2026-02-06 13:14,Tech 04,State Assigned -> Responded,,Wi-Fi,Audit export
+#240860,2026-02-06 13:16,Tech 04,Comment added,Left a voicemail and sent an email with next steps.,Wi-Fi,Audit export
+#240876,2026-02-06 13:38,Tech 06,State Assigned -> Responded,,Email,Audit export
+#240857,2026-02-06 13:43,Tech 04,Comment added,Checked the device in AD; account is active.,Printing,Audit export
+#240876,2026-02-06 13:43,Tech 06,Assignee -1 -> Service Desk,,Email,Audit export
+#240857,2026-02-06 13:44,Tech 04,Assignee -1 -> Academic Solutions,,Printing,Audit export
+#240809,2026-02-06 13:54,Tech 04,Comment added,Called the user and walked through the reset steps.,Canvas,Audit export
+#240878,2026-02-06 14:43,Tech 06,State Assigned -> Responded,,Email,Audit export
+#240878,2026-02-06 14:44,Tech 06,Comment added,Called the user and walked through the reset steps.,Email,Audit export
+#240878,2026-02-06 14:48,Tech 06,Assignee -1 -> Technical Support,,Email,Audit export
+#240863,2026-02-06 14:55,Tech 04,Comment added,called,Classroom AV,Audit export
+#240867,2026-02-06 14:56,Tech 04,State Assigned -> Responded,,Wi-Fi,Audit export
+#240867,2026-02-06 14:59,Tech 04,Comment added,Following up: waiting on the user to test again.,Wi-Fi,Audit export
+#240867,2026-02-06 15:03,Tech 04,Assignee -1 -> Front Desk Queue,,Wi-Fi,Audit export
+#240809,2026-02-06 15:25,Tech 06,Comment added,Asked the user for a screenshot of the error.,Canvas,Audit export
+#240829,2026-02-06 15:51,Tech 04,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#240829,2026-02-06 15:56,Tech 04,Assignee -1 -> Service Desk,,Password maintenance,Audit export
+#240870,2026-02-06 15:57,Tech 04,Comment added,Left a voicemail and sent an email with next steps.,Canvas,Audit export
+#240881,2026-02-06 15:59,Tech 06,Comment added,Reassigned with troubleshooting notes attached.,Account access,Audit export
+#240870,2026-02-06 16:00,Tech 04,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#240874,2026-02-06 16:49,Tech 04,Comment added,ok,Hardware,Audit export
+#240874,2026-02-06 17:05,Tech 09,Assignee -1 -> Front Desk Queue,,Hardware,Audit export
+#240882,2026-02-06 19:14,Tech 09,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#240882,2026-02-06 19:16,Tech 09,Assignee -1 -> Classroom Media Services,,Password maintenance,Audit export
+#240885,2026-02-06 20:39,Tech 09,Assignee -1 -> Technical Support,,Wi-Fi,Audit export
+#240889,2026-02-06 20:50,Tech 09,Comment added,Called the user and walked through the reset steps.,Software,Audit export
+#240889,2026-02-06 20:51,Tech 09,Assignee -1 -> Asset Management,,Software,Audit export
+#240892,2026-02-06 21:58,Tech 09,State Assigned -> Responded,,Hardware,Audit export
+#240892,2026-02-06 21:59,Tech 09,Comment added,Reassigned with troubleshooting notes attached.,Hardware,Audit export
+#240753,2026-02-06 22:04,Tech 09,Comment added,Asked the user for a screenshot of the error.,Email,Audit export
+#240753,2026-02-06 22:05,Tech 09,Assignee -1 -> Academic Solutions,,Email,Audit export
+#240902,2026-02-07 10:31,Tech 01,Category changed,,Hardware,Audit export
+#240902,2026-02-07 10:32,Tech 01,Comment added,Reassigned with troubleshooting notes attached.,Hardware,Audit export
+#240902,2026-02-07 10:34,Tech 01,Assignee -1 -> Network Services,,Hardware,Audit export
+#240900,2026-02-07 10:35,Tech 01,State Assigned -> Resolved,,Email,Audit export
+#240900,2026-02-07 10:40,Tech 01,Resolution code set,,Email,Audit export
+#240897,2026-02-07 10:41,Tech 01,Comment added,Checked the device in AD; account is active.,Printing,Audit export
+#240860,2026-02-07 11:44,Tech 01,Comment added,Confirmed the issue is resolved with the user.,Wi-Fi,Audit export
+#240860,2026-02-07 11:49,Tech 01,Assignee -1 -> Classroom Media Services,,Wi-Fi,Audit export
+#240908,2026-02-07 12:14,Tech 09,State Assigned -> Responded,,Hardware,Audit export
+#240908,2026-02-07 12:20,Tech 09,State Assigned -> Resolved,,Hardware,Audit export
+#240908,2026-02-07 12:21,Tech 09,Resolution code set,,Hardware,Audit export
+#240881,2026-02-07 12:52,Tech 01,Comment added,Asked the user for a screenshot of the error.,Account access,Audit export
+#240913,2026-02-07 14:59,Tech 09,Comment added,Following up: waiting on the user to test again.,Software,Audit export
+#240845,2026-02-07 15:42,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#240845,2026-02-07 15:47,Tech 01,Assignee -1 -> Network Services,,Password maintenance,Audit export
+#240903,2026-02-07 15:53,Tech 01,State Assigned -> Responded,,Password maintenance,Audit export
+#240903,2026-02-07 15:58,Tech 01,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#240903,2026-02-07 16:01,Tech 01,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#240897,2026-02-07 16:19,Tech 01,Comment added,Reassigned with troubleshooting notes attached.,Printing,Audit export
+#240897,2026-02-07 16:25,Tech 01,Assignee -1 -> Front Desk Queue,,Printing,Audit export
+#240907,2026-02-07 17:17,Tech 01,Comment added,Asked the user for a screenshot of the error.,Classroom AV,Audit export
+#240922,2026-02-08 10:16,Tech 01,Comment added,Confirmed the issue is resolved with the user.,Classroom AV,Audit export
+#240922,2026-02-08 10:19,Tech 01,Assignee -1 -> Service Desk,,Classroom AV,Audit export
+#240920,2026-02-08 10:37,Tech 01,Comment added,Asked the user for a screenshot of the error.,Hardware,Audit export
+#240920,2026-02-08 10:39,Tech 01,Assignee -1 -> Front Desk Queue,,Hardware,Audit export
+#240892,2026-02-08 10:43,Tech 01,Assignee -1 -> Front Desk Queue,,Hardware,Audit export
+#240925,2026-02-08 11:30,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#240925,2026-02-08 11:32,Tech 01,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240896,2026-02-08 11:53,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Email,Audit export
+#240896,2026-02-08 11:57,Tech 01,Assignee -1 -> Front Desk Queue,,Email,Audit export
+#240909,2026-02-08 12:14,Tech 01,Comment added,Called the user and walked through the reset steps.,Wi-Fi,Audit export
+#240909,2026-02-08 12:16,Tech 01,Assignee -1 -> Front Desk Queue,,Wi-Fi,Audit export
+#240907,2026-02-08 13:07,Tech 01,Comment added,Reassigned with troubleshooting notes attached.,Classroom AV,Audit export
+#240907,2026-02-08 13:12,Tech 01,Assignee -1 -> Network Services,,Classroom AV,Audit export
+#240881,2026-02-08 13:13,Tech 01,Comment added,Checked the device in AD; account is active.,Account access,Audit export
+#240881,2026-02-08 13:19,Tech 01,Assignee -1 -> Network Services,,Account access,Audit export
+#240926,2026-02-08 13:32,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#240926,2026-02-08 13:35,Tech 01,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#240928,2026-02-08 14:12,Tech 05,Comment added,Following up: waiting on the user to test again.,Printing,Audit export
+#240928,2026-02-08 14:18,Tech 05,Assignee -1 -> Asset Management,,Printing,Audit export
+#240931,2026-02-08 15:42,Tech 05,State Assigned -> Responded,,Password maintenance,Audit export
+#240931,2026-02-08 15:46,Tech 05,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#240931,2026-02-08 15:49,Tech 05,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#240932,2026-02-08 16:21,Tech 13,State Assigned -> Responded,,Email,Audit export
+#240932,2026-02-08 16:22,Tech 13,Comment added,Called the user and walked through the reset steps.,Email,Audit export
+#240913,2026-02-08 17:04,Tech 05,Comment added,Called the user and walked through the reset steps.,Software,Audit export
+#240998,2026-02-09 08:14,Tech 08,Assignee -1 -> Network Services,,Password maintenance,Audit export
+#240970,2026-02-09 08:59,Tech 04,State Assigned -> Responded,,Password maintenance,Audit export
+#240970,2026-02-09 09:05,Tech 04,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240970,2026-02-09 09:08,Tech 04,Assignee -1 -> Service Desk,,Password maintenance,Audit export
+#241001,2026-02-09 09:17,Tech 08,Comment added,ok,Account access,Audit export
+#240932,2026-02-09 09:18,Tech 08,State Assigned -> Resolved,,Email,Audit export
+#241001,2026-02-09 09:18,Tech 08,Assignee -1 -> Front Desk Queue,,Account access,Audit export
+#240932,2026-02-09 09:21,Tech 08,Resolution code set,,Email,Audit export
+#240973,2026-02-09 09:31,Tech 04,Assignee -1 -> Service Desk,,Account access,Audit export
+#240979,2026-02-09 09:37,Tech 04,Comment added,fixed,Software,Audit export
+#240979,2026-02-09 09:41,Tech 04,State Assigned -> Resolved,,Software,Audit export
+#240979,2026-02-09 09:42,Tech 04,Resolution code set,,Software,Audit export
+#240975,2026-02-09 09:50,Tech 04,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#240983,2026-02-09 10:38,Tech 04,Comment added,ok,Printing,Audit export
+#240983,2026-02-09 10:43,Tech 04,Assignee -1 -> Front Desk Queue,,Printing,Audit export
+#241745,2026-02-09 10:44,Tech 15,State change,,Classroom AV,Queue PDF
+#240982,2026-02-09 10:50,Tech 04,Comment added,ok,Hardware,Audit export
+#240982,2026-02-09 10:55,Tech 04,Assignee -1 -> Classroom Media Services,,Hardware,Audit export
+#240985,2026-02-09 11:28,Tech 04,Assignee -1 -> Front Desk Queue,,Classroom AV,Audit export
+#240984,2026-02-09 11:48,Tech 04,Comment added,ok,Classroom AV,Audit export
+#240984,2026-02-09 11:53,Tech 04,Assignee -1 -> Front Desk Queue,,Classroom AV,Audit export
+#240956,2026-02-09 12:08,Tech 02,Assignee -1 -> Asset Management,,Password maintenance,Audit export
+#240947,2026-02-09 12:46,Tech 02,Category changed,,Wi-Fi,Audit export
+#240948,2026-02-09 12:47,Tech 02,State Assigned -> Responded,,Email,Audit export
+#240947,2026-02-09 12:51,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Wi-Fi,Audit export
+#240948,2026-02-09 12:51,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Email,Audit export
+#240947,2026-02-09 12:52,Tech 02,Assignee -1 -> Front Desk Queue,,Wi-Fi,Audit export
+#240948,2026-02-09 12:54,Tech 02,Assignee -1 -> Academic Solutions,,Email,Audit export
+#240951,2026-02-09 13:21,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#240951,2026-02-09 13:27,Tech 02,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241010,2026-02-09 13:30,Tech 12,State Responded -> Waiting on User,,Password maintenance,Audit export
+#240953,2026-02-09 13:53,Tech 02,State Assigned -> Responded,,Printing,Audit export
+#240953,2026-02-09 13:59,Tech 02,Comment added,Called the user and walked through the reset steps.,Printing,Audit export
+#240989,2026-02-09 14:19,Tech 06,Comment added,Left a voicemail and sent an email with next steps.,Classroom AV,Audit export
+#240992,2026-02-09 15:17,Tech 06,State Assigned -> Responded,,Password maintenance,Audit export
+#240916,2026-02-09 15:19,Tech 06,Assignee -1 -> Classroom Media Services,,Password maintenance,Audit export
+#240992,2026-02-09 15:21,Tech 06,Assignee -1 -> Network Services,,Password maintenance,Audit export
+#240960,2026-02-09 15:57,Tech 02,Comment added,Following up: waiting on the user to test again.,Software,Audit export
+#240960,2026-02-09 16:02,Tech 02,State Responded -> Waiting on User,,Software,Audit export
+#240997,2026-02-09 16:11,Tech 06,State Assigned -> Responded,,Classroom AV,Audit export
+#240997,2026-02-09 16:14,Tech 06,Comment added,Left a voicemail and sent an email with next steps.,Classroom AV,Audit export
+#240997,2026-02-09 16:16,Tech 06,Assignee -1 -> Asset Management,,Classroom AV,Audit export
+#240965,2026-02-09 16:40,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#240965,2026-02-09 16:44,Tech 02,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#240969,2026-02-09 16:51,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Account access,Audit export
+#240969,2026-02-09 16:52,Tech 02,State Responded -> Waiting on User,,Account access,Audit export
+#240995,2026-02-09 16:54,Tech 06,State Responded -> Waiting on User,,Printing,Audit export
+#241004,2026-02-09 17:16,Tech 10,Comment added,Confirmed the issue is resolved with the user.,Classroom AV,Audit export
+#240994,2026-02-09 18:03,Tech 06,Comment added,Asked the user for a screenshot of the error.,Canvas,Audit export
+#240994,2026-02-09 18:07,Tech 06,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#240933,2026-02-09 18:27,Tech 01,Comment added,called,Password maintenance,Audit export
+#240933,2026-02-09 18:31,Tech 01,State Assigned -> Resolved,,Password maintenance,Audit export
+#240933,2026-02-09 18:32,Tech 01,Resolution code set,,Password maintenance,Audit export
+#240935,2026-02-09 19:17,Tech 01,Comment added,Reassigned with troubleshooting notes attached.,Email,Audit export
+#240938,2026-02-09 20:38,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Email,Audit export
+#240938,2026-02-09 20:39,Tech 01,Assignee -1 -> Academic Solutions,,Email,Audit export
+#240913,2026-02-09 20:55,Tech 01,Comment added,Reassigned with troubleshooting notes attached.,Software,Audit export
+#240913,2026-02-09 20:56,Tech 01,Assignee -1 -> Front Desk Queue,,Software,Audit export
+#240944,2026-02-09 21:12,Tech 01,Comment added,Checked the device in AD; account is active.,Printing,Audit export
+#240944,2026-02-09 21:16,Tech 01,State Assigned -> Resolved,,Printing,Audit export
+#240944,2026-02-09 21:19,Tech 01,Resolution code set,,Printing,Audit export
+#240942,2026-02-09 21:58,Tech 01,Comment added,Called the user and walked through the reset steps.,Hardware,Audit export
+#240942,2026-02-09 22:03,Tech 01,Comment edited,,Hardware,Audit export
+#240863,2026-02-09 22:48,Tech 01,Comment added,Following up: waiting on the user to test again.,Classroom AV,Audit export
+#240863,2026-02-09 22:52,Tech 01,Assignee -1 -> Asset Management,,Classroom AV,Audit export
+#241030,2026-02-10 08:08,Tech 03,Assignee -1 -> Front Desk Queue,,Account access,Audit export
+#241069,2026-02-10 08:28,Tech 08,State Assigned -> Responded,,Password maintenance,Audit export
+#241069,2026-02-10 08:34,Tech 08,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#241027,2026-02-10 08:37,Tech 03,Comment added,Confirmed the issue is resolved with the user.,Account access,Audit export
+#241069,2026-02-10 08:38,Tech 08,State Responded -> Waiting on User,,Password maintenance,Audit export
+#241027,2026-02-10 08:41,Tech 03,Assignee -1 -> Front Desk Queue,,Account access,Audit export
+#240942,2026-02-10 08:52,Tech 03,Comment added,Asked the user for a screenshot of the error.,Hardware,Audit export
+#240942,2026-02-10 08:58,Tech 03,Assignee -1 -> Front Desk Queue,,Hardware,Audit export
+#240935,2026-02-10 09:17,Tech 03,Comment added,done,Email,Audit export
+#241015,2026-02-10 09:18,Tech 02,Subcategory changed,,Wi-Fi,Audit export
+#240935,2026-02-10 09:22,Tech 03,Assignee -1 -> Service Desk,,Email,Audit export
+#241015,2026-02-10 09:23,Tech 02,Comment added,Asked the user for a screenshot of the error.,Wi-Fi,Audit export
+#241015,2026-02-10 09:25,Tech 02,Assignee -1 -> Technical Support,,Wi-Fi,Audit export
+#241034,2026-02-10 09:46,Tech 03,Comment added,Confirmed the issue is resolved with the user.,Canvas,Audit export
+#241034,2026-02-10 09:47,Tech 03,State Responded -> Waiting on User,,Canvas,Audit export
+#241033,2026-02-10 09:50,Tech 03,Assignee -1 -> Technical Support,,Email,Audit export
+#241069,2026-02-10 10:05,Tech 08,Comment added,Reassigned with troubleshooting notes attached.,Password maintenance,Audit export
+#241069,2026-02-10 10:09,Tech 08,Comment edited,,Password maintenance,Audit export
+#241069,2026-02-10 10:11,Tech 08,State Assigned -> Resolved,,Password maintenance,Audit export
+#241069,2026-02-10 10:16,Tech 08,Resolution code set,,Password maintenance,Audit export
+#241038,2026-02-10 10:41,Tech 03,Assignee -1 -> Academic Solutions,,Software,Audit export
+#241076,2026-02-10 10:47,Tech 08,Assignee -1 -> Enterprise Solutions,,Printing,Audit export
+#241007,2026-02-10 11:10,Tech 08,Assignee -1 -> Network Services,,Hardware,Audit export
+#240975,2026-02-10 11:30,Tech 03,Assignee -1 -> Service Desk,,Password maintenance,Audit export
+#241078,2026-02-10 11:38,Tech 08,Assignee -1 -> Service Desk,,Hardware,Audit export
+#241013,2026-02-10 12:38,Tech 02,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#241010,2026-02-10 12:50,Tech 07,Comment added,Reassigned with troubleshooting notes attached.,Password maintenance,Audit export
+#241010,2026-02-10 12:52,Tech 07,Assignee -1 -> Technical Support,,Password maintenance,Audit export
+#241062,2026-02-10 13:26,Tech 07,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#240969,2026-02-10 13:45,Tech 07,State Assigned -> Resolved,,Account access,Audit export
+#240969,2026-02-10 13:49,Tech 07,Resolution code set,,Account access,Audit export
+#241058,2026-02-10 13:49,Tech 07,Assignee -1 -> Network Services,,Software,Audit export
+#241018,2026-02-10 13:58,Tech 02,State Assigned -> Responded,,Canvas,Audit export
+#240989,2026-02-10 14:03,Tech 02,State Assigned -> Resolved,,Classroom AV,Audit export
+#241018,2026-02-10 14:04,Tech 02,Comment added,Asked the user for a screenshot of the error.,Canvas,Audit export
+#241018,2026-02-10 14:05,Tech 02,State Assigned -> Resolved,,Canvas,Audit export
+#240989,2026-02-10 14:08,Tech 02,Resolution code set,,Classroom AV,Audit export
+#241018,2026-02-10 14:08,Tech 02,Resolution code set,,Canvas,Audit export
+#241020,2026-02-10 14:25,Tech 02,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#241020,2026-02-10 14:30,Tech 02,Assignee -1 -> Technical Support,,Password maintenance,Audit export
+#240953,2026-02-10 14:40,Tech 02,Comment added,Called the user and walked through the reset steps.,Printing,Audit export
+#240953,2026-02-10 14:46,Tech 02,Assignee -1 -> Asset Management,,Printing,Audit export
+#241024,2026-02-10 15:42,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Password maintenance,Audit export
+#241004,2026-02-10 15:46,Tech 07,Comment added,Called the user and walked through the reset steps.,Classroom AV,Audit export
+#241024,2026-02-10 15:47,Tech 02,Assignee -1 -> Network Services,,Password maintenance,Audit export
+#240995,2026-02-10 15:48,Tech 02,Comment added,Called the user and walked through the reset steps.,Printing,Audit export
+#241004,2026-02-10 15:51,Tech 07,Assignee -1 -> Network Services,,Classroom AV,Audit export
+#241064,2026-02-10 15:51,Tech 07,Assignee -1 -> Network Services,,Email,Audit export
+#241034,2026-02-10 16:10,Tech 07,Comment added,Confirmed the issue is resolved with the user.,Canvas,Audit export
+#240969,2026-02-10 16:13,Tech 02,Comment added,called,Account access,Audit export
+#241034,2026-02-10 16:13,Tech 07,State Assigned -> Resolved,,Canvas,Audit export
+#240969,2026-02-10 16:16,Tech 02,State Responded -> Waiting on User,,Account access,Audit export
+#241034,2026-02-10 16:19,Tech 07,Resolution code set,,Canvas,Audit export
+#241051,2026-02-10 20:03,Tech 05,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#241051,2026-02-10 20:05,Tech 05,State Assigned -> Resolved,,Password maintenance,Audit export
+#241051,2026-02-10 20:11,Tech 05,Resolution code set,,Password maintenance,Audit export
+#241044,2026-02-10 20:25,Tech 05,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#241044,2026-02-10 20:29,Tech 05,Assignee -1 -> Network Services,,Password maintenance,Audit export
+#241047,2026-02-10 20:32,Tech 05,Subcategory changed,,Password maintenance,Audit export
+#241047,2026-02-10 20:33,Tech 05,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#241045,2026-02-10 20:38,Tech 05,State Assigned -> Responded,,Password maintenance,Audit export
+#241045,2026-02-10 20:43,Tech 05,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#241055,2026-02-10 21:42,Tech 05,Comment added,Left a voicemail and sent an email with next steps.,Account access,Audit export
+#241055,2026-02-10 21:45,Tech 05,State Assigned -> Resolved,,Account access,Audit export
+#241055,2026-02-10 21:50,Tech 05,Resolution code set,,Account access,Audit export
+#240960,2026-02-10 22:10,Tech 05,Comment added,Checked the device in AD; account is active.,Software,Audit export
+#240960,2026-02-10 22:14,Tech 05,Assignee -1 -> Classroom Media Services,,Software,Audit export
+#240995,2026-02-10 22:51,Tech 05,Assignee -1 -> Service Desk,,Printing,Audit export
+#241130,2026-02-11 08:38,Tech 08,Assignee -1 -> Asset Management,,Canvas,Audit export
+#241132,2026-02-11 08:58,Tech 08,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241138,2026-02-11 09:10,Tech 12,Comment added,Checked the device in AD; account is active.,Hardware,Audit export
+#241093,2026-02-11 09:52,Tech 03,Comment added,Checked the device in AD; account is active.,Hardware,Audit export
+#241141,2026-02-11 10:35,Tech 12,Category changed,,Hardware,Audit export
+#241141,2026-02-11 10:36,Tech 12,Assignee -1 -> Network Services,,Hardware,Audit export
+#241098,2026-02-11 10:42,Tech 03,Assignee -1 -> Front Desk Queue,,Software,Audit export
+#241096,2026-02-11 10:46,Tech 03,Comment added,Left a voicemail and sent an email with next steps.,Canvas,Audit export
+#241101,2026-02-11 11:07,Tech 03,Comment added,Called the user and walked through the reset steps.,Software,Audit export
+#241101,2026-02-11 11:12,Tech 03,Assignee -1 -> Network Services,,Software,Audit export
+#241103,2026-02-11 11:53,Tech 03,Comment added,Confirmed the issue is resolved with the user.,Printing,Audit export
+#241134,2026-02-11 11:55,Tech 08,Assignee -1 -> Classroom Media Services,,Password maintenance,Audit export
+#241103,2026-02-11 11:58,Tech 03,Assignee -1 -> Service Desk,,Printing,Audit export
+#241104,2026-02-11 12:45,Tech 06,Assignee -1 -> Enterprise Solutions,,Account access,Audit export
+#241107,2026-02-11 12:52,Tech 06,State Assigned -> Resolved,,Email,Audit export
+#241107,2026-02-11 12:54,Tech 06,Resolution code set,,Email,Audit export
+#241106,2026-02-11 12:59,Tech 06,State Assigned -> Responded,,Account access,Audit export
+#241106,2026-02-11 13:05,Tech 06,Subcategory changed,,Account access,Audit export
+#241106,2026-02-11 13:08,Tech 06,Assignee -1 -> Service Desk,,Account access,Audit export
+#241733,2026-02-11 13:13,Tech 15,State change,,Hardware,Queue PDF
+#241120,2026-02-11 13:27,Tech 07,Comment added,Reassigned with troubleshooting notes attached.,Password maintenance,Audit export
+#241120,2026-02-11 13:29,Tech 07,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241122,2026-02-11 13:49,Tech 07,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#241124,2026-02-11 14:08,Tech 07,State Assigned -> Responded,,Email,Audit export
+#241124,2026-02-11 14:13,Tech 07,Comment added,Left a voicemail and sent an email with next steps.,Email,Audit export
+#241124,2026-02-11 14:18,Tech 07,State Assigned -> Resolved,,Email,Audit export
+#241108,2026-02-11 14:22,Tech 06,State Assigned -> Responded,,Wi-Fi,Audit export
+#241124,2026-02-11 14:22,Tech 07,Resolution code set,,Email,Audit export
+#241112,2026-02-11 15:01,Tech 06,State Assigned -> Responded,,Classroom AV,Audit export
+#241112,2026-02-11 15:07,Tech 06,Comment added,Following up: waiting on the user to test again.,Classroom AV,Audit export
+#241112,2026-02-11 15:12,Tech 06,State Assigned -> Resolved,,Classroom AV,Audit export
+#241112,2026-02-11 15:18,Tech 06,Resolution code set,,Classroom AV,Audit export
+#241047,2026-02-11 15:34,Tech 06,Assignee -1 -> Technical Support,,Password maintenance,Audit export
+#241114,2026-02-11 16:33,Tech 06,Comment added,Asked the user for a screenshot of the error.,Hardware,Audit export
+#241116,2026-02-11 16:33,Tech 06,Assignee -1 -> Academic Solutions,,Canvas,Audit export
+#241114,2026-02-11 16:35,Tech 06,Assignee -1 -> Front Desk Queue,,Hardware,Audit export
+#241045,2026-02-11 17:30,Tech 10,State Assigned -> Resolved,,Password maintenance,Audit export
+#241045,2026-02-11 17:34,Tech 10,Resolution code set,,Password maintenance,Audit export
+#241080,2026-02-11 18:45,Tech 01,Category changed,,Printing,Audit export
+#241080,2026-02-11 18:48,Tech 01,Comment added,Reassigned with troubleshooting notes attached.,Printing,Audit export
+#241080,2026-02-11 18:50,Tech 01,Assignee -1 -> Technical Support,,Printing,Audit export
+#241040,2026-02-11 18:52,Tech 01,Comment added,Following up: waiting on the user to test again.,Printing,Audit export
+#241040,2026-02-11 18:54,Tech 01,Assignee -1 -> Technical Support,,Printing,Audit export
+#241083,2026-02-11 20:53,Tech 01,State Assigned -> Responded,,Hardware,Audit export
+#241083,2026-02-11 20:56,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Hardware,Audit export
+#241083,2026-02-11 21:02,Tech 01,State Responded -> Waiting on User,,Hardware,Audit export
+#241085,2026-02-11 21:09,Tech 01,Comment added,Called the user and walked through the reset steps.,Email,Audit export
+#241085,2026-02-11 21:13,Tech 01,Comment edited,,Email,Audit export
+#241085,2026-02-11 21:19,Tech 01,State Assigned -> Resolved,,Email,Audit export
+#241085,2026-02-11 21:23,Tech 01,Resolution code set,,Email,Audit export
+#241090,2026-02-11 22:17,Tech 01,State Assigned -> Responded,,Password maintenance,Audit export
+#241090,2026-02-11 22:19,Tech 01,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#241090,2026-02-11 22:25,Tech 01,Assignee -1 -> Network Services,,Password maintenance,Audit export
+#241088,2026-02-11 22:59,Tech 01,Comment added,Following up: waiting on the user to test again.,Canvas,Audit export
+#241159,2026-02-12 08:46,Tech 04,Comment added,Confirmed the issue is resolved with the user.,Software,Audit export
+#241159,2026-02-12 08:51,Tech 04,Assignee -1 -> Technical Support,,Software,Audit export
+#241163,2026-02-12 09:01,Tech 04,Comment added,Called the user and walked through the reset steps.,Software,Audit export
+#241163,2026-02-12 09:04,Tech 04,Assignee -1 -> Classroom Media Services,,Software,Audit export
+#241187,2026-02-12 09:24,Tech 10,Assignee -1 -> Enterprise Solutions,,Email,Audit export
+#241088,2026-02-12 09:36,Tech 04,Comment added,Following up: waiting on the user to test again.,Canvas,Audit export
+#241184,2026-02-12 09:51,Tech 10,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241165,2026-02-12 10:15,Tech 04,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#241169,2026-02-12 10:17,Tech 04,Comment added,done,Account access,Audit export
+#241166,2026-02-12 10:46,Tech 04,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#241166,2026-02-12 10:51,Tech 04,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#241172,2026-02-12 11:55,Tech 04,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#241172,2026-02-12 11:56,Tech 04,Comment edited,,Password maintenance,Audit export
+#241172,2026-02-12 12:02,Tech 04,State Responded -> Waiting on User,,Password maintenance,Audit export
+#241088,2026-02-12 12:19,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Canvas,Audit export
+#241142,2026-02-12 13:12,Tech 02,State Assigned -> Responded,,Printing,Audit export
+#241142,2026-02-12 13:14,Tech 02,Assignee -1 -> Technical Support,,Printing,Audit export
+#241128,2026-02-12 13:30,Tech 02,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#241128,2026-02-12 13:31,Tech 02,State Assigned -> Resolved,,Password maintenance,Audit export
+#241128,2026-02-12 13:35,Tech 02,Resolution code set,,Password maintenance,Audit export
+#241143,2026-02-12 13:37,Tech 02,State Assigned -> Resolved,,Hardware,Audit export
+#241143,2026-02-12 13:42,Tech 02,Resolution code set,,Hardware,Audit export
+#241179,2026-02-12 13:46,Tech 07,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#241183,2026-02-12 14:12,Tech 07,Comment added,Called the user and walked through the reset steps.,Email,Audit export
+#241183,2026-02-12 14:16,Tech 07,Comment edited,,Email,Audit export
+#241083,2026-02-12 14:25,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Hardware,Audit export
+#241083,2026-02-12 14:28,Tech 02,State Assigned -> Resolved,,Hardware,Audit export
+#241083,2026-02-12 14:34,Tech 02,Resolution code set,,Hardware,Audit export
+#241145,2026-02-12 14:47,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#241145,2026-02-12 14:53,Tech 02,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241088,2026-02-12 14:56,Tech 02,Comment added,Checked the device in AD; account is active.,Canvas,Audit export
+#241088,2026-02-12 14:58,Tech 02,State Responded -> Waiting on User,,Canvas,Audit export
+#241149,2026-02-12 15:07,Tech 02,Assignee -1 -> Network Services,,Wi-Fi,Audit export
+#241730,2026-02-12 15:29,Tech 15,Comment added,,Canvas,Queue PDF
+#241152,2026-02-12 15:36,Tech 02,Category changed,,Canvas,Audit export
+#241152,2026-02-12 15:39,Tech 02,Comment added,Following up: waiting on the user to test again.,Canvas,Audit export
+#241088,2026-02-12 15:45,Tech 07,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#241154,2026-02-12 15:49,Tech 02,Assignee -1 -> Front Desk Queue,,Hardware,Audit export
+#241088,2026-02-12 15:57,Tech 02,Comment added,Checked the device in AD; account is active.,Canvas,Audit export
+#241088,2026-02-12 16:01,Tech 02,State Responded -> Waiting on User,,Canvas,Audit export
+#241093,2026-02-12 16:06,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Hardware,Audit export
+#241158,2026-02-12 16:08,Tech 02,Assignee -1 -> Network Services,,Printing,Audit export
+#241072,2026-02-12 16:22,Tech 02,Category changed,,Printing,Audit export
+#241072,2026-02-12 16:26,Tech 02,Comment added,Checked the device in AD; account is active.,Printing,Audit export
+#241072,2026-02-12 16:31,Tech 02,State Assigned -> Resolved,,Printing,Audit export
+#241072,2026-02-12 16:35,Tech 02,Resolution code set,,Printing,Audit export
+#241133,2026-02-12 16:56,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Account access,Audit export
+#241133,2026-02-12 16:58,Tech 02,Assignee -1 -> Technical Support,,Account access,Audit export
+#241173,2026-02-12 18:05,Tech 05,State Assigned -> Responded,,Wi-Fi,Audit export
+#241173,2026-02-12 18:10,Tech 05,Assignee -1 -> Technical Support,,Wi-Fi,Audit export
+#241175,2026-02-12 18:20,Tech 05,State Assigned -> Responded,,Software,Audit export
+#241175,2026-02-12 18:26,Tech 05,Assignee -1 -> Academic Solutions,,Software,Audit export
+#241108,2026-02-12 19:56,Tech 05,Assignee -1 -> Classroom Media Services,,Wi-Fi,Audit export
+#240962,2026-02-12 22:06,Tech 05,State Assigned -> Resolved,,Password maintenance,Audit export
+#241192,2026-02-12 22:10,Tech 13,Comment added,Asked the user for a screenshot of the error.,Email,Audit export
+#240962,2026-02-12 22:11,Tech 05,Resolution code set,,Password maintenance,Audit export
+#241192,2026-02-12 22:15,Tech 13,State Responded -> Waiting on User,,Email,Audit export
+#241194,2026-02-13 08:10,Tech 03,Comment added,Following up: waiting on the user to test again.,Software,Audit export
+#241194,2026-02-13 08:16,Tech 03,State Assigned -> Resolved,,Software,Audit export
+#241194,2026-02-13 08:19,Tech 03,Resolution code set,,Software,Audit export
+#241198,2026-02-13 08:42,Tech 03,Comment added,Asked the user for a screenshot of the error.,Hardware,Audit export
+#241206,2026-02-13 10:05,Tech 03,Comment added,Confirmed the issue is resolved with the user.,Hardware,Audit export
+#241210,2026-02-13 10:15,Tech 03,Assignee -1 -> Academic Solutions,,Email,Audit export
+#241213,2026-02-13 10:26,Tech 03,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#241213,2026-02-13 10:27,Tech 03,State Assigned -> Resolved,,Password maintenance,Audit export
+#241213,2026-02-13 10:30,Tech 03,Resolution code set,,Password maintenance,Audit export
+#241212,2026-02-13 10:34,Tech 03,Assignee -1 -> Front Desk Queue,,Email,Audit export
+#241169,2026-02-13 10:35,Tech 11,Comment added,Checked the device in AD; account is active.,Account access,Audit export
+#241169,2026-02-13 10:40,Tech 11,Assignee -1 -> Service Desk,,Account access,Audit export
+#241179,2026-02-13 11:30,Tech 11,State Responded -> Waiting on User,,Password maintenance,Audit export
+#241217,2026-02-13 12:22,Tech 03,State Assigned -> Responded,,Software,Audit export
+#241217,2026-02-13 12:25,Tech 03,State Assigned -> Resolved,,Software,Audit export
+#241217,2026-02-13 12:30,Tech 03,Resolution code set,,Software,Audit export
+#241222,2026-02-13 12:38,Tech 04,Comment added,Called the user and walked through the reset steps.,Hardware,Audit export
+#241222,2026-02-13 12:43,Tech 04,Assignee -1 -> Academic Solutions,,Hardware,Audit export
+#241221,2026-02-13 13:00,Tech 04,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#241221,2026-02-13 13:05,Tech 04,Comment edited,,Password maintenance,Audit export
+#241228,2026-02-13 13:12,Tech 06,Comment added,Following up: waiting on the user to test again.,Canvas,Audit export
+#241228,2026-02-13 13:13,Tech 06,Assignee -1 -> Classroom Media Services,,Canvas,Audit export
+#241227,2026-02-13 13:22,Tech 06,State Assigned -> Responded,,Password maintenance,Audit export
+#241227,2026-02-13 13:24,Tech 06,Comment added,Reassigned with troubleshooting notes attached.,Password maintenance,Audit export
+#241227,2026-02-13 13:27,Tech 06,Comment edited,,Password maintenance,Audit export
+#241227,2026-02-13 13:29,Tech 06,State Assigned -> Resolved,,Password maintenance,Audit export
+#241200,2026-02-13 13:33,Tech 06,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#241227,2026-02-13 13:33,Tech 06,Resolution code set,,Password maintenance,Audit export
+#241200,2026-02-13 13:34,Tech 06,Comment edited,,Password maintenance,Audit export
+#241200,2026-02-13 13:37,Tech 06,Assignee -1 -> Academic Solutions,,Password maintenance,Audit export
+#241225,2026-02-13 14:07,Tech 04,Comment added,done,Password maintenance,Audit export
+#241066,2026-02-13 15:41,Tech 04,Comment added,Confirmed the issue is resolved with the user.,Hardware,Audit export
+#241066,2026-02-13 15:42,Tech 04,Assignee -1 -> Network Services,,Hardware,Audit export
+#241093,2026-02-13 15:52,Tech 04,Assignee -1 -> Front Desk Queue,,Hardware,Audit export
+#241198,2026-02-13 16:40,Tech 04,Comment added,Asked the user for a screenshot of the error.,Hardware,Audit export
+#241072,2026-02-13 16:41,Tech 02,State Resolved -> Reopened by Client,,Printing,Audit export
+#241013,2026-02-13 16:42,Tech 06,Comment added,ok,Password maintenance,Audit export
+#241013,2026-02-13 16:44,Tech 06,Assignee -1 -> Service Desk,,Password maintenance,Audit export
+#241233,2026-02-13 16:57,Tech 06,Comment added,Called the user and walked through the reset steps.,Email,Audit export
+#241233,2026-02-13 16:58,Tech 06,Assignee -1 -> Technical Support,,Email,Audit export
+#241172,2026-02-13 18:17,Tech 06,Assignee -1 -> Network Services,,Password maintenance,Audit export
+#241204,2026-02-13 20:28,Tech 04,State Assigned -> Resolved,,Classroom AV,Audit export
+#241204,2026-02-13 20:29,Tech 04,Resolution code set,,Classroom AV,Audit export
+#241225,2026-02-13 20:44,Tech 09,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#241225,2026-02-13 20:46,Tech 09,State Assigned -> Resolved,,Password maintenance,Audit export
+#241225,2026-02-13 20:49,Tech 09,Resolution code set,,Password maintenance,Audit export
+#241236,2026-02-13 21:47,Tech 09,Assignee -1 -> Academic Solutions,,Account access,Audit export
+#241231,2026-02-13 22:00,Tech 06,State Responded -> Waiting on User,,Hardware,Audit export
+#241138,2026-02-13 22:07,Tech 09,Comment added,Called the user and walked through the reset steps.,Hardware,Audit export
+#241138,2026-02-13 22:12,Tech 09,State Assigned -> Resolved,,Hardware,Audit export
+#241138,2026-02-13 22:14,Tech 09,Resolution code set,,Hardware,Audit export
+#241239,2026-02-13 22:52,Tech 09,Comment added,Called the user and walked through the reset steps.,Canvas,Audit export
+#241239,2026-02-13 22:53,Tech 09,State Assigned -> Resolved,,Canvas,Audit export
+#241239,2026-02-13 22:56,Tech 09,Resolution code set,,Canvas,Audit export
+#241245,2026-02-14 07:57,Tech 01,Assignee -1 -> Network Services,,Email,Audit export
+#241183,2026-02-14 10:58,Tech 01,Comment added,Confirmed the issue is resolved with the user.,Email,Audit export
+#241183,2026-02-14 11:02,Tech 01,Assignee -1 -> Front Desk Queue,,Email,Audit export
+#241096,2026-02-14 11:25,Tech 09,Comment added,Confirmed the issue is resolved with the user.,Canvas,Audit export
+#241096,2026-02-14 11:26,Tech 09,Assignee -1 -> Asset Management,,Canvas,Audit export
+#241243,2026-02-14 11:51,Tech 01,State Assigned -> Responded,,Canvas,Audit export
+#241243,2026-02-14 11:52,Tech 01,Comment added,Reassigned with troubleshooting notes attached.,Canvas,Audit export
+#241243,2026-02-14 11:58,Tech 01,Assignee -1 -> Enterprise Solutions,,Canvas,Audit export
+#241152,2026-02-14 12:13,Tech 01,Comment added,Checked the device in AD; account is active.,Canvas,Audit export
+#241189,2026-02-14 12:59,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Wi-Fi,Audit export
+#241189,2026-02-14 13:05,Tech 01,Assignee -1 -> Technical Support,,Wi-Fi,Audit export
+#241246,2026-02-14 13:14,Tech 01,Comment added,Called the user and walked through the reset steps.,Password maintenance,Audit export
+#241251,2026-02-14 13:45,Tech 09,Assignee -1 -> Service Desk,,Hardware,Audit export
+#241247,2026-02-14 14:09,Tech 01,Comment added,Confirmed the issue is resolved with the user.,Hardware,Audit export
+#241247,2026-02-14 14:13,Tech 01,Comment edited,,Hardware,Audit export
+#241247,2026-02-14 14:14,Tech 01,Assignee -1 -> Academic Solutions,,Hardware,Audit export
+#241179,2026-02-14 14:31,Tech 09,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241240,2026-02-14 14:53,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Classroom AV,Audit export
+#241240,2026-02-14 14:58,Tech 01,Assignee -1 -> Service Desk,,Classroom AV,Audit export
+#241255,2026-02-14 15:54,Tech 09,State Assigned -> Responded,,Password maintenance,Audit export
+#241248,2026-02-14 15:56,Tech 01,Assignee -1 -> Technical Support,,Email,Audit export
+#241255,2026-02-14 15:56,Tech 09,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#241152,2026-02-14 17:09,Tech 01,Comment added,Asked the user for a screenshot of the error.,Canvas,Audit export
+#241198,2026-02-15 10:25,Tech 01,Comment added,Confirmed the issue is resolved with the user.,Hardware,Audit export
+#241198,2026-02-15 10:30,Tech 01,Assignee -1 -> Technical Support,,Hardware,Audit export
+#241276,2026-02-15 10:53,Tech 13,Comment added,Confirmed the issue is resolved with the user.,Hardware,Audit export
+#241276,2026-02-15 10:54,Tech 13,State Responded -> Waiting on User,,Hardware,Audit export
+#241284,2026-02-15 12:07,Tech 13,Comment added,Asked the user for a screenshot of the error.,Email,Audit export
+#241284,2026-02-15 12:11,Tech 13,State Assigned -> Resolved,,Email,Audit export
+#241284,2026-02-15 12:14,Tech 13,Resolution code set,,Email,Audit export
+#241260,2026-02-15 12:16,Tech 01,Comment added,Confirmed the issue is resolved with the user.,Classroom AV,Audit export
+#241257,2026-02-15 12:19,Tech 01,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#241260,2026-02-15 12:21,Tech 01,Assignee -1 -> Front Desk Queue,,Classroom AV,Audit export
+#241257,2026-02-15 12:25,Tech 01,Assignee -1 -> Academic Solutions,,Password maintenance,Audit export
+#241280,2026-02-15 12:28,Tech 13,Comment added,Called the user and walked through the reset steps.,Printing,Audit export
+#241280,2026-02-15 12:32,Tech 13,State Responded -> Waiting on User,,Printing,Audit export
+#241246,2026-02-15 12:53,Tech 01,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#241261,2026-02-15 13:00,Tech 01,Comment added,ok,Password maintenance,Audit export
+#241261,2026-02-15 13:02,Tech 01,Assignee -1 -> Academic Solutions,,Password maintenance,Audit export
+#241263,2026-02-15 15:07,Tech 05,Comment added,Called the user and walked through the reset steps.,Classroom AV,Audit export
+#241263,2026-02-15 15:10,Tech 05,State Assigned -> Resolved,,Classroom AV,Audit export
+#241263,2026-02-15 15:12,Tech 05,Resolution code set,,Classroom AV,Audit export
+#241221,2026-02-15 15:27,Tech 05,Assignee -1 -> Academic Solutions,,Password maintenance,Audit export
+#241266,2026-02-15 16:44,Tech 05,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#241266,2026-02-15 16:47,Tech 05,State Assigned -> Resolved,,Password maintenance,Audit export
+#241266,2026-02-15 16:51,Tech 05,Resolution code set,,Password maintenance,Audit export
+#241270,2026-02-15 17:04,Tech 05,Assignee -1 -> Classroom Media Services,,Hardware,Audit export
+#241272,2026-02-15 17:04,Tech 05,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#241272,2026-02-15 17:08,Tech 05,Assignee -1 -> Technical Support,,Password maintenance,Audit export
+#241122,2026-02-15 17:12,Tech 05,State Responded -> Waiting on User,,Password maintenance,Audit export
+#241306,2026-02-16 08:07,Tech 04,Comment added,Following up: waiting on the user to test again.,Hardware,Audit export
+#241306,2026-02-16 08:11,Tech 04,Assignee -1 -> Front Desk Queue,,Hardware,Audit export
+#241122,2026-02-16 09:02,Tech 04,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#241122,2026-02-16 09:03,Tech 04,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#241309,2026-02-16 09:11,Tech 04,State Assigned -> Responded,,Wi-Fi,Audit export
+#241309,2026-02-16 09:16,Tech 04,Comment added,Checked the device in AD; account is active.,Wi-Fi,Audit export
+#241309,2026-02-16 09:22,Tech 04,State Responded -> Waiting on User,,Wi-Fi,Audit export
+#241311,2026-02-16 10:15,Tech 04,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#241311,2026-02-16 10:20,Tech 04,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241312,2026-02-16 11:05,Tech 04,Assignee -1 -> Front Desk Queue,,Printing,Audit export
+#241334,2026-02-16 11:30,Tech 08,State Assigned -> Responded,,Password maintenance,Audit export
+#241206,2026-02-16 11:32,Tech 04,Comment added,Reassigned with troubleshooting notes attached.,Hardware,Audit export
+#241334,2026-02-16 11:32,Tech 08,Comment added,Called the user and walked through the reset steps.,Password maintenance,Audit export
+#241206,2026-02-16 11:34,Tech 04,State Assigned -> Resolved,,Hardware,Audit export
+#241334,2026-02-16 11:34,Tech 08,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#241206,2026-02-16 11:40,Tech 04,Resolution code set,,Hardware,Audit export
+#241287,2026-02-16 12:10,Tech 06,Comment added,Reassigned with troubleshooting notes attached.,Account access,Audit export
+#241316,2026-02-16 12:28,Tech 06,State Assigned -> Responded,,Software,Audit export
+#241316,2026-02-16 12:29,Tech 06,Assignee -1 -> Asset Management,,Software,Audit export
+#241340,2026-02-16 12:49,Tech 12,Assignee -1 -> Enterprise Solutions,,Hardware,Audit export
+#241344,2026-02-16 12:54,Tech 12,Assignee -1 -> Technical Support,,Canvas,Audit export
+#241295,2026-02-16 13:01,Tech 02,State Assigned -> Responded,,Wi-Fi,Audit export
+#241295,2026-02-16 13:06,Tech 02,Assignee -1 -> Asset Management,,Wi-Fi,Audit export
+#241299,2026-02-16 13:50,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Account access,Audit export
+#241299,2026-02-16 13:53,Tech 02,Assignee -1 -> Technical Support,,Account access,Audit export
+#241325,2026-02-16 14:05,Tech 06,State Assigned -> Responded,,Software,Audit export
+#241325,2026-02-16 14:09,Tech 06,Assignee -1 -> Front Desk Queue,,Software,Audit export
+#241165,2026-02-16 14:11,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Password maintenance,Audit export
+#241192,2026-02-16 15:31,Tech 02,Assignee -1 -> Technical Support,,Email,Audit export
+#241300,2026-02-16 16:27,Tech 02,State Assigned -> Responded,,Password maintenance,Audit export
+#241300,2026-02-16 16:31,Tech 02,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#241300,2026-02-16 16:33,Tech 02,Assignee -1 -> Classroom Media Services,,Password maintenance,Audit export
+#241332,2026-02-16 16:38,Tech 06,State Assigned -> Responded,,Hardware,Audit export
+#241246,2026-02-16 16:42,Tech 06,State Assigned -> Resolved,,Password maintenance,Audit export
+#241332,2026-02-16 16:44,Tech 06,Subcategory changed,,Hardware,Audit export
+#241246,2026-02-16 16:46,Tech 06,Resolution code set,,Password maintenance,Audit export
+#241337,2026-02-16 17:29,Tech 10,Comment added,Following up: waiting on the user to test again.,Email,Audit export
+#241337,2026-02-16 17:35,Tech 10,State Assigned -> Resolved,,Email,Audit export
+#241337,2026-02-16 17:39,Tech 10,Resolution code set,,Email,Audit export
+#241231,2026-02-16 20:20,Tech 01,Comment added,ok,Hardware,Audit export
+#241231,2026-02-16 20:25,Tech 01,Assignee -1 -> Enterprise Solutions,,Hardware,Audit export
+#241289,2026-02-16 20:47,Tech 01,State Assigned -> Responded,,Account access,Audit export
+#241289,2026-02-16 20:48,Tech 01,Category changed,,Account access,Audit export
+#241289,2026-02-16 20:53,Tech 01,Comment added,Asked the user for a screenshot of the error.,Account access,Audit export
+#241293,2026-02-16 22:36,Tech 01,Comment added,Called the user and walked through the reset steps.,Password maintenance,Audit export
+#241293,2026-02-16 22:41,Tech 01,Assignee -1 -> Asset Management,,Password maintenance,Audit export
+#241294,2026-02-16 22:49,Tech 01,Comment added,Called the user and walked through the reset steps.,Account access,Audit export
+#241294,2026-02-16 22:51,Tech 01,Assignee -1 -> Front Desk Queue,,Account access,Audit export
+#241304,2026-02-16 23:54,Tech 02,Comment added,Checked the device in AD; account is active.,Printing,Audit export
+#241403,2026-02-17 09:52,Tech 11,State Assigned -> Resolved,,Printing,Audit export
+#241403,2026-02-17 09:57,Tech 11,Resolution code set,,Printing,Audit export
+#241408,2026-02-17 10:00,Tech 11,Comment added,Following up: waiting on the user to test again.,Account access,Audit export
+#241408,2026-02-17 10:03,Tech 11,Assignee -1 -> Enterprise Solutions,,Account access,Audit export
+#241397,2026-02-17 10:38,Tech 08,Comment added,Checked the device in AD; account is active.,Wi-Fi,Audit export
+#241407,2026-02-17 10:38,Tech 11,Comment added,Following up: waiting on the user to test again.,Wi-Fi,Audit export
+#241407,2026-02-17 10:41,Tech 11,Assignee -1 -> Network Services,,Wi-Fi,Audit export
+#241356,2026-02-17 10:47,Tech 03,State Responded -> Waiting on User,,Password maintenance,Audit export
+#241410,2026-02-17 11:05,Tech 11,Subcategory changed,,Classroom AV,Audit export
+#241410,2026-02-17 11:08,Tech 11,Comment added,Called the user and walked through the reset steps.,Classroom AV,Audit export
+#241410,2026-02-17 11:11,Tech 11,Assignee -1 -> Classroom Media Services,,Classroom AV,Audit export
+#241323,2026-02-17 11:33,Tech 03,Comment added,Checked the device in AD; account is active.,Hardware,Audit export
+#241359,2026-02-17 11:58,Tech 03,State Assigned -> Responded,,Password maintenance,Audit export
+#241399,2026-02-17 11:59,Tech 08,Comment added,Left a voicemail and sent an email with next steps.,Hardware,Audit export
+#241399,2026-02-17 12:02,Tech 08,Assignee -1 -> Service Desk,,Hardware,Audit export
+#241359,2026-02-17 12:03,Tech 03,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#241359,2026-02-17 12:09,Tech 03,State Responded -> Waiting on User,,Password maintenance,Audit export
+#241165,2026-02-17 12:23,Tech 07,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#241380,2026-02-17 12:25,Tech 07,State Assigned -> Responded,,Password maintenance,Audit export
+#241380,2026-02-17 12:27,Tech 07,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#241287,2026-02-17 12:45,Tech 02,Subcategory changed,,Account access,Audit export
+#241287,2026-02-17 12:47,Tech 02,Comment added,Asked the user for a screenshot of the error.,Account access,Audit export
+#241287,2026-02-17 12:51,Tech 02,Assignee -1 -> Enterprise Solutions,,Account access,Audit export
+#241346,2026-02-17 13:03,Tech 02,State Assigned -> Resolved,,Canvas,Audit export
+#241346,2026-02-17 13:08,Tech 02,Resolution code set,,Canvas,Audit export
+#241387,2026-02-17 13:20,Tech 07,Assignee -1 -> Enterprise Solutions,,Email,Audit export
+#241349,2026-02-17 13:24,Tech 02,Comment added,Asked the user for a screenshot of the error.,Classroom AV,Audit export
+#241349,2026-02-17 13:29,Tech 02,Assignee -1 -> Enterprise Solutions,,Classroom AV,Audit export
+#241383,2026-02-17 13:37,Tech 07,State Assigned -> Responded,,Hardware,Audit export
+#241383,2026-02-17 13:40,Tech 07,Comment added,Confirmed the issue is resolved with the user.,Hardware,Audit export
+#241383,2026-02-17 13:42,Tech 07,Assignee -1 -> Classroom Media Services,,Hardware,Audit export
+#241350,2026-02-17 14:02,Tech 02,Comment added,Called the user and walked through the reset steps.,Printing,Audit export
+#241328,2026-02-17 14:29,Tech 02,Category changed,,Email,Audit export
+#241328,2026-02-17 14:32,Tech 02,Assignee -1 -> Classroom Media Services,,Email,Audit export
+#241152,2026-02-17 15:24,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Canvas,Audit export
+#241152,2026-02-17 15:27,Tech 02,Assignee -1 -> Classroom Media Services,,Canvas,Audit export
+#241390,2026-02-17 15:28,Tech 07,State Assigned -> Resolved,,Classroom AV,Audit export
+#241393,2026-02-17 15:28,Tech 07,State Assigned -> Responded,,Canvas,Audit export
+#241393,2026-02-17 15:30,Tech 07,Comment added,Left a voicemail and sent an email with next steps.,Canvas,Audit export
+#241393,2026-02-17 15:31,Tech 07,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#241390,2026-02-17 15:34,Tech 07,Resolution code set,,Classroom AV,Audit export
+#241276,2026-02-17 15:38,Tech 02,Comment added,Checked the device in AD; account is active.,Hardware,Audit export
+#241276,2026-02-17 15:44,Tech 02,Assignee -1 -> Service Desk,,Hardware,Audit export
+#241359,2026-02-17 16:16,Tech 07,State Assigned -> Resolved,,Password maintenance,Audit export
+#241359,2026-02-17 16:21,Tech 07,Resolution code set,,Password maintenance,Audit export
+#241280,2026-02-17 16:25,Tech 07,Assignee -1 -> Technical Support,,Printing,Audit export
+#241363,2026-02-17 17:11,Tech 05,Comment added,Checked the device in AD; account is active.,Classroom AV,Audit export
+#241363,2026-02-17 17:15,Tech 05,Assignee -1 -> Enterprise Solutions,,Classroom AV,Audit export
+#241364,2026-02-17 18:19,Tech 05,State Assigned -> Responded,,Account access,Audit export
+#241323,2026-02-17 20:51,Tech 05,Category changed,,Hardware,Audit export
+#241323,2026-02-17 20:53,Tech 05,Comment added,Confirmed the issue is resolved with the user.,Hardware,Audit export
+#241323,2026-02-17 20:58,Tech 05,State Assigned -> Resolved,,Hardware,Audit export
+#241323,2026-02-17 21:04,Tech 05,Resolution code set,,Hardware,Audit export
+#241376,2026-02-17 21:10,Tech 05,Comment added,Reassigned with troubleshooting notes attached.,Email,Audit export
+#241376,2026-02-17 21:15,Tech 05,Assignee -1 -> Academic Solutions,,Email,Audit export
+#241371,2026-02-17 21:42,Tech 05,State Responded -> Waiting on User,,Password maintenance,Audit export
+#241373,2026-02-17 21:54,Tech 05,State Assigned -> Responded,,Printing,Audit export
+#241373,2026-02-17 21:58,Tech 05,Comment added,Reassigned with troubleshooting notes attached.,Printing,Audit export
+#241373,2026-02-17 22:04,Tech 05,Assignee -1 -> Asset Management,,Printing,Audit export
+#241352,2026-02-17 22:09,Tech 03,State Responded -> Waiting on User,,Account access,Audit export
+#241422,2026-02-18 08:28,Tech 03,Comment added,Called the user and walked through the reset steps.,Classroom AV,Audit export
+#241453,2026-02-18 08:50,Tech 07,Assignee -1 -> Network Services,,Password maintenance,Audit export
+#241418,2026-02-18 08:58,Tech 03,Category changed,,Password maintenance,Audit export
+#241418,2026-02-18 09:02,Tech 03,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241041,2026-02-18 09:31,Tech 03,Comment added,Following up: waiting on the user to test again.,Classroom AV,Audit export
+#241041,2026-02-18 09:37,Tech 03,Assignee -1 -> Front Desk Queue,,Classroom AV,Audit export
+#241426,2026-02-18 09:59,Tech 03,Category changed,,Email,Audit export
+#241426,2026-02-18 10:01,Tech 03,Comment added,Called the user and walked through the reset steps.,Email,Audit export
+#241426,2026-02-18 10:04,Tech 03,Assignee -1 -> Classroom Media Services,,Email,Audit export
+#241430,2026-02-18 10:39,Tech 03,Comment added,Called the user and walked through the reset steps.,Password maintenance,Audit export
+#241430,2026-02-18 10:41,Tech 03,State Assigned -> Resolved,,Password maintenance,Audit export
+#241430,2026-02-18 10:45,Tech 03,Resolution code set,,Password maintenance,Audit export
+#241406,2026-02-18 10:58,Tech 08,State Assigned -> Resolved,,Classroom AV,Audit export
+#241406,2026-02-18 11:02,Tech 08,Resolution code set,,Classroom AV,Audit export
+#241289,2026-02-18 11:10,Tech 03,Comment added,Called the user and walked through the reset steps.,Account access,Audit export
+#241289,2026-02-18 11:11,Tech 03,Assignee -1 -> Enterprise Solutions,,Account access,Audit export
+#241401,2026-02-18 11:36,Tech 03,Category changed,,Printing,Audit export
+#241459,2026-02-18 11:46,Tech 08,Comment added,Reassigned with troubleshooting notes attached.,Wi-Fi,Audit export
+#241459,2026-02-18 11:47,Tech 08,Assignee -1 -> Enterprise Solutions,,Wi-Fi,Audit export
+#241447,2026-02-18 12:24,Tech 07,State Assigned -> Responded,,Wi-Fi,Audit export
+#241447,2026-02-18 12:27,Tech 07,Comment added,Confirmed the issue is resolved with the user.,Wi-Fi,Audit export
+#241447,2026-02-18 12:30,Tech 07,Assignee -1 -> Technical Support,,Wi-Fi,Audit export
+#241332,2026-02-18 12:45,Tech 07,Assignee -1 -> Classroom Media Services,,Hardware,Audit export
+#241439,2026-02-18 13:04,Tech 06,State Assigned -> Responded,,Wi-Fi,Audit export
+#241439,2026-02-18 13:09,Tech 06,Assignee -1 -> Service Desk,,Wi-Fi,Audit export
+#241435,2026-02-18 13:53,Tech 06,State Assigned -> Resolved,,Software,Audit export
+#241435,2026-02-18 13:55,Tech 06,Resolution code set,,Software,Audit export
+#241442,2026-02-18 14:12,Tech 06,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241397,2026-02-18 14:47,Tech 07,Comment added,Reassigned with troubleshooting notes attached.,Wi-Fi,Audit export
+#241454,2026-02-18 14:53,Tech 07,Comment added,Asked the user for a screenshot of the error.,Wi-Fi,Audit export
+#241454,2026-02-18 14:57,Tech 07,State Assigned -> Resolved,,Wi-Fi,Audit export
+#241454,2026-02-18 14:59,Tech 07,Resolution code set,,Wi-Fi,Audit export
+#241456,2026-02-18 15:08,Tech 07,Comment added,Confirmed the issue is resolved with the user.,Classroom AV,Audit export
+#241456,2026-02-18 15:12,Tech 07,Assignee -1 -> Front Desk Queue,,Classroom AV,Audit export
+#241457,2026-02-18 15:32,Tech 07,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#241457,2026-02-18 15:35,Tech 07,State Assigned -> Resolved,,Password maintenance,Audit export
+#241457,2026-02-18 15:36,Tech 07,Resolution code set,,Password maintenance,Audit export
+#241443,2026-02-18 16:03,Tech 06,State Assigned -> Responded,,Password maintenance,Audit export
+#241443,2026-02-18 16:05,Tech 06,Comment added,done,Password maintenance,Audit export
+#241443,2026-02-18 16:07,Tech 06,Assignee -1 -> Asset Management,,Password maintenance,Audit export
+#241461,2026-02-18 17:49,Tech 10,Category changed,,Password maintenance,Audit export
+#241461,2026-02-18 17:55,Tech 10,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241412,2026-02-18 18:33,Tech 01,Comment added,Following up: waiting on the user to test again.,Account access,Audit export
+#241412,2026-02-18 18:37,Tech 01,Comment edited,,Account access,Audit export
+#241412,2026-02-18 18:40,Tech 01,Assignee -1 -> Front Desk Queue,,Account access,Audit export
+#241415,2026-02-18 19:01,Tech 01,State Assigned -> Responded,,Canvas,Audit export
+#241415,2026-02-18 19:05,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Canvas,Audit export
+#241413,2026-02-18 19:35,Tech 01,Comment added,Following up: waiting on the user to test again.,Classroom AV,Audit export
+#241463,2026-02-18 19:35,Tech 10,Assignee -1 -> Enterprise Solutions,,Classroom AV,Audit export
+#241413,2026-02-18 19:40,Tech 01,State Assigned -> Resolved,,Classroom AV,Audit export
+#241255,2026-02-18 19:43,Tech 10,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#241413,2026-02-18 19:43,Tech 01,Resolution code set,,Classroom AV,Audit export
+#241255,2026-02-18 19:45,Tech 10,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241255,2026-02-18 21:41,Tech 01,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#241350,2026-02-19 08:01,Tech 04,Subcategory changed,,Printing,Audit export
+#241493,2026-02-19 08:03,Tech 04,State Assigned -> Responded,,Canvas,Audit export
+#241493,2026-02-19 08:04,Tech 04,Comment added,Checked the device in AD; account is active.,Canvas,Audit export
+#241493,2026-02-19 08:05,Tech 04,Assignee -1 -> Asset Management,,Canvas,Audit export
+#241350,2026-02-19 08:07,Tech 04,Comment added,done,Printing,Audit export
+#241350,2026-02-19 08:10,Tech 04,Assignee -1 -> Front Desk Queue,,Printing,Audit export
+#241496,2026-02-19 08:12,Tech 04,Comment added,Confirmed the issue is resolved with the user.,Canvas,Audit export
+#241496,2026-02-19 08:15,Tech 04,State Assigned -> Resolved,,Canvas,Audit export
+#241496,2026-02-19 08:20,Tech 04,Resolution code set,,Canvas,Audit export
+#241725,2026-02-19 10:12,Tech 14,Assignment,,Wi-Fi,Queue PDF
+#241499,2026-02-19 10:40,Tech 04,Comment added,Called the user and walked through the reset steps.,Hardware,Audit export
+#241499,2026-02-19 10:42,Tech 04,State Assigned -> Resolved,,Hardware,Audit export
+#241499,2026-02-19 10:44,Tech 04,Resolution code set,,Hardware,Audit export
+#241430,2026-02-19 10:48,Tech 03,State Resolved -> Reopened by Client,,Password maintenance,Audit export
+#241503,2026-02-19 11:00,Tech 04,Comment added,Reassigned with troubleshooting notes attached.,Classroom AV,Audit export
+#241431,2026-02-19 11:16,Tech 04,Comment added,fixed,Email,Audit export
+#241431,2026-02-19 11:17,Tech 04,Comment edited,,Email,Audit export
+#241507,2026-02-19 11:20,Tech 04,State Assigned -> Responded,,Password maintenance,Audit export
+#241507,2026-02-19 11:21,Tech 04,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#241507,2026-02-19 11:22,Tech 04,Assignee -1 -> Classroom Media Services,,Password maintenance,Audit export
+#241431,2026-02-19 11:23,Tech 04,Assignee -1 -> Academic Solutions,,Email,Audit export
+#241371,2026-02-19 11:24,Tech 04,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#241371,2026-02-19 11:26,Tech 04,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241356,2026-02-19 11:31,Tech 10,Assignee -1 -> Service Desk,,Password maintenance,Audit export
+#241352,2026-02-19 12:08,Tech 11,State Responded -> Waiting on User,,Account access,Audit export
+#241467,2026-02-19 12:30,Tech 02,Comment added,Following up: waiting on the user to test again.,Hardware,Audit export
+#241523,2026-02-19 12:32,Tech 07,Comment added,Asked the user for a screenshot of the error.,Wi-Fi,Audit export
+#241467,2026-02-19 12:33,Tech 02,Assignee -1 -> Front Desk Queue,,Hardware,Audit export
+#241450,2026-02-19 12:52,Tech 07,Assignee -1 -> Technical Support,,Classroom AV,Audit export
+#241470,2026-02-19 13:40,Tech 02,Comment added,Asked the user for a screenshot of the error.,Hardware,Audit export
+#241470,2026-02-19 13:41,Tech 02,Comment edited,,Hardware,Audit export
+#241470,2026-02-19 13:42,Tech 02,Assignee -1 -> Enterprise Solutions,,Hardware,Audit export
+#241472,2026-02-19 14:07,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Canvas,Audit export
+#241472,2026-02-19 14:09,Tech 02,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#241475,2026-02-19 14:19,Tech 02,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#241475,2026-02-19 14:24,Tech 02,Assignee -1 -> Classroom Media Services,,Password maintenance,Audit export
+#241481,2026-02-19 14:24,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Account access,Audit export
+#241478,2026-02-19 14:27,Tech 02,Assignee -1 -> Front Desk Queue,,Hardware,Audit export
+#241481,2026-02-19 14:27,Tech 02,State Assigned -> Resolved,,Account access,Audit export
+#241481,2026-02-19 14:33,Tech 02,Resolution code set,,Account access,Audit export
+#241415,2026-02-19 14:52,Tech 07,Category changed,,Canvas,Audit export
+#241415,2026-02-19 14:53,Tech 07,Comment added,done,Canvas,Audit export
+#241415,2026-02-19 14:58,Tech 07,State Assigned -> Resolved,,Canvas,Audit export
+#241415,2026-02-19 15:03,Tech 07,Resolution code set,,Canvas,Audit export
+#241484,2026-02-19 15:40,Tech 02,Comment added,done,Password maintenance,Audit export
+#241484,2026-02-19 15:42,Tech 02,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#241526,2026-02-19 15:49,Tech 07,Assignee -1 -> Front Desk Queue,,Printing,Audit export
+#241529,2026-02-19 16:24,Tech 11,Comment added,Checked the device in AD; account is active.,Wi-Fi,Audit export
+#241487,2026-02-19 16:38,Tech 02,Comment added,Called the user and walked through the reset steps.,Password maintenance,Audit export
+#241487,2026-02-19 16:43,Tech 02,Assignee -1 -> Classroom Media Services,,Password maintenance,Audit export
+#241491,2026-02-19 16:54,Tech 02,Comment added,Reassigned with troubleshooting notes attached.,Email,Audit export
+#241491,2026-02-19 17:00,Tech 02,State Assigned -> Resolved,,Email,Audit export
+#241491,2026-02-19 17:02,Tech 02,Resolution code set,,Email,Audit export
+#241533,2026-02-19 17:41,Tech 13,Comment added,Reassigned with troubleshooting notes attached.,Account access,Audit export
+#241380,2026-02-19 18:16,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#241380,2026-02-19 18:19,Tech 02,State Assigned -> Resolved,,Password maintenance,Audit export
+#241380,2026-02-19 18:21,Tech 02,Resolution code set,,Password maintenance,Audit export
+#241537,2026-02-19 18:29,Tech 13,Comment added,Asked the user for a screenshot of the error.,Wi-Fi,Audit export
+#241537,2026-02-19 18:33,Tech 13,Assignee -1 -> Service Desk,,Wi-Fi,Audit export
+#241511,2026-02-19 19:01,Tech 05,Comment added,Checked the device in AD; account is active.,Email,Audit export
+#241511,2026-02-19 19:07,Tech 05,Assignee -1 -> Asset Management,,Email,Audit export
+#241515,2026-02-19 20:47,Tech 05,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241539,2026-02-19 20:52,Tech 13,Comment added,Confirmed the issue is resolved with the user.,Software,Audit export
+#241539,2026-02-19 20:57,Tech 13,Assignee -1 -> Asset Management,,Software,Audit export
+#241541,2026-02-19 21:20,Tech 13,Comment added,Called the user and walked through the reset steps.,Wi-Fi,Audit export
+#241541,2026-02-19 21:26,Tech 13,Assignee -1 -> Front Desk Queue,,Wi-Fi,Audit export
+#241503,2026-02-19 21:33,Tech 05,Comment added,Left a voicemail and sent an email with next steps.,Classroom AV,Audit export
+#241503,2026-02-19 21:36,Tech 05,Assignee -1 -> Technical Support,,Classroom AV,Audit export
+#241519,2026-02-19 22:55,Tech 05,Assignee -1 -> Front Desk Queue,,Printing,Audit export
+#241580,2026-02-20 07:48,Tech 06,Comment added,Reassigned with troubleshooting notes attached.,Password maintenance,Audit export
+#241580,2026-02-20 07:53,Tech 06,Assignee -1 -> Asset Management,,Password maintenance,Audit export
+#241544,2026-02-20 08:09,Tech 03,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#241544,2026-02-20 08:12,Tech 03,Assignee -1 -> Technical Support,,Password maintenance,Audit export
+#241546,2026-02-20 08:48,Tech 03,Assignee -1 -> Technical Support,,Password maintenance,Audit export
+#241553,2026-02-20 09:32,Tech 03,Comment added,Checked the device in AD; account is active.,Classroom AV,Audit export
+#241553,2026-02-20 09:35,Tech 03,Comment edited,,Classroom AV,Audit export
+#241557,2026-02-20 11:39,Tech 03,State Assigned -> Responded,,Password maintenance,Audit export
+#241557,2026-02-20 11:45,Tech 03,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#241557,2026-02-20 11:48,Tech 03,State Assigned -> Resolved,,Password maintenance,Audit export
+#241557,2026-02-20 11:54,Tech 03,Resolution code set,,Password maintenance,Audit export
+#241563,2026-02-20 12:17,Tech 03,Comment added,Confirmed the issue is resolved with the user.,Hardware,Audit export
+#241563,2026-02-20 12:21,Tech 03,Assignee -1 -> Academic Solutions,,Hardware,Audit export
+#241583,2026-02-20 12:27,Tech 06,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#241561,2026-02-20 12:32,Tech 03,Category changed,,Canvas,Audit export
+#241561,2026-02-20 12:33,Tech 03,Comment added,Called the user and walked through the reset steps.,Canvas,Audit export
+#241561,2026-02-20 12:34,Tech 03,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#241587,2026-02-20 12:55,Tech 06,State Responded -> Waiting on User,,Canvas,Audit export
+#241523,2026-02-20 13:07,Tech 04,State Assigned -> Resolved,,Wi-Fi,Audit export
+#241523,2026-02-20 13:13,Tech 04,Resolution code set,,Wi-Fi,Audit export
+#241304,2026-02-20 13:14,Tech 06,Comment added,Left a voicemail and sent an email with next steps.,Printing,Audit export
+#241319,2026-02-20 13:17,Tech 04,Comment added,Left a voicemail and sent an email with next steps.,Wi-Fi,Audit export
+#241319,2026-02-20 13:18,Tech 04,Assignee -1 -> Academic Solutions,,Wi-Fi,Audit export
+#241566,2026-02-20 13:51,Tech 04,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#241566,2026-02-20 13:55,Tech 04,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#241591,2026-02-20 14:10,Tech 06,Assignee -1 -> Front Desk Queue,,Classroom AV,Audit export
+#241570,2026-02-20 14:27,Tech 04,Comment added,ok,Email,Audit export
+#241570,2026-02-20 14:33,Tech 04,State Assigned -> Resolved,,Email,Audit export
+#241570,2026-02-20 14:38,Tech 04,Resolution code set,,Email,Audit export
+#241571,2026-02-20 15:10,Tech 04,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#241571,2026-02-20 15:14,Tech 04,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#241574,2026-02-20 15:18,Tech 04,State Assigned -> Responded,,Email,Audit export
+#241574,2026-02-20 15:20,Tech 04,Comment added,Reassigned with troubleshooting notes attached.,Email,Audit export
+#241574,2026-02-20 15:22,Tech 04,Assignee -1 -> Front Desk Queue,,Email,Audit export
+#241576,2026-02-20 16:24,Tech 04,Comment added,Called the user and walked through the reset steps.,Hardware,Audit export
+#241471,2026-02-20 16:29,Tech 06,Subcategory changed,,Email,Audit export
+#241576,2026-02-20 16:30,Tech 04,State Assigned -> Resolved,,Hardware,Audit export
+#241471,2026-02-20 16:33,Tech 06,State Assigned -> Resolved,,Email,Audit export
+#241576,2026-02-20 16:35,Tech 04,Resolution code set,,Hardware,Audit export
+#241471,2026-02-20 16:38,Tech 06,Resolution code set,,Email,Audit export
+#241533,2026-02-20 17:17,Tech 09,State Assigned -> Resolved,,Account access,Audit export
+#241533,2026-02-20 17:23,Tech 09,Resolution code set,,Account access,Audit export
+#241397,2026-02-20 17:50,Tech 09,Comment added,fixed,Wi-Fi,Audit export
+#241397,2026-02-20 17:51,Tech 09,State Assigned -> Resolved,,Wi-Fi,Audit export
+#241397,2026-02-20 17:52,Tech 09,Resolution code set,,Wi-Fi,Audit export
+#241593,2026-02-20 18:47,Tech 09,Assignee -1 -> Enterprise Solutions,,Account access,Audit export
+#241597,2026-02-20 22:40,Tech 09,State Responded -> Waiting on User,,Canvas,Audit export
+#241601,2026-02-20 22:48,Tech 09,Comment added,Confirmed the issue is resolved with the user.,Canvas,Audit export
+#241601,2026-02-20 22:52,Tech 09,Assignee -1 -> Front Desk Queue,,Canvas,Audit export
+#241422,2026-02-21 10:27,Tech 01,Comment added,Checked the device in AD; account is active.,Classroom AV,Audit export
+#241401,2026-02-21 10:40,Tech 01,Comment added,done,Printing,Audit export
+#241401,2026-02-21 10:46,Tech 01,Comment edited,,Printing,Audit export
+#241401,2026-02-21 10:52,Tech 01,Assignee -1 -> Network Services,,Printing,Audit export
+#241352,2026-02-21 11:07,Tech 01,Comment added,Following up: waiting on the user to test again.,Account access,Audit export
+#241352,2026-02-21 11:10,Tech 01,State Assigned -> Resolved,,Account access,Audit export
+#241352,2026-02-21 11:16,Tech 01,Resolution code set,,Account access,Audit export
+#241618,2026-02-21 12:06,Tech 09,Comment added,Reassigned with troubleshooting notes attached.,Password maintenance,Audit export
+#241618,2026-02-21 12:10,Tech 09,Assignee -1 -> Technical Support,,Password maintenance,Audit export
+#241716,2026-02-21 12:18,Tech 14,Assignment,,Printing,Queue PDF
+#241422,2026-02-21 12:42,Tech 01,State Assigned -> Resolved,,Classroom AV,Audit export
+#241422,2026-02-21 12:48,Tech 01,Resolution code set,,Classroom AV,Audit export
+#241603,2026-02-21 13:18,Tech 01,State Assigned -> Responded,,Password maintenance,Audit export
+#241603,2026-02-21 13:20,Tech 01,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#241606,2026-02-21 13:53,Tech 01,Assignee -1 -> Asset Management,,Password maintenance,Audit export
+#241610,2026-02-21 14:42,Tech 01,Comment added,Called the user and walked through the reset steps.,Account access,Audit export
+#241610,2026-02-21 14:47,Tech 01,Assignee -1 -> Technical Support,,Account access,Audit export
+#241611,2026-02-21 15:17,Tech 01,State Assigned -> Responded,,Password maintenance,Audit export
+#241611,2026-02-21 15:19,Tech 01,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#241611,2026-02-21 15:25,Tech 01,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241612,2026-02-21 15:40,Tech 01,Comment added,Following up: waiting on the user to test again.,Printing,Audit export
+#241614,2026-02-21 16:10,Tech 01,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#241364,2026-02-21 16:31,Tech 09,Assignee -1 -> Front Desk Queue,,Account access,Audit export
+#241309,2026-02-21 16:55,Tech 01,Comment added,Reassigned with troubleshooting notes attached.,Wi-Fi,Audit export
+#241309,2026-02-21 16:57,Tech 01,Assignee -1 -> Asset Management,,Wi-Fi,Audit export
+#241626,2026-02-22 10:02,Tech 01,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#241626,2026-02-22 10:05,Tech 01,Assignee -1 -> Network Services,,Password maintenance,Audit export
+#241641,2026-02-22 10:26,Tech 13,Comment added,Called the user and walked through the reset steps.,Wi-Fi,Audit export
+#241641,2026-02-22 10:32,Tech 13,Assignee -1 -> Enterprise Solutions,,Wi-Fi,Audit export
+#241587,2026-02-22 11:27,Tech 01,Comment added,Called the user and walked through the reset steps.,Canvas,Audit export
+#241587,2026-02-22 11:32,Tech 01,State Assigned -> Resolved,,Canvas,Audit export
+#241628,2026-02-22 11:32,Tech 01,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#241587,2026-02-22 11:33,Tech 01,Resolution code set,,Canvas,Audit export
+#241631,2026-02-22 13:46,Tech 01,Comment added,Reassigned with troubleshooting notes attached.,Hardware,Audit export
+#241603,2026-02-22 14:46,Tech 13,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#241603,2026-02-22 14:48,Tech 13,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#241632,2026-02-22 15:32,Tech 05,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#241632,2026-02-22 15:36,Tech 05,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241635,2026-02-22 15:41,Tech 05,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#241628,2026-02-22 15:45,Tech 05,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241635,2026-02-22 15:46,Tech 05,State Responded -> Waiting on User,,Password maintenance,Audit export
+#241609,2026-02-22 15:48,Tech 05,Comment added,Following up: waiting on the user to test again.,Account access,Audit export
+#241609,2026-02-22 15:52,Tech 05,Assignee -1 -> Network Services,,Account access,Audit export
+#241637,2026-02-22 17:26,Tech 05,Comment added,Left a voicemail and sent an email with next steps.,Account access,Audit export
+#241637,2026-02-22 17:28,Tech 05,State Assigned -> Resolved,,Account access,Audit export
+#241637,2026-02-22 17:29,Tech 05,Resolution code set,,Account access,Audit export
+#241683,2026-02-23 08:18,Tech 04,Comment added,Left a voicemail and sent an email with next steps.,Account access,Audit export
+#241685,2026-02-23 09:37,Tech 04,Comment added,Reassigned with troubleshooting notes attached.,Email,Audit export
+#241685,2026-02-23 09:39,Tech 04,Comment edited,,Email,Audit export
+#241700,2026-02-23 09:54,Tech 08,Comment added,Called the user and walked through the reset steps.,Password maintenance,Audit export
+#241700,2026-02-23 09:57,Tech 08,Assignee -1 -> Technical Support,,Password maintenance,Audit export
+#241702,2026-02-23 10:00,Tech 08,Comment added,Confirmed the issue is resolved with the user.,Canvas,Audit export
+#241705,2026-02-23 10:08,Tech 08,Comment added,Left a voicemail and sent an email with next steps.,Classroom AV,Audit export
+#241688,2026-02-23 10:12,Tech 04,Comment added,Called the user and walked through the reset steps.,Account access,Audit export
+#241705,2026-02-23 10:12,Tech 08,Assignee -1 -> Academic Solutions,,Classroom AV,Audit export
+#241553,2026-02-23 10:32,Tech 04,Comment added,Reassigned with troubleshooting notes attached.,Classroom AV,Audit export
+#241553,2026-02-23 10:36,Tech 04,Comment edited,,Classroom AV,Audit export
+#241691,2026-02-23 10:36,Tech 06,State Assigned -> Resolved,,Printing,Audit export
+#241691,2026-02-23 10:37,Tech 06,Resolution code set,,Printing,Audit export
+#241553,2026-02-23 10:41,Tech 04,Assignee -1 -> Network Services,,Classroom AV,Audit export
+#241690,2026-02-23 11:17,Tech 04,Comment added,called,Password maintenance,Audit export
+#241690,2026-02-23 11:22,Tech 04,State Assigned -> Resolved,,Password maintenance,Audit export
+#241690,2026-02-23 11:27,Tech 04,Resolution code set,,Password maintenance,Audit export
+#241304,2026-02-23 12:34,Tech 02,Comment added,Asked the user for a screenshot of the error.,Printing,Audit export
+#241304,2026-02-23 12:36,Tech 02,State Assigned -> Resolved,,Printing,Audit export
+#241304,2026-02-23 12:40,Tech 02,Resolution code set,,Printing,Audit export
+#241657,2026-02-23 12:41,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#241657,2026-02-23 12:45,Tech 02,Assignee -1 -> Classroom Media Services,,Password maintenance,Audit export
+#241661,2026-02-23 12:53,Tech 02,Comment added,Left a voicemail and sent an email with next steps.,Password maintenance,Audit export
+#241661,2026-02-23 12:54,Tech 02,Assignee -1 -> Technical Support,,Password maintenance,Audit export
+#241712,2026-02-23 13:02,Tech 12,Comment added,Following up: waiting on the user to test again.,Password maintenance,Audit export
+#241664,2026-02-23 13:04,Tech 02,Subcategory changed,,Account access,Audit export
+#241694,2026-02-23 14:03,Tech 06,State Assigned -> Responded,,Software,Audit export
+#241635,2026-02-23 14:06,Tech 06,State Assigned -> Resolved,,Password maintenance,Audit export
+#241635,2026-02-23 14:07,Tech 06,Resolution code set,,Password maintenance,Audit export
+#241694,2026-02-23 14:08,Tech 06,Subcategory changed,,Software,Audit export
+#241694,2026-02-23 14:10,Tech 06,Comment added,Reassigned with troubleshooting notes attached.,Software,Audit export
+#241668,2026-02-23 14:11,Tech 02,Comment added,Asked the user for a screenshot of the error.,Password maintenance,Audit export
+#241694,2026-02-23 14:12,Tech 06,Assignee -1 -> Service Desk,,Software,Audit export
+#241668,2026-02-23 14:13,Tech 02,Assignee -1 -> Enterprise Solutions,,Password maintenance,Audit export
+#241598,2026-02-23 14:20,Tech 02,Assignee -1 -> Academic Solutions,,Hardware,Audit export
+#241675,2026-02-23 15:26,Tech 02,Comment added,Checked the device in AD; account is active.,Password maintenance,Audit export
+#241664,2026-02-23 15:28,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Account access,Audit export
+#241664,2026-02-23 15:30,Tech 02,Assignee -1 -> Academic Solutions,,Account access,Audit export
+#241671,2026-02-23 15:42,Tech 02,State Assigned -> Responded,,Account access,Audit export
+#241682,2026-02-23 16:11,Tech 02,Comment added,Asked the user for a screenshot of the error.,Email,Audit export
+#241682,2026-02-23 16:12,Tech 02,Assignee -1 -> Classroom Media Services,,Email,Audit export
+#241679,2026-02-23 16:24,Tech 02,Comment added,Confirmed the issue is resolved with the user.,Password maintenance,Audit export
+#241679,2026-02-23 16:25,Tech 02,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241368,2026-02-23 17:05,Tech 06,Comment added,Called the user and walked through the reset steps.,Password maintenance,Audit export
+#241368,2026-02-23 17:10,Tech 06,Assignee -1 -> Network Services,,Password maintenance,Audit export
+#241644,2026-02-23 18:23,Tech 01,Assignee -1 -> Classroom Media Services,,Software,Audit export
+#241647,2026-02-23 19:04,Tech 01,Assignee -1 -> Service Desk,,Password maintenance,Audit export
+#241549,2026-02-23 19:31,Tech 10,State Assigned -> Resolved,,Password maintenance,Audit export
+#241549,2026-02-23 19:32,Tech 10,Resolution code set,,Password maintenance,Audit export
+#241646,2026-02-23 19:40,Tech 01,Comment added,Left a voicemail and sent an email with next steps.,Classroom AV,Audit export
+#241646,2026-02-23 19:46,Tech 01,Assignee -1 -> Network Services,,Classroom AV,Audit export
+#241651,2026-02-23 20:50,Tech 01,State Assigned -> Responded,,Classroom AV,Audit export
+#241651,2026-02-23 20:55,Tech 01,Comment added,Asked the user for a screenshot of the error.,Classroom AV,Audit export
+#241556,2026-02-23 20:57,Tech 01,Assignee -1 -> Front Desk Queue,,Password maintenance,Audit export
+#241651,2026-02-23 21:00,Tech 01,Assignee -1 -> Academic Solutions,,Classroom AV,Audit export
+#241709,2026-02-23 21:04,Tech 10,Comment added,Reassigned with troubleshooting notes attached.,Password maintenance,Audit export
+#241709,2026-02-23 21:09,Tech 10,State Responded -> Waiting on User,,Password maintenance,Audit export
+#241655,2026-02-23 22:26,Tech 01,Comment added,Confirmed the issue is resolved with the user.,Account access,Audit export
+#241655,2026-02-23 22:28,Tech 01,Assignee -1 -> Technical Support,,Account access,Audit export
+#241529,2026-02-23 22:54,Tech 01,Comment added,Confirmed the issue is resolved with the user.,Wi-Fi,Audit export
+#241529,2026-02-23 22:59,Tech 01,Assignee -1 -> Classroom Media Services,,Wi-Fi,Audit export

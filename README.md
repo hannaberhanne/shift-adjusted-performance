@@ -1,49 +1,85 @@
-# Shift-Adjusted Performance Model
+# Performance Model
 
-A fair way to compare service desk technicians who work very different shifts.
+An evidence-based review system for a student IT service desk. It turns ticket audit logs and the shift schedule into scores, cited findings and check-in packets for every technician.
 
-I built this at the University of Tampa ITS service desk while supervising the student technician team. It was my idea and I did it on my own initiative. I presented the results to management, and it became the standing method for evaluating the team.
+I built this at the University of Tampa ITS service desk while supervising the student technician team, on my own initiative. I used it for the Spring 2026 semester check-in (15 student employees, January 22 to February 23, 2026), presented it to management, and it became the standing method for evaluating the team.
 
-## The problem
+This repo runs the same pipeline on synthetic data for 15 fictional technicians. No real staff data is here.
 
-Raw numbers punished people for their schedule. A technician on weekday afternoons with three teammates will close more tickets per hour than someone covering nights and weekends alone, even if the second person is better at the job. Ranking by raw counts measured the schedule, not the person.
+## Why it exists
 
-## How it works
+- **Raw counts measure the schedule, not the person.** Someone on weekday afternoons with three teammates will touch more tickets per hour than someone covering nights and weekends alone.
+- **A finding should point to a ticket.** "Needs better follow-up" is hard to act on. Every finding in the packet cites the incident numbers behind it, so the conversation starts from the evidence.
+- **Thin data shouldn't drive a decision.** A score built on four actions is not the same as one built on forty.
+- **Tickets don't show everything.** Phones, front desk work, media runs and reliability need a supervisor's input, not a guess from ticket data.
 
-1. **Build each technician's metrics from ticket data:** updates per hour, incidents per hour, follow-up per incident, on-shift percentage, accuracy corrections per 100 incidents, and issue rate from sampled actions.
-2. **Standardize against peers.** Each metric becomes a z-score, using only technicians with complete records as the baseline. For metrics where lower is better (corrections, issue rate), the sign is flipped so a higher score always means stronger performance.
-3. **Combine into two equally weighted components.**
-   - Productivity: updates per hour and incidents per hour
-   - Execution: follow-up, on-shift percentage, corrections, issue rate
+## The pipeline
 
-   Core performance is the average of the two.
-4. **Measure shift load the same way:** share of work done at night, on weekends, on slow incidents, and on solo shifts.
-5. **Adjust for it.** Context-adjusted performance = core performance + shift load, so someone carrying harder shifts gets credit for it.
+| Stage | What it does | Main output |
+|---|---|---|
+| 1. Tag evidence | Tags every audited ticket action with an explicit rule (valid follow-up, correct reroute, category correction, and so on) and builds per-technician metrics, normalized per scheduled hour. | `evidence_log.csv`, `metrics_summary.csv` |
+| 2. Schedule context | Joins each sampled action to the shift schedule: on shift or not, who else was scheduled, team size, solo shifts, nights, weekends, and how slow the ticket was. | `evidence_activity_enriched.csv` |
+| 3. Benchmark | Grades everyone against the strongest full-coverage profile on the team, as a percent of that profile, with banded results and the main gaps. | `benchmark_report.md` |
+| 4. Standardize | Converts each metric to a z-score against the full-coverage cohort, builds productivity, execution and context-load components, and adds context load to core performance. | `performance_student_analysis.csv` |
+| 5. Scorecard | A weighted 0 to 100 scorecard: queue and ticket handling (60%, 7 metrics) and knowledge and accuracy (40%, 6 metrics), each with a confidence tier and the raw observations behind it. | `standardized_scorecard.xlsx` |
+| 6. Check-in | Rates each technician on a seven-domain rubric against role expectations, and writes a meeting packet with findings that cite incident numbers. | `checkin_workbook.xlsx`, `checkin_packet.md` |
+| 7. Raw packet | Bundles the evidence and analysis tables into one workbook for the reviewer. | `performance_raw_packet.xlsx` |
 
-It also writes two supporting tables: how each technician performs when scheduled with each peer, and a weekday/weekend by time-of-day breakdown.
+[docs/method.md](docs/method.md) has every rule, formula, weight and threshold.
 
-## Example (synthetic data)
+## Three views, on purpose
 
-In the sample run, Tech 01 ranks last of 12 on raw core performance but 5th once shift load is counted. They carry the heaviest night, weekend and solo load on the team.
+The benchmark, the context-adjusted z-scores and the check-in answer different questions, and the sample run shows why you want all three:
 
-## About the data
-
-There is no real staff data in this repo. Everything in `data/` is generated by `scripts/make_sample_data.py` for 15 fictional technicians. The real evaluation data stays with UTampa ITS.
+- **Tech 02** is the benchmark, so it "Meets standard" on the strict view. The check-in still puts it on a support plan: its correction rate (6.8 per 100 incidents) is above the accuracy anchor, and its on-shift share sits just under the communication anchor.
+- **Tech 09** gets "Critical gap vs standard" on the benchmark (27% of the benchmark's throughput). After context, it ranks first of 13: 60% of its sampled work was on solo shifts and half was at night. Its check-in outcome is On Track.
+- **Tech 14 and Tech 15** only appear in a partial PDF export. Every view gives them "no score" or "Insufficient Data" instead of a low score.
 
 ## Run it
 
-No dependencies beyond the Python standard library.
+Requires Python 3.9+ and openpyxl.
 
 ```bash
-python3 scripts/make_sample_data.py
-python3 performance_analysis.py
+pip install -r requirements.txt
+python3 run_pipeline.py --sample   # regenerate the synthetic data, then run every stage
+python3 run_pipeline.py            # run every stage on whatever is in data/raw/
 ```
 
-Outputs land in `output/`:
+Each stage can also run on its own, for example `python3 pipeline/s3_benchmark.py`. The outputs from the sample run are committed in `output/`.
 
-| File | What it holds |
+## Inputs
+
+`data/raw/audit_log.csv`: one row per ticket action.
+
+| Column | Example |
 |---|---|
-| `performance_student_analysis.csv` | each technician's metrics, z-scores, components and ranks |
-| `performance_metric_distribution.csv` | the baseline (mean, std, quantiles) used for each metric |
-| `performance_pairing_actor_view.csv` | performance while scheduled with each peer |
-| `performance_shift_window_analysis.csv` | performance by weekday/weekend and time window |
+| Incident | `#240574` |
+| DateTime | `2026-02-01 14:02` |
+| Technician | `Tech 05` |
+| Action | `State Responded -> Waiting on User` |
+| Detail | comment text, if any |
+| TicketCategory | `Password maintenance` |
+| Source | `Audit export` (full coverage) or `Queue PDF` (partial) |
+
+`data/raw/schedule.csv`: one row per hourly slot, with the staff on it separated by `|`.
+
+| Day | Slot | Staff |
+|---|---|---|
+| Monday | `6:00-7:00pm` | `Tech 01 \| Tech 10 \| Tech 15` |
+
+## About the data
+
+Everything in `data/raw/` is generated by `scripts/make_sample_data.py` with a fixed seed, so every run gives the same results. The real evaluation data stays with UT ITS.
+
+Stages 3 and 6 were checked against the outputs of the real semester run and reproduce them exactly. Stages 2, 4, 5 and 7 are the scripts from the real run, with file paths, names and the schedule loader adapted for this repo. Stage 1 is rewritten for the synthetic audit log format, using the same rules.
+
+## Repo layout
+
+```
+pipeline/            the seven stages, plus shared helpers (common.py, schedule.py)
+scripts/             synthetic data generator
+data/raw/            synthetic audit log and schedule
+output/              results of the sample run
+docs/method.md       rules, formulas, weights and thresholds
+run_pipeline.py      runs every stage in order
+```

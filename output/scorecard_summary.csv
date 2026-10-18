@@ -1,0 +1,16 @@
+Student,Coverage,QueueTicketComponentScore,KnowledgeAccuracyComponentScore,OverallStandardizedScore,ConfidenceScore,ConfidenceTier
+Tech 01,Full,66.4,80.0,71.8,95.0,Medium
+Tech 02,Full,70.3,70.0,70.2,95.0,Medium
+Tech 03,Full,78.7,33.8,60.7,97.5,Medium
+Tech 04,Full,78.2,87.5,81.9,95.0,Medium
+Tech 05,Full,70.8,82.5,75.5,100.0,High
+Tech 06,Full,48.9,36.2,43.8,97.5,Medium
+Tech 07,Full,59.0,90.0,71.4,100.0,High
+Tech 08,Full,60.7,72.5,65.4,100.0,High
+Tech 09,Full,49.6,85.0,63.8,97.5,Medium
+Tech 10,Full,22.5,45.8,31.8,100.0,High
+Tech 11,Full,60.1,5.0,38.1,100.0,High
+Tech 12,Full,21.2,6.7,15.4,96.0,Medium
+Tech 13,Full,63.3,39.6,53.8,95.0,Medium
+Tech 14,PDF-partial,,,,16.2,Low
+Tech 15,PDF-partial,,,,22.7,Low

@@ -1,0 +1,16 @@
+Student,Coverage,UpdatesPerHour,IncidentsPerHour,FollowupPerIncident,OnShiftPct,AccuracyCorrectionsPer100Incidents,ProdPctOfBenchmark,ExecPctOfBenchmark,QualityVsBenchmark,BenchmarkBand,PrimaryGaps
+Tech 02,Full,4.11,1.9,0.91,94.8,6.77,100.0,100.0,At/Better,Meets standard,No major gap vs benchmark
+Tech 04,Full,3.12,1.57,0.88,94.1,2.13,79.3,98.0,At/Better,Approaching standard,No major gap vs benchmark
+Tech 03,Full,3.05,1.53,0.77,97.1,12.64,77.4,93.5,Worse,Approaching standard,Higher correction rate than benchmark
+Tech 01,Full,2.3,1.1,0.97,97.5,4.35,56.9,104.7,At/Better,Below standard,No major gap vs benchmark
+Tech 06,Full,2.07,1.09,0.57,92.4,7.89,53.9,80.1,Worse,Below standard,Follow-up rate below benchmark; Higher correction rate than benchmark
+Tech 07,Full,1.97,1.05,0.59,95.8,1.59,51.6,82.9,At/Better,Below standard,Follow-up rate below benchmark
+Tech 05,Full,1.57,0.81,0.75,100.0,3.33,40.4,94.0,At/Better,Critical gap vs standard,Low throughput during scheduled shifts
+Tech 08,Full,1.15,0.63,0.61,98.3,6.06,30.6,85.4,At/Better,Critical gap vs standard,Low throughput during scheduled shifts; Follow-up rate below benchmark
+Tech 09,Full,1.0,0.56,0.51,100.0,2.56,26.9,80.8,At/Better,Critical gap vs standard,Low throughput during scheduled shifts; Follow-up rate below benchmark
+Tech 11,Full,0.72,0.38,0.61,100.0,26.09,18.8,86.3,Worse,Critical gap vs standard,Low throughput during scheduled shifts; Follow-up rate below benchmark; Higher correction rate than benchmark
+Tech 10,Full,0.57,0.32,0.52,91.9,4.76,15.4,77.0,At/Better,Critical gap vs standard,Low throughput during scheduled shifts; Follow-up rate below benchmark
+Tech 13,Full,0.56,0.29,1.1,100.0,5.0,14.4,113.2,At/Better,Critical gap vs standard,Low throughput during scheduled shifts
+Tech 12,Full,0.32,0.2,0.36,94.4,27.27,9.2,69.6,Worse,Critical gap vs standard,Low throughput during scheduled shifts; Follow-up rate below benchmark; Higher correction rate than benchmark
+Tech 14,PDF-partial,0.0,0.0,0.0,0.0,0.0,,,n/a,No score (data gap),Missing full audit coverage
+Tech 15,PDF-partial,0.0,0.0,0.0,0.0,0.0,,,n/a,No score (data gap),Missing full audit coverage

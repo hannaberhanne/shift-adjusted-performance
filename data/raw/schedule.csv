@@ -1,0 +1,92 @@
+Day,Slot,Staff
+Monday,8:00-9:00am,Tech 04 | Tech 08
+Monday,9:00-10:00am,Tech 04 | Tech 08
+Monday,10:00-11:00am,Tech 04 | Tech 08
+Monday,11:00am-12:00pm,Tech 04 | Tech 08
+Monday,12:00-1:00pm,Tech 02 | Tech 06 | Tech 12
+Monday,1:00-2:00pm,Tech 02 | Tech 06 | Tech 12
+Monday,2:00-3:00pm,Tech 02 | Tech 06 | Tech 12
+Monday,3:00-4:00pm,Tech 02 | Tech 06 | Tech 12
+Monday,4:00-5:00pm,Tech 02 | Tech 06
+Monday,5:00-6:00pm,Tech 10 | Tech 15
+Monday,6:00-7:00pm,Tech 01 | Tech 10 | Tech 15
+Monday,7:00-8:00pm,Tech 01 | Tech 10 | Tech 15
+Monday,8:00-9:00pm,Tech 01 | Tech 10 | Tech 15
+Monday,9:00-10:00pm,Tech 01 | Tech 10 | Tech 15
+Monday,10:00-11:00pm,Tech 01
+Tuesday,8:00-9:00am,Tech 03 | Tech 08 | Tech 11
+Tuesday,9:00-10:00am,Tech 03 | Tech 08 | Tech 11
+Tuesday,10:00-11:00am,Tech 03 | Tech 08 | Tech 11
+Tuesday,11:00am-12:00pm,Tech 03 | Tech 08 | Tech 11
+Tuesday,12:00-1:00pm,Tech 02 | Tech 07 | Tech 14
+Tuesday,1:00-2:00pm,Tech 02 | Tech 07 | Tech 14
+Tuesday,2:00-3:00pm,Tech 02 | Tech 07 | Tech 14
+Tuesday,3:00-4:00pm,Tech 02 | Tech 07 | Tech 14
+Tuesday,4:00-5:00pm,Tech 02 | Tech 07 | Tech 14
+Tuesday,5:00-6:00pm,Tech 05
+Tuesday,6:00-7:00pm,Tech 05
+Tuesday,7:00-8:00pm,Tech 05
+Tuesday,8:00-9:00pm,Tech 05
+Tuesday,9:00-10:00pm,Tech 05
+Tuesday,10:00-11:00pm,Tech 05
+Wednesday,8:00-9:00am,Tech 03 | Tech 08 | Tech 12
+Wednesday,9:00-10:00am,Tech 03 | Tech 08 | Tech 12
+Wednesday,10:00-11:00am,Tech 03 | Tech 08 | Tech 12
+Wednesday,11:00am-12:00pm,Tech 03 | Tech 08 | Tech 12
+Wednesday,12:00-1:00pm,Tech 06 | Tech 07
+Wednesday,1:00-2:00pm,Tech 06 | Tech 07
+Wednesday,2:00-3:00pm,Tech 06 | Tech 07
+Wednesday,3:00-4:00pm,Tech 06 | Tech 07
+Wednesday,4:00-5:00pm,Tech 06 | Tech 07
+Wednesday,5:00-6:00pm,Tech 10
+Wednesday,6:00-7:00pm,Tech 01 | Tech 10
+Wednesday,7:00-8:00pm,Tech 01 | Tech 10
+Wednesday,8:00-9:00pm,Tech 01 | Tech 10
+Wednesday,9:00-10:00pm,Tech 01 | Tech 10
+Wednesday,10:00-11:00pm,Tech 01
+Thursday,8:00-9:00am,Tech 04 | Tech 10
+Thursday,9:00-10:00am,Tech 04 | Tech 10
+Thursday,10:00-11:00am,Tech 04 | Tech 10
+Thursday,11:00am-12:00pm,Tech 04 | Tech 10
+Thursday,12:00-1:00pm,Tech 02 | Tech 07 | Tech 11
+Thursday,1:00-2:00pm,Tech 02 | Tech 07 | Tech 11
+Thursday,2:00-3:00pm,Tech 02 | Tech 07 | Tech 11
+Thursday,3:00-4:00pm,Tech 02 | Tech 07 | Tech 11
+Thursday,4:00-5:00pm,Tech 02 | Tech 11
+Thursday,5:00-6:00pm,Tech 05 | Tech 13
+Thursday,6:00-7:00pm,Tech 05 | Tech 13
+Thursday,7:00-8:00pm,Tech 05 | Tech 13
+Thursday,8:00-9:00pm,Tech 05 | Tech 13
+Thursday,9:00-10:00pm,Tech 05 | Tech 13
+Thursday,10:00-11:00pm,Tech 05 | Tech 13
+Friday,8:00-9:00am,Tech 03 | Tech 11 | Tech 14
+Friday,9:00-10:00am,Tech 03 | Tech 11 | Tech 14
+Friday,10:00-11:00am,Tech 03 | Tech 11 | Tech 14
+Friday,11:00am-12:00pm,Tech 03 | Tech 11 | Tech 14
+Friday,12:00-1:00pm,Tech 03 | Tech 06 | Tech 12
+Friday,1:00-2:00pm,Tech 04 | Tech 06 | Tech 12
+Friday,2:00-3:00pm,Tech 04 | Tech 06 | Tech 12
+Friday,3:00-4:00pm,Tech 04 | Tech 06 | Tech 12
+Friday,4:00-5:00pm,Tech 04 | Tech 06
+Friday,5:00-6:00pm,Tech 09
+Friday,6:00-7:00pm,Tech 09
+Friday,7:00-8:00pm,Tech 09
+Friday,8:00-9:00pm,Tech 09
+Friday,9:00-10:00pm,Tech 09
+Friday,10:00-11:00pm,Tech 09
+Saturday,10:00-11:00am,Tech 01 | Tech 09 | Tech 15
+Saturday,11:00am-12:00pm,Tech 01 | Tech 09 | Tech 15
+Saturday,12:00-1:00pm,Tech 01 | Tech 09 | Tech 15
+Saturday,1:00-2:00pm,Tech 01 | Tech 09 | Tech 15
+Saturday,2:00-3:00pm,Tech 01 | Tech 09
+Saturday,3:00-4:00pm,Tech 01 | Tech 09
+Saturday,4:00-5:00pm,Tech 01 | Tech 09
+Saturday,5:00-6:00pm,Tech 01 | Tech 09
+Sunday,10:00-11:00am,Tech 01 | Tech 13
+Sunday,11:00am-12:00pm,Tech 01 | Tech 13
+Sunday,12:00-1:00pm,Tech 01 | Tech 13
+Sunday,1:00-2:00pm,Tech 01 | Tech 13
+Sunday,2:00-3:00pm,Tech 05 | Tech 13
+Sunday,3:00-4:00pm,Tech 05 | Tech 13
+Sunday,4:00-5:00pm,Tech 05 | Tech 13
+Sunday,5:00-6:00pm,Tech 05 | Tech 13

@@ -1,0 +1,271 @@
+Student,Incident,DateTime,Source,QueueContext,ActionType,RuleMatched,Outcome,Category,Note
+Tech 01,#240226,2026-01-24 10:08,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Asked the user for a screenshot of the error.'
+Tech 01,#240230,2026-01-25 13:01,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Left a voicemail and sent an email with next steps.'
+Tech 01,#240278,2026-01-28 21:08,Audit export,All activity (queue may be implicit),Assignee -1 -> Asset Management,Rerouted to correct department/person,good,strength,
+Tech 01,#240497,2026-01-31 15:46,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Following up: waiting on the user to test again.'
+Tech 01,#240478,2026-02-01 12:29,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Reassigned with troubleshooting notes attached.'
+Tech 01,#240588,2026-02-02 11:11,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Checked the device in AD; account is active.'
+Tech 01,#240598,2026-02-02 22:29,Audit export,All activity (queue may be implicit),Assignee -1 -> Enterprise Solutions,Rerouted to correct department/person,good,strength,
+Tech 01,#240706,2026-02-04 20:24,Audit export,All activity (queue may be implicit),Assignee -1 -> Academic Solutions,Rerouted to correct department/person,good,strength,
+Tech 01,#240900,2026-02-07 10:35,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 01,#240897,2026-02-07 16:25,Audit export,All activity (queue may be implicit),Assignee -1 -> Front Desk Queue,Assigned to Front Desk Queue,good,strength,
+Tech 01,#240907,2026-02-08 13:07,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Reassigned with troubleshooting notes attached.'
+Tech 01,#240913,2026-02-09 20:55,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Reassigned with troubleshooting notes attached.'
+Tech 01,#241040,2026-02-11 18:52,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Following up: waiting on the user to test again.'
+Tech 01,#241088,2026-02-11 22:59,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Following up: waiting on the user to test again.'
+Tech 01,#241247,2026-02-14 14:13,Audit export,All activity (queue may be implicit),Comment edited,Comment edited after posting,neutral,watch,
+Tech 01,#241246,2026-02-15 12:53,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Confirmed the issue is resolved with the user.'
+Tech 01,#241412,2026-02-18 18:33,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Following up: waiting on the user to test again.'
+Tech 01,#241401,2026-02-21 10:52,Audit export,All activity (queue may be implicit),Assignee -1 -> Network Services,Rerouted to correct department/person,good,strength,
+Tech 01,#241611,2026-02-21 15:19,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Following up: waiting on the user to test again.'
+Tech 01,#241631,2026-02-22 13:46,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Reassigned with troubleshooting notes attached.'
+Tech 02,#240119,2026-01-22 08:08,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 02,#240108,2026-01-22 14:14,Audit export,All activity (queue may be implicit),Assignee -1 -> Front Desk Queue,Assigned to Front Desk Queue,good,strength,
+Tech 02,#240257,2026-01-26 12:02,Audit export,All activity (queue may be implicit),Assignee -1 -> Academic Solutions,Rerouted to correct department/person,good,strength,
+Tech 02,#240276,2026-01-26 15:04,Audit export,All activity (queue may be implicit),Assignee -1 -> Classroom Media Services,Rerouted to correct department/person,good,strength,
+Tech 02,#240332,2026-01-27 13:57,Audit export,All activity (queue may be implicit),Comment edited,Comment edited after posting,neutral,watch,
+Tech 02,#240431,2026-01-29 12:50,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 02,#240319,2026-01-29 15:24,Audit export,All activity (queue may be implicit),Comment edited,Comment edited after posting,neutral,watch,
+Tech 02,#240602,2026-02-02 12:45,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Confirmed the issue is resolved with the user.'
+Tech 02,#240626,2026-02-03 12:28,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 02,#240653,2026-02-03 16:02,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Asked the user for a screenshot of the error.'
+Tech 02,#240772,2026-02-05 13:27,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Following up: waiting on the user to test again.'
+Tech 02,#240948,2026-02-09 12:47,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 02,#240969,2026-02-09 16:52,Audit export,All activity (queue may be implicit),State Responded -> Waiting on User,Follow-up valid (Waiting on User),good,strength,
+Tech 02,#241024,2026-02-10 15:42,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Reassigned with troubleshooting notes attached.'
+Tech 02,#241083,2026-02-12 14:28,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 02,#241072,2026-02-12 16:26,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Checked the device in AD; account is active.'
+Tech 02,#241300,2026-02-16 16:33,Audit export,All activity (queue may be implicit),Assignee -1 -> Classroom Media Services,Rerouted to correct department/person,good,strength,
+Tech 02,#241276,2026-02-17 15:38,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Checked the device in AD; account is active.'
+Tech 02,#241484,2026-02-19 15:40,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'done'
+Tech 02,#241657,2026-02-23 12:45,Audit export,All activity (queue may be implicit),Assignee -1 -> Classroom Media Services,Rerouted to correct department/person,good,strength,
+Tech 03,#240177,2026-01-23 08:12,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Confirmed the issue is resolved with the user.'
+Tech 03,#240184,2026-01-23 09:35,Audit export,All activity (queue may be implicit),Assignee -1 -> Classroom Media Services,Rerouted to correct department/person,good,strength,
+Tech 03,#240197,2026-01-23 11:01,Audit export,All activity (queue may be implicit),Assignee -1 -> Academic Solutions,Rerouted to correct department/person,good,strength,
+Tech 03,#240354,2026-01-27 09:54,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Checked the device in AD; account is active.'
+Tech 03,#240388,2026-01-28 08:46,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Password template quick resolution,good,strength,
+Tech 03,#240486,2026-01-30 11:03,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'ok'
+Tech 03,#240505,2026-01-30 12:16,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 03,#240657,2026-02-03 08:34,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 03,#240662,2026-02-03 10:43,Audit export,All activity (queue may be implicit),Assignee -1 -> Front Desk Queue,Assigned to Front Desk Queue,good,strength,
+Tech 03,#240729,2026-02-04 08:17,Audit export,All activity (queue may be implicit),Assignee -1 -> Front Desk Queue,Assigned to Front Desk Queue,good,strength,
+Tech 03,#240734,2026-02-04 10:46,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 03,#240848,2026-02-06 10:03,Audit export,All activity (queue may be implicit),Assignee -1 -> Network Services,Rerouted to correct department/person,good,strength,
+Tech 03,#240805,2026-02-06 11:56,Audit export,All activity (queue may be implicit),Subcategory changed,Subcategory correction needed,issue,issue,
+Tech 03,#240935,2026-02-10 09:22,Audit export,All activity (queue may be implicit),Assignee -1 -> Service Desk,Rerouted to correct department/person,good,strength,
+Tech 03,#241096,2026-02-11 10:46,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Left a voicemail and sent an email with next steps.'
+Tech 03,#241206,2026-02-13 10:05,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Confirmed the issue is resolved with the user.'
+Tech 03,#241356,2026-02-17 10:47,Audit export,All activity (queue may be implicit),State Responded -> Waiting on User,Follow-up valid (Waiting on User),good,strength,
+Tech 03,#241418,2026-02-18 09:02,Audit export,All activity (queue may be implicit),Assignee -1 -> Front Desk Queue,Assigned to Front Desk Queue,good,strength,
+Tech 03,#241289,2026-02-18 11:10,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Called the user and walked through the reset steps.'
+Tech 03,#241557,2026-02-20 11:39,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 04,#240122,2026-01-22 08:52,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Reassigned with troubleshooting notes attached.'
+Tech 04,#240130,2026-01-22 10:50,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 04,#240206,2026-01-23 15:52,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Asked the user for a screenshot of the error.'
+Tech 04,#240290,2026-01-26 10:57,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 04,#240447,2026-01-29 08:40,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 04,#240506,2026-01-30 13:38,Audit export,All activity (queue may be implicit),Assignee -1 -> Front Desk Queue,Assigned to Front Desk Queue,good,strength,
+Tech 04,#240625,2026-02-02 10:36,Audit export,All activity (queue may be implicit),Assignee -1 -> Network Services,Rerouted to correct department/person,good,strength,
+Tech 04,#240794,2026-02-05 10:52,Audit export,All activity (queue may be implicit),Assignee -1 -> Asset Management,Rerouted to correct department/person,good,strength,
+Tech 04,#240860,2026-02-06 13:14,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 04,#240829,2026-02-06 15:56,Audit export,All activity (queue may be implicit),Assignee -1 -> Service Desk,Rerouted to correct department/person,good,strength,
+Tech 04,#240979,2026-02-09 09:41,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 04,#240984,2026-02-09 11:53,Audit export,All activity (queue may be implicit),Assignee -1 -> Front Desk Queue,Assigned to Front Desk Queue,good,strength,
+Tech 04,#241172,2026-02-12 11:55,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Asked the user for a screenshot of the error.'
+Tech 04,#241066,2026-02-13 15:42,Audit export,All activity (queue may be implicit),Assignee -1 -> Network Services,Rerouted to correct department/person,good,strength,
+Tech 04,#241309,2026-02-16 09:11,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 04,#241493,2026-02-19 08:03,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 04,#241499,2026-02-19 10:42,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 04,#241371,2026-02-19 11:24,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Checked the device in AD; account is active.'
+Tech 04,#241570,2026-02-20 14:38,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 04,#241683,2026-02-23 08:18,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Left a voicemail and sent an email with next steps.'
+Tech 05,#240138,2026-01-22 21:02,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 05,#240112,2026-01-22 22:39,Audit export,All activity (queue may be implicit),Assignee -1 -> Front Desk Queue,Assigned to Front Desk Queue,good,strength,
+Tech 05,#240359,2026-01-27 17:42,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Called the user and walked through the reset steps.'
+Tech 05,#240365,2026-01-27 21:09,Audit export,All activity (queue may be implicit),Assignee -1 -> Academic Solutions,Rerouted to correct department/person,good,strength,
+Tech 05,#240456,2026-01-29 19:33,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Confirmed the issue is resolved with the user.'
+Tech 05,#240575,2026-02-01 17:24,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 05,#240674,2026-02-03 19:28,Audit export,All activity (queue may be implicit),Assignee -1 -> Service Desk,Rerouted to correct department/person,good,strength,
+Tech 05,#240801,2026-02-05 17:45,Audit export,All activity (queue may be implicit),Assignee -1 -> Network Services,Rerouted to correct department/person,good,strength,
+Tech 05,#240775,2026-02-05 21:21,Audit export,All activity (queue may be implicit),Assignee -1 -> Technical Support,Rerouted to correct department/person,good,strength,
+Tech 05,#240931,2026-02-08 15:49,Audit export,All activity (queue may be implicit),Assignee -1 -> Enterprise Solutions,Rerouted to correct department/person,good,strength,
+Tech 05,#241044,2026-02-10 20:29,Audit export,All activity (queue may be implicit),Assignee -1 -> Network Services,Rerouted to correct department/person,good,strength,
+Tech 05,#241055,2026-02-10 21:42,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Left a voicemail and sent an email with next steps.'
+Tech 05,#241173,2026-02-12 18:05,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 05,#240962,2026-02-12 22:11,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 05,#241266,2026-02-15 16:47,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Password template quick resolution,good,strength,
+Tech 05,#241363,2026-02-17 17:11,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Checked the device in AD; account is active.'
+Tech 05,#241323,2026-02-17 20:58,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 05,#241373,2026-02-17 21:58,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Reassigned with troubleshooting notes attached.'
+Tech 05,#241503,2026-02-19 21:36,Audit export,All activity (queue may be implicit),Assignee -1 -> Technical Support,Rerouted to correct department/person,good,strength,
+Tech 05,#241635,2026-02-22 15:46,Audit export,All activity (queue may be implicit),State Responded -> Waiting on User,Follow-up valid (Waiting on User),good,strength,
+Tech 06,#240173,2026-01-23 12:29,Audit export,All activity (queue may be implicit),Assignee -1 -> Classroom Media Services,Rerouted to correct department/person,good,strength,
+Tech 06,#240217,2026-01-23 15:28,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 06,#240294,2026-01-26 14:39,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Called the user and walked through the reset steps.'
+Tech 06,#240400,2026-01-28 13:22,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Confirmed the issue is resolved with the user.'
+Tech 06,#240404,2026-01-28 16:41,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 06,#240431,2026-01-30 16:13,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Left a voicemail and sent an email with next steps.'
+Tech 06,#240602,2026-02-02 13:49,Audit export,All activity (queue may be implicit),Assignee -1 -> Service Desk,Rerouted to correct department/person,good,strength,
+Tech 06,#240640,2026-02-02 16:40,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Confirmed the issue is resolved with the user.'
+Tech 06,#240742,2026-02-04 16:36,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Called the user and walked through the reset steps.'
+Tech 06,#240878,2026-02-06 14:48,Audit export,All activity (queue may be implicit),Assignee -1 -> Technical Support,Rerouted to correct department/person,good,strength,
+Tech 06,#240997,2026-02-09 16:11,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 06,#241107,2026-02-11 12:52,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 06,#241112,2026-02-11 15:12,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 06,#241228,2026-02-13 13:13,Audit export,All activity (queue may be implicit),Assignee -1 -> Classroom Media Services,Rerouted to correct department/person,good,strength,
+Tech 06,#241200,2026-02-13 13:34,Audit export,All activity (queue may be implicit),Comment edited,Comment edited after posting,neutral,watch,
+Tech 06,#241231,2026-02-13 22:00,Audit export,All activity (queue may be implicit),State Responded -> Waiting on User,Follow-up valid (Waiting on User),good,strength,
+Tech 06,#241332,2026-02-16 16:44,Audit export,All activity (queue may be implicit),Subcategory changed,Subcategory correction needed,issue,issue,
+Tech 06,#241443,2026-02-18 16:03,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 06,#241304,2026-02-20 13:14,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Left a voicemail and sent an email with next steps.'
+Tech 06,#241694,2026-02-23 14:03,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 07,#240144,2026-01-22 12:43,Audit export,All activity (queue may be implicit),Assignee -1 -> Asset Management,Rerouted to correct department/person,good,strength,
+Tech 07,#240152,2026-01-22 15:11,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 07,#240410,2026-01-28 13:08,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Confirmed the issue is resolved with the user.'
+Tech 07,#240416,2026-01-28 15:27,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 07,#240457,2026-01-29 13:37,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 07,#240439,2026-01-29 15:11,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Asked the user for a screenshot of the error.'
+Tech 07,#240684,2026-02-03 13:12,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 07,#240679,2026-02-03 16:33,Audit export,All activity (queue may be implicit),Assignee -1 -> Front Desk Queue,Assigned to Front Desk Queue,good,strength,
+Tech 07,#240748,2026-02-04 16:09,Audit export,All activity (queue may be implicit),Assignee -1 -> Service Desk,Rerouted to correct department/person,good,strength,
+Tech 07,#240819,2026-02-05 14:16,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Called the user and walked through the reset steps.'
+Tech 07,#241010,2026-02-10 12:50,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Reassigned with troubleshooting notes attached.'
+Tech 07,#241058,2026-02-10 13:49,Audit export,All activity (queue may be implicit),Assignee -1 -> Network Services,Rerouted to correct department/person,good,strength,
+Tech 07,#241034,2026-02-10 16:19,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 07,#241124,2026-02-11 14:18,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 07,#241165,2026-02-17 12:23,Audit export,All activity (queue may be implicit),Assignee -1 -> Enterprise Solutions,Rerouted to correct department/person,good,strength,
+Tech 07,#241383,2026-02-17 13:42,Audit export,All activity (queue may be implicit),Assignee -1 -> Classroom Media Services,Rerouted to correct department/person,good,strength,
+Tech 07,#241359,2026-02-17 16:16,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Password template quick resolution,good,strength,
+Tech 07,#241447,2026-02-18 12:30,Audit export,All activity (queue may be implicit),Assignee -1 -> Technical Support,Rerouted to correct department/person,good,strength,
+Tech 07,#241456,2026-02-18 15:08,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Confirmed the issue is resolved with the user.'
+Tech 07,#241450,2026-02-19 12:52,Audit export,All activity (queue may be implicit),Assignee -1 -> Technical Support,Rerouted to correct department/person,good,strength,
+Tech 08,#240312,2026-01-26 11:50,Audit export,All activity (queue may be implicit),Assignee -1 -> Asset Management,Rerouted to correct department/person,good,strength,
+Tech 08,#240379,2026-01-27 11:49,Audit export,All activity (queue may be implicit),Assignee -1 -> Academic Solutions,Rerouted to correct department/person,good,strength,
+Tech 08,#240419,2026-01-28 09:46,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Checked the device in AD; account is active.'
+Tech 08,#240423,2026-01-28 11:04,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Confirmed the issue is resolved with the user.'
+Tech 08,#240641,2026-02-02 11:20,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Left a voicemail and sent an email with next steps.'
+Tech 08,#240689,2026-02-03 08:15,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Asked the user for a screenshot of the error.'
+Tech 08,#240687,2026-02-03 09:30,Audit export,All activity (queue may be implicit),Assignee -1 -> Enterprise Solutions,Rerouted to correct department/person,good,strength,
+Tech 08,#240757,2026-02-04 09:19,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Left a voicemail and sent an email with next steps.'
+Tech 08,#240759,2026-02-04 11:10,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Left a voicemail and sent an email with next steps.'
+Tech 08,#240998,2026-02-09 08:14,Audit export,All activity (queue may be implicit),Assignee -1 -> Network Services,Rerouted to correct department/person,good,strength,
+Tech 08,#241001,2026-02-09 09:18,Audit export,All activity (queue may be implicit),Assignee -1 -> Front Desk Queue,Assigned to Front Desk Queue,good,strength,
+Tech 08,#241069,2026-02-10 08:34,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Asked the user for a screenshot of the error.'
+Tech 08,#241069,2026-02-10 10:09,Audit export,All activity (queue may be implicit),Comment edited,Comment edited after posting,neutral,watch,
+Tech 08,#241076,2026-02-10 10:47,Audit export,All activity (queue may be implicit),Assignee -1 -> Enterprise Solutions,Rerouted to correct department/person,good,strength,
+Tech 08,#241130,2026-02-11 08:38,Audit export,All activity (queue may be implicit),Assignee -1 -> Asset Management,Rerouted to correct department/person,good,strength,
+Tech 08,#241334,2026-02-16 11:30,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 08,#241397,2026-02-17 10:38,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Checked the device in AD; account is active.'
+Tech 08,#241406,2026-02-18 10:58,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 08,#241459,2026-02-18 11:47,Audit export,All activity (queue may be implicit),Assignee -1 -> Enterprise Solutions,Rerouted to correct department/person,good,strength,
+Tech 08,#241702,2026-02-23 10:00,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Confirmed the issue is resolved with the user.'
+Tech 09,#240207,2026-01-23 18:59,Audit export,All activity (queue may be implicit),Assignee -1 -> Classroom Media Services,Rerouted to correct department/person,good,strength,
+Tech 09,#240219,2026-01-23 21:13,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Password template quick resolution,good,strength,
+Tech 09,#240235,2026-01-24 10:14,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 09,#240241,2026-01-24 16:19,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 09,#240321,2026-01-30 20:15,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 09,#240552,2026-01-31 10:02,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 09,#240555,2026-01-31 14:41,Audit export,All activity (queue may be implicit),Comment edited,Comment edited after posting,neutral,watch,
+Tech 09,#240557,2026-01-31 15:11,Audit export,All activity (queue may be implicit),Assignee -1 -> Academic Solutions,Rerouted to correct department/person,good,strength,
+Tech 09,#240874,2026-02-06 17:05,Audit export,All activity (queue may be implicit),Assignee -1 -> Front Desk Queue,Assigned to Front Desk Queue,good,strength,
+Tech 09,#240885,2026-02-06 20:39,Audit export,All activity (queue may be implicit),Assignee -1 -> Technical Support,Rerouted to correct department/person,good,strength,
+Tech 09,#240892,2026-02-06 21:59,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Reassigned with troubleshooting notes attached.'
+Tech 09,#240908,2026-02-07 12:14,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 09,#241225,2026-02-13 20:44,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Left a voicemail and sent an email with next steps.'
+Tech 09,#241236,2026-02-13 21:47,Audit export,All activity (queue may be implicit),Assignee -1 -> Academic Solutions,Rerouted to correct department/person,good,strength,
+Tech 09,#241239,2026-02-13 22:52,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Called the user and walked through the reset steps.'
+Tech 09,#241096,2026-02-14 11:25,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Confirmed the issue is resolved with the user.'
+Tech 09,#241255,2026-02-14 15:54,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 09,#241533,2026-02-20 17:23,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 09,#241593,2026-02-20 18:47,Audit export,All activity (queue may be implicit),Assignee -1 -> Enterprise Solutions,Rerouted to correct department/person,good,strength,
+Tech 09,#241601,2026-02-20 22:52,Audit export,All activity (queue may be implicit),Assignee -1 -> Front Desk Queue,Assigned to Front Desk Queue,good,strength,
+Tech 10,#240155,2026-01-22 08:56,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Called the user and walked through the reset steps.'
+Tech 10,#240155,2026-01-22 09:01,Audit export,All activity (queue may be implicit),Assignee -1 -> Academic Solutions,Rerouted to correct department/person,good,strength,
+Tech 10,#240157,2026-01-22 11:47,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'ok'
+Tech 10,#240314,2026-01-26 17:58,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Password template quick resolution,good,strength,
+Tech 10,#240321,2026-01-26 19:16,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 10,#240317,2026-01-26 22:11,Audit export,All activity (queue may be implicit),Assignee -1 -> Classroom Media Services,Rerouted to correct department/person,good,strength,
+Tech 10,#240342,2026-01-28 17:52,Audit export,All activity (queue may be implicit),State Responded -> Waiting on User,Follow-up valid (Waiting on User),good,strength,
+Tech 10,#240428,2026-01-28 18:01,Audit export,All activity (queue may be implicit),Assignee -1 -> Classroom Media Services,Rerouted to correct department/person,good,strength,
+Tech 10,#240471,2026-01-29 11:43,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Confirmed the issue is resolved with the user.'
+Tech 10,#240826,2026-02-05 09:54,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Password template quick resolution,good,strength,
+Tech 10,#240826,2026-02-06 09:59,Audit export,All activity (queue may be implicit),State Resolved -> Reopened by Client,Reopened ticket (neutral per policy),neutral,neutral,
+Tech 10,#241045,2026-02-11 17:30,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Password template quick resolution,good,strength,
+Tech 10,#241187,2026-02-12 09:24,Audit export,All activity (queue may be implicit),Assignee -1 -> Enterprise Solutions,Rerouted to correct department/person,good,strength,
+Tech 10,#241337,2026-02-16 17:29,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Following up: waiting on the user to test again.'
+Tech 10,#241337,2026-02-16 17:35,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 10,#241461,2026-02-18 17:49,Audit export,All activity (queue may be implicit),Category changed,Category correction needed,issue,issue,
+Tech 10,#241463,2026-02-18 19:35,Audit export,All activity (queue may be implicit),Assignee -1 -> Enterprise Solutions,Rerouted to correct department/person,good,strength,
+Tech 10,#241255,2026-02-18 19:45,Audit export,All activity (queue may be implicit),Assignee -1 -> Front Desk Queue,Assigned to Front Desk Queue,good,strength,
+Tech 10,#241549,2026-02-23 19:31,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Password template quick resolution,good,strength,
+Tech 10,#241709,2026-02-23 21:04,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Reassigned with troubleshooting notes attached.'
+Tech 11,#240159,2026-01-22 14:14,Audit export,All activity (queue may be implicit),Assignee -1 -> Asset Management,Rerouted to correct department/person,good,strength,
+Tech 11,#240226,2026-01-23 08:48,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Checked the device in AD; account is active.'
+Tech 11,#240226,2026-01-23 11:38,Audit export,All activity (queue may be implicit),Category changed,Category correction needed,issue,issue,
+Tech 11,#240381,2026-01-27 08:50,Audit export,All activity (queue may be implicit),Category changed,Category correction needed,issue,issue,
+Tech 11,#240381,2026-01-27 08:55,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 11,#240384,2026-01-27 09:03,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Asked the user for a screenshot of the error.'
+Tech 11,#240384,2026-01-27 09:08,Audit export,All activity (queue may be implicit),Assignee -1 -> Academic Solutions,Rerouted to correct department/person,good,strength,
+Tech 11,#240473,2026-01-29 15:51,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 11,#240473,2026-01-29 15:56,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 11,#240533,2026-01-30 11:27,Audit export,All activity (queue may be implicit),Assignee -1 -> Front Desk Queue,Assigned to Front Desk Queue,good,strength,
+Tech 11,#240837,2026-02-05 13:17,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 11,#240841,2026-02-05 15:02,Audit export,All activity (queue may be implicit),Category changed,Category correction needed,issue,issue,
+Tech 11,#240841,2026-02-05 15:07,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Password template quick resolution,good,strength,
+Tech 11,#240809,2026-02-06 10:59,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Checked the device in AD; account is active.'
+Tech 11,#241169,2026-02-13 10:35,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Checked the device in AD; account is active.'
+Tech 11,#241403,2026-02-17 09:52,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 11,#241408,2026-02-17 10:00,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Following up: waiting on the user to test again.'
+Tech 11,#241407,2026-02-17 10:38,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Following up: waiting on the user to test again.'
+Tech 11,#241410,2026-02-17 11:05,Audit export,All activity (queue may be implicit),Subcategory changed,Subcategory correction needed,issue,issue,
+Tech 11,#241410,2026-02-17 11:11,Audit export,All activity (queue may be implicit),Assignee -1 -> Classroom Media Services,Rerouted to correct department/person,good,strength,
+Tech 12,#240538,2026-01-30 12:58,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 12,#240538,2026-01-30 13:03,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 12,#240462,2026-01-30 14:16,Audit export,All activity (queue may be implicit),Category changed,Category correction needed,issue,issue,
+Tech 12,#240462,2026-02-02 14:54,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 12,#240462,2026-02-02 14:57,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 12,#240636,2026-02-02 15:45,Audit export,All activity (queue may be implicit),Subcategory changed,Subcategory correction needed,issue,issue,
+Tech 12,#240636,2026-02-02 15:51,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Asked the user for a screenshot of the error.'
+Tech 12,#240636,2026-02-02 15:54,Audit export,All activity (queue may be implicit),Assignee -1 -> Service Desk,Rerouted to correct department/person,good,strength,
+Tech 12,#240545,2026-02-02 15:56,Audit export,All activity (queue may be implicit),State Assigned -> Resolved,Resolved ticket,good,strength,
+Tech 12,#240545,2026-02-02 16:02,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 12,#240766,2026-02-04 11:09,Audit export,All activity (queue may be implicit),Assignee -1 -> Academic Solutions,Rerouted to correct department/person,good,strength,
+Tech 12,#241010,2026-02-09 13:30,Audit export,All activity (queue may be implicit),State Responded -> Waiting on User,Follow-up valid (Waiting on User),good,strength,
+Tech 12,#241138,2026-02-11 09:10,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Checked the device in AD; account is active.'
+Tech 12,#241141,2026-02-11 10:35,Audit export,All activity (queue may be implicit),Category changed,Category correction needed,issue,issue,
+Tech 12,#241141,2026-02-11 10:36,Audit export,All activity (queue may be implicit),Assignee -1 -> Network Services,Rerouted to correct department/person,good,strength,
+Tech 12,#241340,2026-02-16 12:49,Audit export,All activity (queue may be implicit),Assignee -1 -> Enterprise Solutions,Rerouted to correct department/person,good,strength,
+Tech 12,#241344,2026-02-16 12:54,Audit export,All activity (queue may be implicit),Assignee -1 -> Technical Support,Rerouted to correct department/person,good,strength,
+Tech 12,#241712,2026-02-23 13:02,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Following up: waiting on the user to test again.'
+Tech 13,#240165,2026-01-22 17:37,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Reassigned with troubleshooting notes attached.'
+Tech 13,#240165,2026-01-22 17:38,Audit export,All activity (queue may be implicit),Assignee -1 -> Network Services,Rerouted to correct department/person,good,strength,
+Tech 13,#240168,2026-01-22 18:07,Audit export,All activity (queue may be implicit),Assignee -1 -> Enterprise Solutions,Rerouted to correct department/person,good,strength,
+Tech 13,#240474,2026-01-29 18:23,Audit export,All activity (queue may be implicit),Category changed,Category correction needed,issue,issue,
+Tech 13,#240474,2026-01-29 18:28,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 13,#240478,2026-01-29 19:52,Audit export,All activity (queue may be implicit),State Responded -> Waiting on User,Follow-up valid (Waiting on User),good,strength,
+Tech 13,#240581,2026-02-01 17:31,Audit export,All activity (queue may be implicit),Assignee -1 -> Front Desk Queue,Assigned to Front Desk Queue,good,strength,
+Tech 13,#240843,2026-02-05 17:53,Audit export,All activity (queue may be implicit),Assignee -1 -> Asset Management,Rerouted to correct department/person,good,strength,
+Tech 13,#240846,2026-02-05 22:01,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Reassigned with troubleshooting notes attached.'
+Tech 13,#240932,2026-02-08 16:21,Audit export,All activity (queue may be implicit),State Assigned -> Responded,Initial handling response,good,strength,
+Tech 13,#241192,2026-02-12 22:10,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Asked the user for a screenshot of the error.'
+Tech 13,#241276,2026-02-15 10:53,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Confirmed the issue is resolved with the user.'
+Tech 13,#241284,2026-02-15 12:07,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Asked the user for a screenshot of the error.'
+Tech 13,#241284,2026-02-15 12:14,Audit export,All activity (queue may be implicit),Resolution code set,Closure documentation,good,strength,
+Tech 13,#241280,2026-02-15 12:32,Audit export,All activity (queue may be implicit),State Responded -> Waiting on User,Follow-up valid (Waiting on User),good,strength,
+Tech 13,#241537,2026-02-19 18:29,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Asked the user for a screenshot of the error.'
+Tech 13,#241539,2026-02-19 20:52,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Confirmed the issue is resolved with the user.'
+Tech 13,#241541,2026-02-19 21:20,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Called the user and walked through the reset steps.'
+Tech 13,#241641,2026-02-22 10:26,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Called the user and walked through the reset steps.'
+Tech 13,#241603,2026-02-22 14:46,Audit export,All activity (queue may be implicit),Comment added,Follow-up valid (Comment added),good,strength,Comment added 'Following up: waiting on the user to test again.'
+Tech 14,#241713,2026-01-27 14:42,Queue PDF,Front Desk Queue feed,Comment added,PDF-only partial context,neutral,neutral,Included as partial context; full audit coverage unavailable
+Tech 14,#241719,2026-01-29 15:34,Queue PDF,Front Desk Queue feed,Comment added,PDF-only partial context,neutral,neutral,Included as partial context; full audit coverage unavailable
+Tech 14,#241722,2026-01-31 16:15,Queue PDF,Front Desk Queue feed,Comment added,PDF-only partial context,neutral,neutral,Included as partial context; full audit coverage unavailable
+Tech 14,#241725,2026-02-19 10:12,Queue PDF,Front Desk Queue feed,Assignment,PDF-only partial context,neutral,neutral,Included as partial context; full audit coverage unavailable
+Tech 14,#241716,2026-02-21 12:18,Queue PDF,Front Desk Queue feed,Assignment,PDF-only partial context,neutral,neutral,Included as partial context; full audit coverage unavailable
+Tech 15,#241743,2026-01-28 13:55,Queue PDF,Front Desk Queue feed,Assignment,PDF-only partial context,neutral,neutral,Included as partial context; full audit coverage unavailable
+Tech 15,#241740,2026-01-28 16:59,Queue PDF,Front Desk Queue feed,Assignment,PDF-only partial context,neutral,neutral,Included as partial context; full audit coverage unavailable
+Tech 15,#241726,2026-02-06 10:09,Queue PDF,Front Desk Queue feed,Assignment,PDF-only partial context,neutral,neutral,Included as partial context; full audit coverage unavailable
+Tech 15,#241737,2026-02-06 11:10,Queue PDF,Front Desk Queue feed,State change,PDF-only partial context,neutral,neutral,Included as partial context; full audit coverage unavailable
+Tech 15,#241745,2026-02-09 10:44,Queue PDF,Front Desk Queue feed,State change,PDF-only partial context,neutral,neutral,Included as partial context; full audit coverage unavailable
+Tech 15,#241733,2026-02-11 13:13,Queue PDF,Front Desk Queue feed,State change,PDF-only partial context,neutral,neutral,Included as partial context; full audit coverage unavailable
+Tech 15,#241730,2026-02-12 15:29,Queue PDF,Front Desk Queue feed,Comment added,PDF-only partial context,neutral,neutral,Included as partial context; full audit coverage unavailable
